@@ -1,0 +1,3537 @@
+[
+    {
+        "id": "contraposition_0",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "クラシック音楽を理解しないなら、その深い感動を味わえないだろう。つまり、クラシック音楽の深い感動を味わうには、それを理解する必要がある。"
+    },
+    {
+        "id": "contraposition_1",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし誕生日パーティーに参加しないなら、きっと友人を喜ばせることはできないだろう。つまり、友人を喜ばせることができるなら、必ず誕生日パーティーに参加するはずだ。"
+    },
+    {
+        "id": "contraposition_2",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "海洋学者は海の生物について詳しいはずだ。しかし、ある人物が海の生物について何も知らないのであれば、その人が海洋学者だとは考えられない。"
+    },
+    {
+        "id": "contraposition_3",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ジャムを作れない人は、ジャムの製造工程を理解していないと言えるだろう。逆に、ジャムの製造工程を理解している人は、ジャムを作ることができるはずだ。"
+    },
+    {
+        "id": "contraposition_4",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "聴衆の注意を引き付けられなければ、プレゼンテーションは失敗したと言わざるを得ない。しかし、聴衆が熱心に聞き入っているのを見れば、プレゼンテーションは成功していると判断できる。"
+    },
+    {
+        "id": "contraposition_5",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "折り紙を楽しむには、紙の特性を理解し、創造性を発揮することが重要だ。紙の特性を理解せず、創造性を発揮できなければ、折り紙を楽しむことはできない。つまり、紙の特性を理解せず、創造性を発揮できないのであれば、折り紙を楽しむことはできないのである。"
+    },
+    {
+        "id": "contraposition_6",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "自然科学の基礎知識がなければ、新しい発見をすることはできない。しかし、私たちが新しい発見をしているということは、自然科学の基礎知識があることを示している。"
+    },
+    {
+        "id": "contraposition_7",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "趣味を持っている人は、必ず充実した人生を送っているはずだ。つまり、充実した人生を送っていない人は、趣味を持っていないということになる。"
+    },
+    {
+        "id": "contraposition_8",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "サーフィンをしない人は、波に乗れないはずだ。したがって、波に乗れる人は、必ずサーフィンをしているはずだ。"
+    },
+    {
+        "id": "contraposition_9",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし海底考古学の専門家でなければ、海底遺跡を発見することはできない。つまり、海底遺跡を発見できる人は、必ず海底考古学の専門家である。"
+    },
+    {
+        "id": "contraposition_10",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "健康的な食事をしないと、体調管理ができないだろう。つまり、体調管理ができるなら、健康的な食事をしているはずだ。"
+    },
+    {
+        "id": "contraposition_11",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ドローン撮影を行うには、空中からの視点を活かすことが重要だ。空中からの視点を活かせなければ、ドローン撮影の意味はない。つまり、空中からの視点を活かせないのであれば、ドローン撮影を行うべきではないのである。"
+    },
+    {
+        "id": "contraposition_12",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ラジオDJになるには、流暢な話し言葉と魅力的な声質が必要不可欠だ。そうでなければ、ラジオDJとしての仕事を得ることはできない。"
+    },
+    {
+        "id": "contraposition_13",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "伝統工芸品を大切に扱うことは、その技術を次世代に継承するために重要だ。大切に扱わないなら、その技術を次世代に残すことはできないだろう。"
+    },
+    {
+        "id": "contraposition_14",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ダンサーが正しいリズムを刻まなければ、美しく踊れないはずだ。しかし、その動きがぎこちないのを見れば、リズムが取れていなかったことが分かる。"
+    },
+    {
+        "id": "contraposition_15",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "環境に配慮しない人は、エコ製品を使わない。しかし、エコ製品を使っている人が、必ずしも環境に配慮しているわけではない。つまり、エコ製品を使っていない人が、環境に配慮していないとは限らない。"
+    },
+    {
+        "id": "contraposition_16",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "職業訓練の経験がなければ、特定の技術を習得することはできない。つまり、特定の技術を習得できる人は、必ず職業訓練の経験がある。"
+    },
+    {
+        "id": "contraposition_17",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "自然の中を歩かないなら、木々の香りを楽しめない。木々の香りを楽しめないなら、自然の中を歩いているはずだ。"
+    },
+    {
+        "id": "contraposition_18",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "アルガルバイオ燃料の研究を行わなければ、持続可能な燃料の開発はできません。つまり、持続可能な燃料を開発できるということは、アルガルバイオ燃料の研究を行っているということです。"
+    },
+    {
+        "id": "contraposition_19",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "感情知性が高くない人は、他者の気持ちを理解することができない。つまり、他者の気持ちを理解できる人は、感情知性が高いはずだ。"
+    },
+    {
+        "id": "contraposition_20",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "この会社の製品は高品質であるはずだ。しかし、ある顧客が製品に不満を持っているのであれば、その製品が高品質だとは言えない。"
+    },
+    {
+        "id": "contraposition_21",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私が手作りの石鹸を作るのが好きでないなら、私は決して石鹸作りのワークショップに参加しないだろう。しかし、私はそのワークショップに参加している。したがって、私は手作りの石鹸を作るのが好きなのだ。"
+    },
+    {
+        "id": "contraposition_22",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "企業が倫理的な行動をとらなければ、長期的に社会から信頼されることはできない。なぜなら、倫理的な企業こそが、顧客や地域社会から支持され、持続可能な発展を遂げられるからだ。"
+    },
+    {
+        "id": "contraposition_23",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "遺伝子治療を受けた患者に深刻な副作用が発生しない。ならば、遺伝子治療は安全だ。"
+    },
+    {
+        "id": "contraposition_24",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "スクラップブッキングの技術を習得していない人は、素敵なアルバムを作れない。しかし、素敵なアルバムを作れるのであれば、その人はその技術を習得していると言えるだろう。"
+    },
+    {
+        "id": "contraposition_25",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "リモートワークをしないと、仕事と生活のバランスを取るのが難しい。でも、リモートワークをすれば、柔軟な働き方ができるはずだ。"
+    },
+    {
+        "id": "contraposition_26",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "文学批評家が本を読まないなら、彼らは自分の仕事を適切に行うことはできない。逆に言えば、文学批評家が本を読んでいるなら、彼らは自分の仕事を適切に行えるはずだ。"
+    },
+    {
+        "id": "contraposition_27",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "SNSを使っていなければ、オンラインでの人間関係を築くことはできない。つまり、オンラインでの人間関係を築けるのは、SNSを使っている人だけだ。"
+    },
+    {
+        "id": "contraposition_28",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ドキュメンタリー映画を制作しなければ、社会問題を深く掘り下げることはできない。一方、ドキュメンタリー映画を制作すれば、現実を生々しく描くことができるはずだ。"
+    },
+    {
+        "id": "contraposition_29",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "花を上手に生けられないと、花の扱いに慣れていないはずだ。しかし、私の生けた花は素晴らしい出来栄えだと評判だ。つまり、私は花の扱いに慣れているということだ。"
+    },
+    {
+        "id": "contraposition_30",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "トレイルランニングをしない人は、運動が好きではない人ではない。運動が好きではない人は、トレイルランニングをしない人ではない。"
+    },
+    {
+        "id": "contraposition_31",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "アーティストではない人は、絵を描くことができない。しかし、絵を描くことができる人が、必ずしもアーティストであるわけではない。つまり、絵を描くことができない人がアーティストではないとは限らない。"
+    },
+    {
+        "id": "contraposition_32",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "絵を描けない人は、アーティストではない。アーティストであれば、絵画制作の技術を持っているはずだ。"
+    },
+    {
+        "id": "contraposition_33",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "森林保護が重要でないなら、それは重要ではないはずだ。つまり、森林保護は重要だと言えるのではないだろうか。"
+    },
+    {
+        "id": "contraposition_34",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "国際法に詳しい弁護士でなければ、この複雑な条約を理解することはできない。しかし、私はその条約の内容を説明できるので、私は国際法に詳しい弁護士だと言えるはずだ。"
+    },
+    {
+        "id": "contraposition_35",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ごみの分別をしていないのであれば、リサイクルは進まない。リサイクルが進んでいるのなら、ごみの分別をしていることになる。"
+    },
+    {
+        "id": "contraposition_36",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ファンタジーフットボールをしていないなら、リーグ順位を予想することはできない。つまり、リーグ順位を正確に予想できたなら、ファンタジーフットボールをしていたはずだ。"
+    },
+    {
+        "id": "contraposition_37",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "サーフボードを製作する技術がなければ、サーフィンに必要なボードを作ることはできない。つまり、サーフィンに必要なボードを作れる人は、必ずサーフボード製作の技術を持っている。"
+    },
+    {
+        "id": "contraposition_38",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "昆虫を集めていなければ、その生態を詳しく知ることはできない。つまり、昆虫の生態を詳しく知れるのは、昆虫を集めている人だけだ。"
+    },
+    {
+        "id": "contraposition_39",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "不動産に投資しない人は、家を持たない。不動産に投資する人は、必ず家を持つ。"
+    },
+    {
+        "id": "contraposition_40",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "革製品作りには、丁寧な仕上げが重要だ。丁寧に仕上げなければ、製品の品質は落ちてしまう。"
+    },
+    {
+        "id": "contraposition_41",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "登山の安全対策が整備されなければ、登山の魅力は失われる。つまり、登山の魅力を維持するには、登山の安全対策の整備が必要不可欠だ。"
+    },
+    {
+        "id": "contraposition_42",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "サーフボードの製造技術がなければ、サーフィンに適したボードを作ることはできない。つまり、サーフィンに適したボードを作れる人は、必ずサーフボードの製造技術を持っている。"
+    },
+    {
+        "id": "contraposition_43",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "動物園で働いている人は、動物の世話をしない人ではない。動物の世話をしない人は、動物園で働いている人ではない。"
+    },
+    {
+        "id": "contraposition_44",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "写真集を完成させるには、写真を選別し編集する必要がある。写真を選別し編集しなければ、写真集を完成させることはできない。"
+    },
+    {
+        "id": "contraposition_45",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "トレイルを走破するには、体力と持久力が必要だ。体力と持久力がなければ、トレイルを走破することはできない。"
+    },
+    {
+        "id": "contraposition_46",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "プログラミングができない人は、エンジニアではない。エンジニアであれば、コードを書くことができるはずだ。"
+    },
+    {
+        "id": "contraposition_47",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "植物性料理に肉料理に劣らない味わいがなければ、肉料理ファンの支持を得られないだろう。しかし、肉料理ファンも満足する味わいの植物性料理を食べれば、植物性料理の可能性を感じられるはずだ。"
+    },
+    {
+        "id": "contraposition_48",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "スケッチができない人は、アーティストではない。しかし、アーティストである人が、必ずしもスケッチができるわけではない。つまり、スケッチができない人がアーティストではないとは限らない。"
+    },
+    {
+        "id": "contraposition_49",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "バーベキューを楽しむには、適切な設備と材料が必要不可欠だ。つまり、適切な設備と材料がなければ、バーベキューを楽しむことはできない。"
+    },
+    {
+        "id": "contraposition_50",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "国際会議に参加するには、外国語を話せる必要がある。外国語を話せなければ、国際会議に参加することはできない。"
+    },
+    {
+        "id": "contraposition_51",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "趣味を持っていない人は、充実した人生を送ることはできない。つまり、充実した人生を送っている人は、必ず何らかの趣味を持っているということになる。"
+    },
+    {
+        "id": "contraposition_52",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私が野生の食べ物を見分ける知識がなければ、採集活動は危険だ。しかし、私は安全に帰ってこられたので、私は野生の食べ物の見分け方を熟知していると言えるはずだ。"
+    },
+    {
+        "id": "contraposition_53",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "再生可能エネルギーが効果的でないなら、それは効果的であるはずがない。つまり、再生可能エネルギーは効果的だと言えるだろう。"
+    },
+    {
+        "id": "contraposition_54",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "創造的な作品を生み出せない人は、創造的ではない。しかし、創造的な人が、必ずしも創造的な作品を生み出すわけではない。つまり、創造的な作品を生み出せない人が、創造的ではないとは限らない。"
+    },
+    {
+        "id": "contraposition_55",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ゆっくりと過ごす時間を楽しめない人は、手作りのろうそくを使わない。ならば、手作りのろうそくを使う人は、ゆっくりと過ごす時間を楽しめる。"
+    },
+    {
+        "id": "contraposition_56",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "暗号化の仕組みを知らなければ、機密情報を安全に共有することはできない。つまり、機密情報を安全に共有できるのは、暗号化の仕組みを知っている人だけだ。"
+    },
+    {
+        "id": "contraposition_57",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "サーカスのパフォーマンスをしない人は、観客を楽しませられないはずだ。したがって、観客を楽しませられる人は、きっとサーカスのパフォーマンスをしているはずだ。"
+    },
+    {
+        "id": "contraposition_58",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "革製品を作るには、丈夫な革と適切な道具が必要不可欠だ。そうでなければ、高品質な製品は作れない。"
+    },
+    {
+        "id": "contraposition_59",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ビジネス倫理を守らない企業は、必ず長期的に成功することはできない。なぜなら、ビジネス倫理を重視する企業こそが、顧客や社会から信頼され、持続可能な成長を遂げられるからだ。"
+    },
+    {
+        "id": "contraposition_60",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "バレエの経験がなければ、バレエの振付を理解することはできない。つまり、バレエの振付を理解できる人は、必ずバレエの経験がある。"
+    },
+    {
+        "id": "contraposition_61",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "太極拳の稽古に励まないのであれば、心身の調和を実現することはできない。つまり、心身の調和を実現できるなら、必ず太極拳の稽古に励んでいるはずだ。"
+    },
+    {
+        "id": "contraposition_62",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "健康的な食事をしないなら、栄養が不足するだろう。つまり、栄養が十分なら、健康的な食事をしているはずだ。"
+    },
+    {
+        "id": "contraposition_63",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "フラメンコの歴史を知らない人は、フラメンコの文化的意義を理解することはできない。そのため、フラメンコの文化的意義を理解できる人は、フラメンコの歴史を知っているはずだ。"
+    },
+    {
+        "id": "contraposition_64",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ジグソーパズルを楽しむには、パーツを正しく組み立てられなければならない。しかし、完成したパズルを見れば、パーツが正しく組み立てられていたことがわかる。"
+    },
+    {
+        "id": "contraposition_65",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "太極拳を練習しないのであれば、心身の調和を得ることはできない。つまり、心身の調和を得られるなら、必ず太極拳を練習しているはずだ。"
+    },
+    {
+        "id": "contraposition_66",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ジェンダーに関する偏見を持っていない人は、男女平等を支持する。しかし、私は男女平等を支持している。だから、私にはジェンダーに関する偏見はないはずだ。"
+    },
+    {
+        "id": "contraposition_67",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "人間関係が大切でないなら、それは大切ではないはずだ。つまり、人間関係は大切だと言えるのではないか。"
+    },
+    {
+        "id": "contraposition_68",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "パーティーの準備をしていないなら、そのパーティーは成功しないはずだ。でも、そのパーティーは大成功だったので、私たちがしっかりとパーティーの準備をしていたことが分かる。"
+    },
+    {
+        "id": "contraposition_69",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "データ分析を行う人は、データサイエンティストである。データサイエンティストではない人は、データ分析を行わない人である。"
+    },
+    {
+        "id": "contraposition_70",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "彫刻家でない人は、彫刻を作ることはできない。でも、彫刻を作ることができる人は、必ずしも彫刻家ではない。つまり、彫刻を作れない人が、彫刻家ではないとは限らない。"
+    },
+    {
+        "id": "contraposition_71",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "パーティーの準備をしていないなら、そのパーティーは成功しないはずだ。しかし、そのパーティーは大盛況だったので、私たちがしっかりとパーティーの準備をしていたことが分かる。"
+    },
+    {
+        "id": "contraposition_72",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし森林浴をしないなら、心が落ち着かないだろう。つまり、心が落ち着いているなら、きっと森林浴をしているはずだ。"
+    },
+    {
+        "id": "contraposition_73",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "企業研修に参加すれば、必ず仕事に役立つ知識が得られるはずだ。しかし、ある社員が企業研修で何も学べなかったのであれば、その社員が研修に参加したとは考えにくい。"
+    },
+    {
+        "id": "contraposition_74",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "テキスタイルデザインには、素材の特性を理解し、それに合わせた表現方法を見出す力が必要だ。そうでなければ、魅力的な作品は生み出せない。つまり、素材の特性を理解せず、適切な表現方法を見出せなければ、素晴らしいテキスタイルデザインは生み出せないのである。"
+    },
+    {
+        "id": "contraposition_75",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "手作りのろうそくを使わない人は、ゆっくりと過ごす時間を楽しめない。なぜなら、手作りのろうそくを使わないと、ゆっくりと過ごす時間を楽しめないからだ。"
+    },
+    {
+        "id": "contraposition_76",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "音響設備を整えていなければ、良い音質を得られないはずだ。でも、私は常に最新の音響設備を使っているので、素晴らしい音質を実現できている。"
+    },
+    {
+        "id": "contraposition_77",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "陶器を高温で焼かなければ、丈夫にはならないはずだ。しかし、その陶器が簡単に割れるのを見れば、低温で焼かれていたことが分かる。"
+    },
+    {
+        "id": "contraposition_78",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "エコ製品を使わない人は、環境に配慮していない。つまり、環境に配慮している人は、必ずエコ製品を使っているはずだ。"
+    },
+    {
+        "id": "contraposition_79",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私がパンの製造工程を理解していなければ、美味しいパンを焼くことはできない。しかし、私は完璧な食感と風味のパンを作れたので、パン作りの技術を身につけていると言えるはずだ。"
+    },
+    {
+        "id": "contraposition_80",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし誰かが本を製本できないのであれば、その人は本の価値を理解していないはずだ。しかし、この職人は本の製本に長けており、本の価値を深く理解している。つまり、彼は確実に本を製本することができるのだ。"
+    },
+    {
+        "id": "contraposition_81",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "マジックのトリックを知らない人は、観客を驚かせることはできない。なぜなら、マジックのトリックを知らないと、観客を驚かせることはできないからだ。"
+    },
+    {
+        "id": "contraposition_82",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "映画祭に参加したくない人は、絶対に映画祭のボランティアをしないはずだ。しかし、私はそのボランティアをしている。つまり、私は映画祭に参加したいと思っているのだ。"
+    },
+    {
+        "id": "contraposition_83",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "イベントの運営に携わらない人は、成功を収めることはできない。つまり、成功を収めているイベントは、必ず適切な運営がなされているということになる。"
+    },
+    {
+        "id": "contraposition_84",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "都市部での農業は、環境に優しく持続可能な方法だと言えるだろう。環境に優しくなく、持続可能でないなら、都市部での農業とは呼べないはずだ。"
+    },
+    {
+        "id": "contraposition_85",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし動物の剥製を作るのが違法だとしたら、それは違法ではないはずだ。つまり、動物の剥製を作ることは合法的だと言えるだろう。"
+    },
+    {
+        "id": "contraposition_86",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "キルトを作る人は、必ず創造性を発揮できるはずだ。つまり、創造性を発揮できない人は、キルトを作っていないということだ。"
+    },
+    {
+        "id": "contraposition_87",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ジグソーパズルを組み立てられない人は、ジグソーパズルが好きではない人ではない。ジグソーパズルが好きではない人は、ジグソーパズルを組み立てられない人ではない。"
+    },
+    {
+        "id": "contraposition_88",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "タトゥーアーティストの技術が向上しなければ、タトゥーの質は良くならない。つまり、質の高いタトゥーを得るには、アーティストの技術向上が不可欠だ。"
+    },
+    {
+        "id": "contraposition_89",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "星空撮影には、三脚の使用が不可欠だ。三脚を使わなければ、ぼやけた写真しか撮れない。"
+    },
+    {
+        "id": "contraposition_90",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私が野生の植物を見分ける能力がなければ、採集活動は危険だ。しかし、私は毒性のある植物を避けて安全に帰ってこられたので、私は野生植物の見分け方を知っていると言えるだろう。"
+    },
+    {
+        "id": "contraposition_91",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "色彩理論を理解していない人は、色の組み合わせを適切に選ぶことができない。しかし、色の組み合わせを適切に選べるのであれば、その人は色彩理論を理解していると言えるだろう。"
+    },
+    {
+        "id": "contraposition_92",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "舞台芸術を鑑賞しなければ、その臨場感を味わえない。一方、舞台芸術を鑑賞すれば、生の迫力を体験できるはずだ。"
+    },
+    {
+        "id": "contraposition_93",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "金属加工の技術を習得しなければ、精密な部品を製造することはできません。つまり、精密な部品を製造できるということは、金属加工の技術を習得しているということです。"
+    },
+    {
+        "id": "contraposition_94",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私が国際法の専門家でなければ、この紛争の解決策を提案することはできない。しかし、私はその問題の核心を的確に指摘できたので、この分野に精通していると言えるだろう。"
+    },
+    {
+        "id": "contraposition_95",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "コメディを面白いと思わない人は、笑いを楽しめる人ではない。つまり、笑いを楽しめる人は、コメディを面白いと思う人でもある。"
+    },
+    {
+        "id": "contraposition_96",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ガラスモザイクアートを作れる人は、アーティストである。なぜなら、アーティストはガラスモザイクアートを作ることができるからだ。"
+    },
+    {
+        "id": "contraposition_97",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし映画の撮影が順調に進まないなら、それは必ず何か問題があるからに違いない。逆に、撮影が順調に進んでいるのであれば、問題はないと言えるだろう。"
+    },
+    {
+        "id": "contraposition_98",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし彼女がジュエリーデザイナーでなければ、彼女は絶対にこの仕事に向いていないはずだ。しかし、彼女は非常に才能があり、クリエイティビティに溢れているので、この仕事に完璧に適していることが証明されている。"
+    },
+    {
+        "id": "contraposition_99",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし新しい環境保護法が施行されなければ、企業は汚染を続けるだろう。しかし、企業が汚染を続けていないのであれば、新しい環境保護法が施行されているはずだ。"
+    },
+    {
+        "id": "contraposition_100",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "天体観測を行わないのであれば、宇宙の神秘を感じ取ることはできない。つまり、宇宙の神秘を感じ取れるなら、必ず天体観測を行っているはずだ。"
+    },
+    {
+        "id": "contraposition_101",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "バレエの基本動作を理解していない人は、バレエの振付を創造することはできない。つまり、バレエの振付を創造できる人は、バレエの基本動作を理解している人である。"
+    },
+    {
+        "id": "contraposition_102",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "陶器を丁寧に扱わなければ、傷つかないはずだ。しかし、その表面に傷がついているのを見れば、乱暴に扱われていたことが分かる。"
+    },
+    {
+        "id": "contraposition_103",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ファンタジー小説の創作手法を学ばなければ、魅力的な架空の世界を描くことはできません。つまり、魅力的な架空の世界を描けるということは、ファンタジー小説の創作手法を学んでいるということです。"
+    },
+    {
+        "id": "contraposition_104",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "平和構築に取り組まない人は、紛争解決に貢献することができない。つまり、紛争解決に貢献できる人は、平和構築に取り組んでいるはずだ。"
+    },
+    {
+        "id": "contraposition_105",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私の家が再生可能エネルギーを使っていないなら、私の家は環境に優しくないはずだ。しかし、私の家は太陽光発電を導入しているので、私の家は環境に優しいことが証明できる。"
+    },
+    {
+        "id": "contraposition_106",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "スマートシティに住んでいる人は、必ず便利な生活を送っているはずだ。つまり、便利な生活を送っていない人は、スマートシティに住んでいないということだ。"
+    },
+    {
+        "id": "contraposition_107",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "小説の構造を理解していなければ、魅力的な物語を書けないはずだ。でも、私は小説の構造を徹底的に学んでいるので、素晴らしい物語を生み出すことができる。"
+    },
+    {
+        "id": "contraposition_108",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "デジタル化が進んでいなければ、業務の生産性は上がらない。生産性が上がっているのであれば、デジタル化が進んでいると言えるだろう。"
+    },
+    {
+        "id": "contraposition_109",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "医療技術が進歩しなければ、人々の健康は守れない。つまり、人々の健康を守るには、医療技術の進歩が必要不可欠だ。"
+    },
+    {
+        "id": "contraposition_110",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "音楽を聴かない人は、音楽を楽しまない。音楽を聴く人は、必ず音楽を楽しむ。"
+    },
+    {
+        "id": "contraposition_111",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "公衆衛生の専門家でない人は、地域の健康課題を特定することはできない。つまり、地域の健康課題を特定できる人は、公衆衛生の専門家であると考えられる。"
+    },
+    {
+        "id": "contraposition_112",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "カクテルの調理には、正しい材料の配合と混ぜ方の技術が必要不可欠だ。そうしなければ、バランスの取れた味わいは得られない。つまり、材料の配合と混ぜ方の技術がなければ、美味しいカクテルは作れないのだ。"
+    },
+    {
+        "id": "contraposition_113",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "パーティーを楽しめない人は、人と交流したい人ではない。つまり、人と交流したい人は、パーティーを楽しめる人でもある。"
+    },
+    {
+        "id": "contraposition_114",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ストリートダンスの基礎を習得していなければ、上級のダンスを踊れないはずだ。しかし、私は基礎から丁寧に学んできたので、高度なダンスを自由に表現できるようになった。"
+    },
+    {
+        "id": "contraposition_115",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "医療技術の進歩がなければ、高齢化社会の課題は解決できない。つまり、高齢化社会の課題を解決するには、医療技術の進歩が欠かせない。"
+    },
+    {
+        "id": "contraposition_116",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし火渡りをしないなら、勇気がないと言えるだろう。つまり、勇気がある人は、必ず火渡りをしているはずだ。"
+    },
+    {
+        "id": "contraposition_117",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "映画祭で賞を受賞するには、作品の独創性と完成度が高くなければならない。そうでなければ、賞を受賞することはできない。"
+    },
+    {
+        "id": "contraposition_118",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "コメディを面白くない人は、笑いを愛する人ではない。つまり、笑いを愛する人は、コメディを面白いと思う人でもある。"
+    },
+    {
+        "id": "contraposition_119",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "教育の専門知識がない人は、学校の教育プログラムを改善することはできない。つまり、学校の教育プログラムを改善できる人は、教育の専門知識を持っている人である。"
+    },
+    {
+        "id": "contraposition_120",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "簡単な料理を楽しむには、食材の新鮮さと調理の手順を理解する必要がある。食材の新鮮さと調理の手順を理解しなければ、簡単な料理を楽しむことはできない。"
+    },
+    {
+        "id": "contraposition_121",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "バスケット編みが趣味ではない人は、趣味を持っていない。なぜなら、趣味を持っている人はバスケット編みを趣味としているからだ。"
+    },
+    {
+        "id": "contraposition_122",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "移民が日本に来なければ、日本の労働力不足は解消されないだろう。しかし、日本の労働力不足が解消されているのであれば、移民が日本に来ているはずだ。"
+    },
+    {
+        "id": "contraposition_123",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私が毎日走らないなら、私は健康ではない。しかし、私は健康である。したがって、私は毎日走っている。"
+    },
+    {
+        "id": "contraposition_124",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "花を上手に生けられないなら、花の扱いに慣れていないはずだ。しかし、私の生けた花は素晴らしい出来栄えだ。つまり、私は花の扱いに慣れているということだ。"
+    },
+    {
+        "id": "contraposition_125",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私が森で見つけた野生の果物を食べなければ、それは毒性があるはずだ。しかし、私は無事に帰ってきたので、その果物は毒性がなかったと言えるだろう。"
+    },
+    {
+        "id": "contraposition_126",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "公共の場所に芸術作品を設置しなければ、人々に鑑賞されないはずだ。しかし、誰も見向きもしないその作品を見れば、適切な場所に設置されていないことがわかる。"
+    },
+    {
+        "id": "contraposition_127",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "感情知性が低い人は、人間関係を上手く築くことができない。逆に言えば、人間関係を上手く築ける人は、感情知性が高いはずだ。"
+    },
+    {
+        "id": "contraposition_128",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "宝飾品デザインに興味がない人は、美的センスを発揮することができない。つまり、美的センスを発揮できる人は、宝飾品デザインに興味があるはずだ。"
+    },
+    {
+        "id": "contraposition_129",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "パーティーを楽しめない人は、社交的な人ではない。つまり、社交的な人は、パーティーを楽しめる人でもある。"
+    },
+    {
+        "id": "contraposition_130",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "雨が降らなければ、地面は濡れていないはずだ。しかし、地面が濡れているのを見ると、必ず雨が降っていたことがわかる。"
+    },
+    {
+        "id": "contraposition_131",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "小説を書いていないなら、きっと想像力がないだろう。つまり、想像力があるなら、きっと小説を書いているはずだ。"
+    },
+    {
+        "id": "contraposition_132",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私が本当に読書が好きでないなら、私は絶対に図書館に通わないはずだ。しかし、私はよく図書館に通っている。したがって、私は読書が好きなのだと言えるはずだ。"
+    },
+    {
+        "id": "contraposition_133",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "アニメを見ない人は、アニメの魅力を理解できない。しかし、アニメの魅力を理解している人は、必ずアニメを見ているのだ。"
+    },
+    {
+        "id": "contraposition_134",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "植物性料理を楽しむには、肉料理に劣らない味わいを出せなければならない。しかし、肉料理ファンも満足する味わいの植物性料理を食べれば、植物性料理の可能性を感じられるはずだ。"
+    },
+    {
+        "id": "contraposition_135",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "宝飾品デザインに興味がない人は、創造性を発揮することができない。したがって、創造性を発揮できる人は、宝飾品デザインに興味があるはずだ。"
+    },
+    {
+        "id": "contraposition_136",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ヨーロッパに旅行に行けば、必ず素晴らしい経験ができるはずだ。しかし、ある人がヨーロッパ旅行で楽しい思い出を持っていないのであれば、その人がヨーロッパに行ったとは考えにくい。"
+    },
+    {
+        "id": "contraposition_137",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "バーベキューを上手に焼けないなら、料理の腕前が足りないはずだ。でも、私のバーベキューは絶品だと評判だ。つまり、私の料理の腕前は申し分ないと言えるだろう。"
+    },
+    {
+        "id": "contraposition_138",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私が本当に現代ダンスの専門家でなければ、あのパフォーマンスを批評することはできない。しかし、私はそのダンスの長所と短所を詳しく述べられたので、私は現代ダンスの専門家だと言えるだろう。"
+    },
+    {
+        "id": "contraposition_139",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし花を押し付けられたら、それは花押しの趣味を持っている人からだと分かる。逆に、花押しの趣味を持っていない人から花を押し付けられることはない。"
+    },
+    {
+        "id": "contraposition_140",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "幼稚園に通っていないなら、社会性を身につけることはできない。つまり、社会性を身につけられたなら、幼稚園に通っていたはずだ。"
+    },
+    {
+        "id": "contraposition_141",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ワイン造りに熱心であれば、ワインの品質が高い。そうでなければ、ワイン造りに熱心ではないことになる。"
+    },
+    {
+        "id": "contraposition_142",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私が宇宙飛行士の訓練を受けていないのなら、私は宇宙に行けない。そうでなければ、私は宇宙に行けるはずだ。"
+    },
+    {
+        "id": "contraposition_143",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ジャズダンサーでない人は、リズミカルで優雅なダンスを披露することはできない。しかし、この女性のダンスは流れるようで、音楽に完全に溶け込んでいる。つまり、彼女はジャズダンサーであると言えるだろう。"
+    },
+    {
+        "id": "contraposition_144",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私がウクレレを弾けないなら、私はウクレレの練習をしていないはずだ。しかし、私はウクレレの練習を毎日欠かさずしているので、私がウクレレを弾けることが証明できる。"
+    },
+    {
+        "id": "contraposition_145",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "環境保護法が強化されないなら、企業は排出規制を無視し続けるだろう。しかし、企業が排出規制を守っているのであれば、環境保護法が強化されているはずだ。"
+    },
+    {
+        "id": "contraposition_146",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "超自然現象の調査に興味がないなら、超自然現象を信じているはずがない。逆に言えば、超自然現象を信じているということは、超自然現象の調査に興味があるということだ。"
+    },
+    {
+        "id": "contraposition_147",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "環境に配慮した行動をとっていないなら、環境保護に関心があるはずがない。つまり、環境保護に関心があるということは、環境に配慮した行動をとっているということだ。"
+    },
+    {
+        "id": "contraposition_148",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "火渡りをしない人は、自己超越の経験ができないだろう。つまり、自己超越の経験ができる人は、必ず火渡りをしているはずだ。"
+    },
+    {
+        "id": "contraposition_149",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "誕生日プレゼントを贈らないのであれば、相手の喜びを感じることはできない。つまり、相手の喜びを感じられるなら、必ず誕生日プレゼントを贈っているはずだ。"
+    },
+    {
+        "id": "contraposition_150",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "教育の専門知識がない人は、子供たちの学習効果を最大化することはできない。つまり、子供たちの学習効果を最大化できる人は、教育の専門知識を持っている人である。"
+    },
+    {
+        "id": "contraposition_151",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "グランピングを最高の体験にするには、快適な設備と自然の魅力を両立させることが欠かせない。快適な設備と自然の魅力を両立させられなければ、グランピングを最高の体験にすることはできない。つまり、グランピングを最高の体験にできるなら、快適な設備と自然の魅力を両立させているはずだ。"
+    },
+    {
+        "id": "contraposition_152",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ジグソーパズルを作らない人は、集中力と創造性を養うことができない。したがって、集中力と創造性を養える人は、ジグソーパズルを作っているはずだ。"
+    },
+    {
+        "id": "contraposition_153",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ビールを自作しないと、本当の味を知ることはできない。しかし、ビールを自作すれば、その味わいを十分に楽しめるはずだ。"
+    },
+    {
+        "id": "contraposition_154",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "データ可視化を嫌う人は、情報を理解したい人ではない。つまり、情報を理解したい人は、データ可視化を好む人でもある。"
+    },
+    {
+        "id": "contraposition_155",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "小説を書いているなら、きっと想像力があるはずだ。つまり、想像力がないなら、きっと小説を書いていないだろう。"
+    },
+    {
+        "id": "contraposition_156",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "キャンプを楽しまない人は、自然の素晴らしさを体感することができない。したがって、自然の素晴らしさを体感できる人は、キャンプを楽しんでいるはずだ。"
+    },
+    {
+        "id": "contraposition_157",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ワイン造りに熱心ではないのであれば、ワインの品質は高くない。品質が高いのであれば、ワイン造りに熱心であることになる。"
+    },
+    {
+        "id": "contraposition_158",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "気象情報を見ていないなら、天気予報を立てることはできない。つまり、正確な天気予報を立てられたなら、気象情報を見ていたはずだ。"
+    },
+    {
+        "id": "contraposition_159",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "宇宙旅行に参加するには、膨大な費用を用意しなければならない。そうでなければ、宇宙旅行に参加することはできない。"
+    },
+    {
+        "id": "contraposition_160",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ガラスモザイクアートを作れない人は、アーティストではない。なぜなら、アーティストはガラスモザイクアートを作ることができるからだ。"
+    },
+    {
+        "id": "contraposition_161",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "家系図を持っていなければ、自分の歴史を知ることはできない。しかし、私が自分の歴史を知っているということは、私が家系図を持っていることを意味する。"
+    },
+    {
+        "id": "contraposition_162",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "油絵の技法を磨かなければ、印象的な絵画を生み出すことはできません。つまり、印象的な絵画を生み出せるということは、油絵の技法を磨いているということです。"
+    },
+    {
+        "id": "contraposition_163",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ヒップホップのリズムを理解していなければ、ヒップホップのダンスはできない。一方、ヒップホップのダンスができる人は、必ずヒップホップのリズムを理解している。"
+    },
+    {
+        "id": "contraposition_164",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "押し花の趣味がなければ、押し花の作品を作ることはできない。しかし、押し花の作品を作れる人は、必ず押し花の趣味を持っている。"
+    },
+    {
+        "id": "contraposition_165",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "音響設備の仕組みを知らなければ、最適な設定ができないはずだ。しかし、私は音響設備の仕組みを熟知しているので、常に最高の音質を実現できている。"
+    },
+    {
+        "id": "contraposition_166",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もしサーフィンをしないなら、波に乗れないはずだ。つまり、波に乗れる人は、必ずサーフィンをしているはずだ。"
+    },
+    {
+        "id": "contraposition_167",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "昆虫の飼育方法を理解していなければ、それらを長期的に観察することはできない。つまり、昆虫を長期的に観察できるのは、飼育方法を理解している人だけだ。"
+    },
+    {
+        "id": "contraposition_168",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "映画を制作するには、カメラ、照明、そして熟練した技術者が不可欠だ。そうでなければ、良質な作品は生み出せない。"
+    },
+    {
+        "id": "contraposition_169",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "自転車に乗らないなら、交通事故に巻き込まれることはない。つまり、交通事故に巻き込まれたなら、自転車に乗っていたはずだ。"
+    },
+    {
+        "id": "contraposition_170",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "国際法を尊重しない国は、信頼される国にはなれない。つまり、信頼される国になれる国は、必ず国際法を尊重しているはずだ。"
+    },
+    {
+        "id": "contraposition_171",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし企業が倫理的な行動をとらないなら、長期的に社会から信頼されることはできないはずだ。しかし、その企業は実際に高い倫理観を持ち続けているので、長期的に社会から信頼されていると言えるだろう。"
+    },
+    {
+        "id": "contraposition_172",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "屋上の緑化が環境に悪影響を及ぼさないなら、それは環境に良い影響を及ぼすはずだ。つまり、屋上の緑化は環境に良いと言えるだろう。"
+    },
+    {
+        "id": "contraposition_173",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "持続可能なファッションを選ばないと、環境に配慮していないと言える。つまり、環境に配慮していれば、持続可能なファッションを選んでいるはずだ。"
+    },
+    {
+        "id": "contraposition_174",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私の庭に香草が育っていないなら、私は庭師ではない。しかし、私は確かに庭師である。したがって、私の庭には香草が育っているはずだ。"
+    },
+    {
+        "id": "contraposition_175",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "バーベキューを楽しむには、適切な調理法と食材が欠かせない。つまり、適切な調理法と食材がなければ、バーベキューを楽しむことはできない。"
+    },
+    {
+        "id": "contraposition_176",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "フラメンコを踊れないなら、フラメンコを理解することもできない。つまり、フラメンコを理解できるなら、フラメンコを踊ることができる。"
+    },
+    {
+        "id": "contraposition_177",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "タロットカードを読むことができる人は、占い師である。なぜなら、占い師はタロットカードを読むことができるからだ。"
+    },
+    {
+        "id": "contraposition_178",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "本を丁寧に扱わなければ、ページが傷まないはずだ。しかし、ページに汚れやしわが見られるなら、きっとその本は乱暴に扱われていたのだ。"
+    },
+    {
+        "id": "contraposition_179",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ペットを飼っていないなら、毎日の世話をする必要がない。毎日の世話をする必要があるなら、ペットを飼っているはずだ。"
+    },
+    {
+        "id": "contraposition_180",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "紅茶を飲まないなら、カフェインを摂取できない。カフェインを摂取できないなら、紅茶を飲んでいるはずだ。"
+    },
+    {
+        "id": "contraposition_181",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "陶芸家でない人は、粘土を使って美しい作品を作ることはできない。だが、この男性は長年陶芸に打ち込んでおり、素晴らしい作品を生み出している。つまり、彼は間違いなく陶芸家なのだ。"
+    },
+    {
+        "id": "contraposition_182",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ドラマに感情移入できなければ、面白くないはずだ。つまり、面白ければ、ドラマに感情移入できているはずだ。"
+    },
+    {
+        "id": "contraposition_183",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "リモートワークをしないと、効率的な働き方ができない。しかし、リモートワークをすれば、時間と場所の制約から解放されるはずだ。"
+    },
+    {
+        "id": "contraposition_184",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "再生可能エネルギーが効果的でないなら、それは効果的ではないはずだ。つまり、再生可能エネルギーは効果的だと言えるだろう。"
+    },
+    {
+        "id": "contraposition_185",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ファンタジーの物語を創造できない人は、ファンタジーの登場人物の心理を描くことはできない。つまり、ファンタジーの登場人物の心理を描くことができる人は、ファンタジーの物語を創造できるはずだ。"
+    },
+    {
+        "id": "contraposition_186",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私の家が再生可能エネルギーを使っていないなら、私の家は環境に優しくないはずだ。でも、私の家は太陽光発電と風力発電を導入しているので、私の家は環境に優しいことが証明できる。"
+    },
+    {
+        "id": "contraposition_187",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ピラティスを続けていないのであれば、体の柔軟性は高まらない。柔軟性が高まっているのなら、ピラティスを続けていることになる。"
+    },
+    {
+        "id": "contraposition_188",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私の家が盗難に遭っていないなら、私は家のセキュリティシステムを設置していないはずだ。しかし、私は確かに家のセキュリティシステムを設置しているので、私の家が盗難に遭っていないことが証明できる。"
+    },
+    {
+        "id": "contraposition_189",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし彼がウェブデザインの基本を理解していないなら、彼はきっとウェブサイトを適切に構築することはできないはずだ。しかし、彼は見事なウェブサイトを作り上げているので、彼はウェブデザインの基本を完全に理解していると言えるだろう。"
+    },
+    {
+        "id": "contraposition_190",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "パンを焼くには高温の炉が必要だ。そうでなければ、パンは焼けない。"
+    },
+    {
+        "id": "contraposition_191",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "データサイエンティストではない人は、データ分析を行わない人ではない。データ分析を行わない人は、データサイエンティストではない人ではない。"
+    },
+    {
+        "id": "contraposition_192",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "自然の中で採取しないと、フォーラジングを楽しめない。つまり、フォーラジングを楽しめれば、自然の中で採取しているはずだ。"
+    },
+    {
+        "id": "contraposition_193",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "無線機を持っていない人は、アマチュア無線の楽しみを知ることはできない。一方で、アマチュア無線の楽しみを知っている人は、必ず無線機を持っているはずだ。"
+    },
+    {
+        "id": "contraposition_194",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "レゴのブロックを組み立てられない人は、創造性を発揮することができない。つまり、創造性を発揮できる人は、レゴのブロックを組み立てられる人である。"
+    },
+    {
+        "id": "contraposition_195",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "サーカスのパフォーマンスを見ているなら、きっと柔軟性があるはずだ。つまり、柔軟性がないなら、きっとサーカスのパフォーマンスを見ていないだろう。"
+    },
+    {
+        "id": "contraposition_196",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私が都市探検に行かなければ、きっと危険な目に遭うだろう。しかし、私が危険な目に遭っていないのは、都市探検に行っていないからに他ならない。"
+    },
+    {
+        "id": "contraposition_197",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "キャンプをするのが好きでない人は、自然を体験しない。キャンプをするのが好きな人は、必ず自然を体験する。"
+    },
+    {
+        "id": "contraposition_198",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "雪山でスノーボードをしていないなら、きっと寒さに耐えられないだろう。つまり、寒さに耐えられるなら、きっとスノーボードをしているはずだ。"
+    },
+    {
+        "id": "contraposition_199",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "お茶を飲まない人は、お茶の味を知らない。逆に言えば、お茶の味を知っている人は、必ずお茶を飲んでいるのだ。"
+    },
+    {
+        "id": "contraposition_200",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "蝋燭を作る工程を理解していなければ、きれいな蝋燭を作ることはできない。逆に、きれいな蝋燭を作れるのであれば、その工程を理解していると言えるだろう。"
+    },
+    {
+        "id": "contraposition_201",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし彼女が街頭アートを愛していないなら、彼女は絶対に街頭アートを理解していないはずだ。しかし、彼女は実際に街頭アートを深く理解しているので、彼女は間違いなく街頭アートを愛している。"
+    },
+    {
+        "id": "contraposition_202",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "国際関係を無視するなら、グローバル問題に取り組めない。つまり、グローバル問題に取り組むなら、国際関係を重視しているはずだ。"
+    },
+    {
+        "id": "contraposition_203",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "折り紙の技術を習得するには、根気強く練習を重ねることが欠かせない。根気強く練習を重ねなければ、折り紙の技術を習得することはできない。つまり、折り紙の技術を習得できるなら、根気強く練習を重ねているはずだ。"
+    },
+    {
+        "id": "contraposition_204",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ろうそくづくりの体験ツアーに参加しない人がいれば、ツアー会社は赤字に陥るだろう。しかし、ツアー会社が赤字に陥っていないのであれば、ろうそくづくりの体験ツアーに参加する人がいるはずだ。"
+    },
+    {
+        "id": "contraposition_205",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "自動運転車が安全であるならば、自動運転車が事故を起こさないはずだ。しかし、時折事故が起きているのを見ると、自動運転車は必ずしも完全に安全とは言えないことがわかる。"
+    },
+    {
+        "id": "contraposition_206",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ファンタジー小説を書けない人は、ファンタジーの世界観を創造することもできない。そのため、ファンタジーの世界観を創造できる人は、ファンタジー小説を書くことができるはずだ。"
+    },
+    {
+        "id": "contraposition_207",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "移民が日本に来ないなら、日本の人口は減少し続けるだろう。しかし、日本の人口が減少していないのであれば、移民が日本に来ているはずだ。"
+    },
+    {
+        "id": "contraposition_208",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "お茶の味がわからない人は、本当のお茶通とは呼べない。しかし、本当のお茶通は必ずお茶の味を理解しているはずだ。"
+    },
+    {
+        "id": "contraposition_209",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "舞台芸術を鑑賞しなければ、その魅力を理解することはできない。逆に、舞台芸術を鑑賞すれば、その素晴らしさに気づくことができるだろう。"
+    },
+    {
+        "id": "contraposition_210",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "古い車を完璧に修復するには、細部にまでこだわることが重要だ。細部にこだわらなければ、古い車を完璧に修復することはできない。つまり、古い車を完璧に修復できるなら、細部にこだわっているはずだ。"
+    },
+    {
+        "id": "contraposition_211",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "デジタル化が進めば、業務の効率化が図れる。逆に、業務の効率化が図れないのであれば、デジタル化が進んでいないと言えるだろう。"
+    },
+    {
+        "id": "contraposition_212",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "クラフトビールの人気が高まらなければ、地域経済の活性化は望めない。つまり、地域経済を活性化させるには、クラフトビールの人気上昇が欠かせない。"
+    },
+    {
+        "id": "contraposition_213",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "言語の構造を分析できない人は、言語の変化を予測することはできない。逆に、言語の変化を予測できる人は、言語の構造を分析できるはずだ。"
+    },
+    {
+        "id": "contraposition_214",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "人と上手く付き合えないなら、人間関係を大切にしているはずがない。つまり、人間関係を大切にしているということは、人と上手く付き合えるということだ。"
+    },
+    {
+        "id": "contraposition_215",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "イベントの運営に携わる人は、必ず成功を収めることができるはずだ。つまり、成功を収めることができない人は、イベントの運営に携わっていないということだ。"
+    },
+    {
+        "id": "contraposition_216",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "公共の場所に不適切な作品を設置すれば、地域住民の反発を招くだろう。したがって、地域住民の理解を得るには、適切な作品を選ぶ必要がある。"
+    },
+    {
+        "id": "contraposition_217",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "アニメを見ない人は、アニメの文化的影響を理解できない。しかし、アニメの文化的影響を理解している人は、きっとアニメを見ているはずだ。"
+    },
+    {
+        "id": "contraposition_218",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "データ可視化を嫌う人は、情報を活用したい人ではない。つまり、情報を活用したい人は、データ可視化を好む人でもある。"
+    },
+    {
+        "id": "contraposition_219",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "環境に配慮しない企業は、持続可能な社会を実現できない。つまり、持続可能な社会を実現できる企業は、必ず環境に配慮しているはずだ。"
+    },
+    {
+        "id": "contraposition_220",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "環境保護に関心がないなら、環境に配慮した行動をとることはないだろう。つまり、環境に配慮した行動をとっているということは、環境保護に関心があるということだ。"
+    },
+    {
+        "id": "contraposition_221",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "医療知識がなければ、医療現場で活躍することはできない。逆に、医療現場で活躍できる人は、必ず医療知識を持っている。"
+    },
+    {
+        "id": "contraposition_222",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "写真集を作るには、写真を撮る必要がある。写真を撮らなければ、写真集を作ることはできない。"
+    },
+    {
+        "id": "contraposition_223",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "音楽フェスに参加しない人は、音楽の楽しさを知らない。つまり、音楽の楽しさを知っている人は、必ず音楽フェスに参加しているはずだ。"
+    },
+    {
+        "id": "contraposition_224",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私が本当に超自然現象を信じていないなら、私は決して幽霊狩りをしないだろう。しかし、私は幽霊狩りをしている。つまり、私は超自然現象を信じていると言えるはずだ。"
+    },
+    {
+        "id": "contraposition_225",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "絵画を理解できない人は、芸術を愛する人ではない。つまり、芸術を愛する人は、絵画を理解できる人でもある。"
+    },
+    {
+        "id": "contraposition_226",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "星空を撮影するには、暗闇の中で長時間露光する必要がある。そうでなければ、美しい天体写真は撮れない。"
+    },
+    {
+        "id": "contraposition_227",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "古い車を修復するには、部品の入手と修理の知識が必要不可欠だ。部品の入手と修理の知識がなければ、古い車を修復することはできない。つまり、古い車を修復できるなら、部品の入手と修理の知識があるはずだ。"
+    },
+    {
+        "id": "contraposition_228",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "グランピングを楽しむには、快適な設備と自然を感じられる環境が重要だ。快適な設備と自然を感じられる環境がなければ、グランピングを楽しむことはできない。つまり、グランピングを楽しめるなら、快適な設備と自然を感じられる環境があるはずだ。"
+    },
+    {
+        "id": "contraposition_229",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "公共の場所に芸術作品を設置しなければ、人々に鑑賞してもらえないはずだ。しかし、誰も注目していないその作品を見れば、適切な場所に設置されていないことがわかる。"
+    },
+    {
+        "id": "contraposition_230",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "絵画を愛する人は、絵画を理解しない人ではない。つまり、絵画を理解しない人は、絵画を愛する人でもある。"
+    },
+    {
+        "id": "contraposition_231",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ワインを嗜好しない人は、ワインの味わいを楽しむことはできない。しかし、私がワインの味わいを楽しんでいるということは、私がワインを嗜好していることを示している。"
+    },
+    {
+        "id": "contraposition_232",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ボルダリングを楽しむには、岩場の特性を理解し、適切な技術を身につける必要がある。岩場の特性を理解せず、適切な技術を身につけていなければ、ボルダリングを楽しむことはできない。つまり、岩場の特性を理解せず、適切な技術を身につけていないのであれば、ボルダリングを楽しむことはできないのである。"
+    },
+    {
+        "id": "contraposition_233",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "簡単な料理を作るには、調理の基本を知る必要がある。調理の基本を知らなければ、簡単な料理を作ることはできない。"
+    },
+    {
+        "id": "contraposition_234",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "映画を撮ることができる人は、映画監督である。なぜなら、映画監督は映画を撮ることができるからだ。"
+    },
+    {
+        "id": "contraposition_235",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "文化遺産を大切にしないと、次の世代に引き継ぐことはできない。しかし、文化遺産を大切にすれば、その価値を後世に伝えられるだろう。"
+    },
+    {
+        "id": "contraposition_236",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし彼女が私の妹ではないのなら、私も彼女の兄弟ではない。これは論理的に正しい。"
+    },
+    {
+        "id": "contraposition_237",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "テキスタイルデザインには、素材の特性を理解し、それに合わせた表現方法を見出す創造性が必要不可欠だ。そうしなければ、魅力的な作品は生み出せない。つまり、素材の特性理解と適切な表現方法がなければ、素晴らしいテキスタイルデザインは生み出せないのだ。"
+    },
+    {
+        "id": "contraposition_238",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし屋上の緑化が環境に良くないなら、それは環境に良いはずがない。つまり、屋上の緑化は環境に良いと言えるだろう。"
+    },
+    {
+        "id": "contraposition_239",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ボランティア活動に参加していなければ、人々を支援することはできない。つまり、人々を支援できる人は、必ずボランティア活動に参加している。"
+    },
+    {
+        "id": "contraposition_240",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "お祭りの雰囲気を楽しまないなら、人混みの中にいる必要がない。人混みの中にいる必要がないなら、お祭りの雰囲気を楽しんでいるはずだ。"
+    },
+    {
+        "id": "contraposition_241",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "パンを焼いていなければ、自家製のおいしいパンを食べることはできない。つまり、自家製のおいしいパンを食べられるのは、パンを焼いている人だけだ。"
+    },
+    {
+        "id": "contraposition_242",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "キルトを作らない人は、創造性を発揮することができない。つまり、創造性を発揮できる人は、必ずキルトを作っているはずだ。"
+    },
+    {
+        "id": "contraposition_243",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "動物の世話をする人は、動物園で働いている人である。動物園で働いていない人は、動物の世話をしない人である。"
+    },
+    {
+        "id": "contraposition_244",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "職業訓練を受けていなければ、特定の技術を習得することはできない。つまり、特定の技術を習得できる人は、必ず職業訓練を受けている。"
+    },
+    {
+        "id": "contraposition_245",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ペットを飼わないと、動物の世話をすることはできない。つまり、動物の世話をするなら、ペットを飼っているはずだ。"
+    },
+    {
+        "id": "contraposition_246",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私がこの小説の登場人物の心情を理解していなければ、そのキャラクター分析はできない。しかし、私はその人物の内面を深く洞察できたので、この小説を熟読していると言えるはずだ。"
+    },
+    {
+        "id": "contraposition_247",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ピラティスを続けていれば、体の柔軟性が高まる。そうでなければ、ピラティスを続けていないことになる。"
+    },
+    {
+        "id": "contraposition_248",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ダンサーでなければ、タップダンスができない。つまり、タップダンスができる人は、ダンサーである。"
+    },
+    {
+        "id": "contraposition_249",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "帆船に乗らない人は、海の魅力を感じることができない。つまり、海の魅力を感じられる人は、必ず帆船に乗っているはずだ。"
+    },
+    {
+        "id": "contraposition_250",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ファンタジー小説を書かなければ、想像力豊かな物語を生み出すことはできません。つまり、想像力豊かな物語を生み出せるということは、ファンタジー小説を書いているということです。"
+    },
+    {
+        "id": "contraposition_251",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "都市部での農業を成功させるには、適切な場所と設備を確保することが重要だ。適切な場所と設備を確保できなければ、都市部での農業を成功させることはできない。つまり、都市部での農業を成功させられるなら、適切な場所と設備を確保しているはずだ。"
+    },
+    {
+        "id": "contraposition_252",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "この国の政治家は国民のために尽力しているはずだ。しかし、国民が政治家を信頼していないのを見れば、その政治家が国民のために尽力しているとは言えない。"
+    },
+    {
+        "id": "contraposition_253",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "陶芸家でない人は、粘土を使って美しい作品を作り上げることはできない。しかし、この男性は長年陶芸に打ち込んでおり、素晴らしい作品を生み出している。したがって、彼は間違いなく陶芸家なのだ。"
+    },
+    {
+        "id": "contraposition_254",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "冒険ツアーに参加しない観光客がいれば、ツアー会社は収益を上げられないだろう。しかし、ツアー会社が収益を上げられているのであれば、観光客が冒険ツアーに参加しているはずだ。"
+    },
+    {
+        "id": "contraposition_255",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "祭りに参加しなければ、地域の伝統文化を理解できない。理解できているのであれば、祭りに参加していることになる。"
+    },
+    {
+        "id": "contraposition_256",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "昆虫を飼育していないなら、その生態を詳しく知ることはできない。つまり、昆虫の生態を詳しく知っているなら、昆虫を飼育していたはずだ。"
+    },
+    {
+        "id": "contraposition_257",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私がこの手作りの人形を作れないなら、あなたも作れないはずだ。私たちは同じ技術を持っているからだ。"
+    },
+    {
+        "id": "contraposition_258",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし金属加工の技術がなければ、私たちは高度な機械を作ることはできません。つまり、高度な機械を作れるということは、金属加工の技術があるということです。"
+    },
+    {
+        "id": "contraposition_259",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "家系図を活用して歴史を探求するには、先祖の情報が正確に記録されていなければならない。そうでなければ、家系図を通して歴史を探求することはできない。"
+    },
+    {
+        "id": "contraposition_260",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "気象観測データを分析していないなら、気候変動の傾向を把握することはできない。つまり、気候変動の傾向を把握できたなら、気象観測データを分析していたはずだ。"
+    },
+    {
+        "id": "contraposition_261",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "祭りに参加すれば、地域の伝統文化を体験できる。参加しなければ、地域の伝統文化を体験できないことになる。"
+    },
+    {
+        "id": "contraposition_262",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "色彩理論を理解していないなら、色の組み合わせを適切に使うことはできない。逆に言えば、色の組み合わせを適切に使えるということは、色彩理論を理解しているということだ。"
+    },
+    {
+        "id": "contraposition_263",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし彼女が私の友人ではないなら、私も彼女の友人ではない。これは確かに真実である。"
+    },
+    {
+        "id": "contraposition_264",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私が本当に料理が好きでないなら、私は決して自分で料理をしないだろう。しかし、私は毎日自分で料理をしている。したがって、私は料理が好きなのだと言えるはずだ。"
+    },
+    {
+        "id": "contraposition_265",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "無線機を持っていない人は、アマチュア無線に参加できない。つまり、アマチュア無線に参加している人は、必ず無線機を持っているはずだ。"
+    },
+    {
+        "id": "contraposition_266",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "フェンシングをしない人は、集中力と反応速度を高めることはできない。逆に、集中力と反応速度を高めている人は、フェンシングをしているはずだ。"
+    },
+    {
+        "id": "contraposition_267",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "本を丁寧に製本しないと、本が傷んでしまう。しかし、私の製本した本は全く問題ない。つまり、私は本を丁寧に製本したということだ。"
+    },
+    {
+        "id": "contraposition_268",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "オペラを楽しめない人は、音楽の素養がない人ではない。つまり、音楽の素養がある人は、オペラを楽しめる人でもある。"
+    },
+    {
+        "id": "contraposition_269",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "自然散歩に行かないなら、新鮮な空気を吸えない。新鮮な空気を吸えないなら、自然散歩に行っているはずだ。"
+    },
+    {
+        "id": "contraposition_270",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "データ分析の手法を理解しないのであれば、経営の意思決定に貢献することはできない。つまり、経営の意思決定に貢献できるなら、必ずデータ分析の手法を理解しているはずだ。"
+    },
+    {
+        "id": "contraposition_271",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "お祭りに参加しないなら、賑やかな雰囲気を楽しめない。賑やかな雰囲気を楽しめないなら、お祭りに参加しているはずだ。"
+    },
+    {
+        "id": "contraposition_272",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "バレンタインデーにチョコレートをあげないなら、その人はあなたのことを好きではないはずだ。しかし、その人はあなたにたくさんのチョコレートをくれたので、その人はあなたのことを本当に好きだと言えるだろう。"
+    },
+    {
+        "id": "contraposition_273",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "漫画を描くことができない人は、漫画家ではない。なぜなら、漫画家は漫画を描くことができるからだ。"
+    },
+    {
+        "id": "contraposition_274",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "キャンプをしない人は、自然を体験しない。キャンプをする人は、必ず自然を体験する。"
+    },
+    {
+        "id": "contraposition_275",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "創造的な人は、必ず創造的な作品を生み出す。しかし、創造的な作品を生み出す人が、必ずしも創造的な人とは限らない。つまり、創造的な作品を生み出せない人が、創造的な人ではないとは限らない。"
+    },
+    {
+        "id": "contraposition_276",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "遺伝子治療は安全ではない。なぜなら、遺伝子治療を受けた患者に深刻な副作用が発生したからだ。"
+    },
+    {
+        "id": "contraposition_277",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "キャンプに行かない人は、自然を楽しむことができない。つまり、自然を楽しむ人はキャンプに行く。"
+    },
+    {
+        "id": "contraposition_278",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "サーフボードを上手に作れないと、それは技術が足りないからだ。でも、私のサーフボードは完璧に仕上がっている。つまり、私の技術は十分だと言えるだろう。"
+    },
+    {
+        "id": "contraposition_279",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "スパイスの栽培が持続可能でないなら、それは持続可能であるはずがない。つまり、スパイスの栽培は持続可能だと言えるのではないか。"
+    },
+    {
+        "id": "contraposition_280",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "鳥小屋を作るには、鳥の生態を理解し、それに合わせた設計を行う必要がある。そうしなければ、鳥が快適に過ごせる小屋は作れない。つまり、鳥の生態を理解せず、適切な設計ができなければ、鳥が快適に過ごせる小屋は作れないのだ。"
+    },
+    {
+        "id": "contraposition_281",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私の先祖が海外で生活していなかったら、私は今日スノーケリングを楽しむことはできないだろう。しかし、私がスノーケリングを楽しんでいるということは、私の先祖が海外で生活していたことを示している。"
+    },
+    {
+        "id": "contraposition_282",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私が文学作品の解釈に長けていなければ、この小説の主題を見抜くことはできない。しかし、私はその作品の核心を見事に捉えられたので、文学の専門家だと言えるだろう。"
+    },
+    {
+        "id": "contraposition_283",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "LGBTQ+の権利を支持しない人は、多様性を尊重しない。なぜなら、LGBTQ+の権利を支持しないと、多様性を尊重したことにはならないからだ。"
+    },
+    {
+        "id": "contraposition_284",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ジャズを聴かない人は、音楽の多様性を理解していないだろう。逆に、音楽の多様性を理解している人は、ジャズを聴いているはずだ。"
+    },
+    {
+        "id": "contraposition_285",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "フェンシングをしない人は、スピードと正確性を身につけることはできない。一方で、スピードと正確性を身につけている人は、フェンシングをしているはずだ。"
+    },
+    {
+        "id": "contraposition_286",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし色彩理論を理解していないなら、色の組み合わせを適切に選ぶことはできない。つまり、色の組み合わせを適切に選べるなら、色彩理論を理解していることになる。"
+    },
+    {
+        "id": "contraposition_287",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ペットを飼わないなら、動物愛護に貢献できない。つまり、動物愛護に貢献するなら、ペットを飼っているはずだ。"
+    },
+    {
+        "id": "contraposition_288",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "スキーをしない人は雪山に行かない。なぜなら、スキーをしないと雪山を楽しめないからだ。"
+    },
+    {
+        "id": "contraposition_289",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私が植物の世話が好きでないなら、私は絶対に自宅で園芸をしないはずだ。しかし、私は自宅で園芸を楽しんでいる。つまり、私は植物の世話が好きなのだ。"
+    },
+    {
+        "id": "contraposition_290",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "登山の安全対策が整備されなければ、登山者の命は守れない。つまり、登山者の命を守るには、登山の安全対策の整備が重要となる。"
+    },
+    {
+        "id": "contraposition_291",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "人間関係が大切でないなら、それは大切であるはずがない。つまり、人間関係は大切だと言えるのではないか。"
+    },
+    {
+        "id": "contraposition_292",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "遺産を保護しないと、文化が失われてしまう。一方、遺産を保護すれば、文化は守られるはずだ。"
+    },
+    {
+        "id": "contraposition_293",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私が本当に旅行が好きでないなら、私は絶対に海外旅行に行かないはずだ。しかし、私は先月ヨーロッパに旅行に行った。つまり、私は旅行が好きなのだ。"
+    },
+    {
+        "id": "contraposition_294",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私がこの難しい謎を解けないのなら、あなたも解けないはずだ。私たちは同じ情報を持っているからだ。"
+    },
+    {
+        "id": "contraposition_295",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "陶芸家になるには、粘土を巧みに操る技術と創造性が備わっていなければならない。そうでなければ、陶芸家として認められることはない。"
+    },
+    {
+        "id": "contraposition_296",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "油絵を描かなければ、美しい絵画を作ることはできません。つまり、美しい絵画を作れるということは、油絵を描いているということです。"
+    },
+    {
+        "id": "contraposition_297",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "宗教的な人は必ず道徳的に正しい行動をとるはずだ。しかし、ある宗教家が不正な行為をしているのを見れば、その人が宗教的だとは言えない。"
+    },
+    {
+        "id": "contraposition_298",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ジャムの味付けを工夫できない人は、ジャムの新しい商品開発に貢献することはできない。そのため、ジャムの新しい商品開発に貢献できる人は、ジャムの味付けを工夫できるはずだ。"
+    },
+    {
+        "id": "contraposition_299",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "現代ダンスを踊らない人は、ダンスを楽しまない。現代ダンスを踊る人は、必ずダンスを楽しむ。"
+    },
+    {
+        "id": "contraposition_300",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ビールの製造過程を理解していなければ、クラフトビールの特徴を説明することはできない。しかし、私がクラフトビールの特徴を説明できるということは、ビールの製造過程を理解していることを意味する。"
+    },
+    {
+        "id": "contraposition_301",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ガラスモザイクアートの制作には、ガラスの切り出しと組み合わせの技術が不可欠だ。そうでなければ、美しい作品は完成しない。つまり、ガラスの切り出しと組み合わせの技術がなければ、素晴らしいガラスモザイクアートは作れないのである。"
+    },
+    {
+        "id": "contraposition_302",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ジャズダンサーでない人は、リズミカルで優雅なダンスを披露することはできない。しかし、この女性のダンスは流れるようで、音楽に完全に溶け込んでいる。したがって、彼女はジャズダンサーであると言えるだろう。"
+    },
+    {
+        "id": "contraposition_303",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "多様性を尊重しない人は、LGBTQ+の権利を支持しない。ならば、LGBTQ+の権利を支持する人は、多様性を尊重する。"
+    },
+    {
+        "id": "contraposition_304",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "子供たちに早期教育をしていないなら、彼らの学力は伸びないだろう。つまり、子供たちの学力が伸びているなら、早期教育をしていたはずだ。"
+    },
+    {
+        "id": "contraposition_305",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "エコ製品を使わない人は、環境に配慮していない人だ。しかし、環境に配慮している人は、必ずしもエコ製品を使っているわけではない。つまり、エコ製品を使っていない人が、環境に配慮していないとは限らない。"
+    },
+    {
+        "id": "contraposition_306",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "スマートシティに住んでいない人は、便利な生活を送ることはできない。つまり、便利な生活を送っている人はスマートシティに住んでいるということだ。"
+    },
+    {
+        "id": "contraposition_307",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "株式市場の動向を正確に予測できない人は、投資家として成功することはできない。つまり、投資家として成功できる人は、株式市場の動向を正確に予測できる人である。"
+    },
+    {
+        "id": "contraposition_308",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "映画を撮ることができない人は、映画監督ではない。なぜなら、映画監督は映画を撮ることができるからだ。"
+    },
+    {
+        "id": "contraposition_309",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "公衆衛生の対策を講じないのであれば、地域の感染症を予防することはできない。つまり、地域の感染症を予防できるなら、必ず公衆衛生の対策を講じているはずだ。"
+    },
+    {
+        "id": "contraposition_310",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ダンスの練習をしていなければ、上手にダンスができないはずだ。でも、私は毎日ストリートダンスの練習をしているので、ダンスの技術が確実に向上している。"
+    },
+    {
+        "id": "contraposition_311",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "セキュリティ対策を怠れば、重要な情報が漏洩する可能性がある。したがって、情報漏洩を防ぐには、しっかりとしたセキュリティ対策を講じなければならない。"
+    },
+    {
+        "id": "contraposition_312",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "色彩理論を理解していれば、色の組み合わせを適切に使うことができる。逆に言えば、色の組み合わせを適切に使えないということは、色彩理論を理解していないということだ。"
+    },
+    {
+        "id": "contraposition_313",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "自然の仕組みを知らなければ、スノーケリングの楽しさを理解することはできない。しかし、私がスノーケリングの楽しさを理解しているということは、自然の仕組みを知っていることを意味する。"
+    },
+    {
+        "id": "contraposition_314",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "イラストを描いていないなら、きっと創造性がないだろう。つまり、創造性があるなら、きっとイラストを描いているはずだ。"
+    },
+    {
+        "id": "contraposition_315",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私の服がきれいでなければ、それは私が洗濯をしていないということだ。しかし、私は毎週洗濯をしているので、私の服はきれいに保たれている。"
+    },
+    {
+        "id": "contraposition_316",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "科学的な知識がなければ、私たちは自然の不思議を理解することはできない。しかし、私たちが自然の不思議を理解しているということは、私たちに科学的な知識があることを示している。"
+    },
+    {
+        "id": "contraposition_317",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "スクラップブッキングの技術を習得していない人は、素敵なアルバムを作れない。逆に、素敵なアルバムを作れるのであれば、その技術を習得していると言えるはずだ。"
+    },
+    {
+        "id": "contraposition_318",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "人間関係を大切にしていないなら、人と上手く付き合うことはできない。つまり、人と上手く付き合えるということは、人間関係を大切にしているということだ。"
+    },
+    {
+        "id": "contraposition_319",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "音楽制作の経験がない人は、プロデューサーとしての仕事を上手く遂行することはできない。つまり、プロデューサーとしての仕事を上手く遂行できる人は、音楽制作の経験を持っている人である。"
+    },
+    {
+        "id": "contraposition_320",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ビールが好きでなければ、クラフトビールを楽しむことはできない。しかし、私がクラフトビールを楽しんでいるということは、私がビールが好きであることを意味する。"
+    },
+    {
+        "id": "contraposition_321",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "超自然現象を信じていないなら、超自然現象の調査に興味を持つはずがない。逆に言えば、超自然現象の調査に興味を持っているということは、超自然現象を信じているということだ。"
+    },
+    {
+        "id": "contraposition_322",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私がウクレレを弾けないなら、私はウクレレの練習をしていないはずだ。でも、私はウクレレの練習に熱心に取り組んでいるので、私がウクレレを弾けるようになったことが証明できる。"
+    },
+    {
+        "id": "contraposition_323",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "歴史小説を書くには、過去の出来事に対する深い洞察力が必要だ。過去の出来事に対する洞察力がなければ、歴史小説を書くことはできない。つまり、過去の出来事に対する洞察力がないのであれば、歴史小説を書くことはできないのである。"
+    },
+    {
+        "id": "contraposition_324",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ジグソーパズルを組み立てられる人は、ジグソーパズルが好きである。ジグソーパズルが好きではない人は、ジグソーパズルを組み立てられない人である。"
+    },
+    {
+        "id": "contraposition_325",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "災害救援活動に参加していなければ、被災地の人々を支援することはできない。つまり、被災地の人々を支援できる人は、必ず災害救援活動に参加している。"
+    },
+    {
+        "id": "contraposition_326",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "パンを焼くには、生地の発酵が重要だ。発酵しなければ、パンは膨らまない。"
+    },
+    {
+        "id": "contraposition_327",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "国際関係を無視するのなら、世界情勢の理解は難しい。つまり、世界情勢を理解するなら、国際関係を重視しているはずだ。"
+    },
+    {
+        "id": "contraposition_328",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "チョコレートを作らないなら、その工程を理解する必要がない。その工程を理解する必要がないなら、チョコレートを作っているはずだ。"
+    },
+    {
+        "id": "contraposition_329",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "アルガルバイオ燃料を使用しなければ、環境に優しい燃料を使うことはできません。つまり、環境に優しい燃料を使えるということは、アルガルバイオ燃料を使用しているということです。"
+    },
+    {
+        "id": "contraposition_330",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "家系図を作成するには、先祖の情報を丹念に調査しなければならない。そうでなければ、正確な家系図を作成することはできない。"
+    },
+    {
+        "id": "contraposition_331",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ビールの製造工程を理解していなければ、クラフトビールの品質を評価することはできない。しかし、私がクラフトビールの品質を評価できるということは、ビールの製造工程を理解していることを示している。"
+    },
+    {
+        "id": "contraposition_332",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "日本の文化に興味がないなら、きっと好奇心がないだろう。つまり、好奇心があるなら、きっと日本の文化に興味があるはずだ。"
+    },
+    {
+        "id": "contraposition_333",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私がこのパーティーに参加しないなら、私はこのパーティーを楽しめないはずだ。でも、私はこのパーティーを本当に楽しんでいるので、私がこのパーティーに参加していることが分かる。"
+    },
+    {
+        "id": "contraposition_334",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "レゴのブロックを組み立てられない人は、創造的な製品デザインを行うことはできない。つまり、創造的な製品デザインを行える人は、レゴのブロックを組み立てられる人である。"
+    },
+    {
+        "id": "contraposition_335",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "盆栽を育てるには、樹木の成長を適切に管理する能力が重要だ。そうしなければ、美しい盆栽を育てることはできない。つまり、樹木の成長を適切に管理できなければ、素晴らしい盆栽は育てられないのだ。"
+    },
+    {
+        "id": "contraposition_336",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "サーカスのパフォーマンスを見ていないなら、きっと柔軟性がないだろう。つまり、柔軟性があるなら、きっとサーカスのパフォーマンスを見ているはずだ。"
+    },
+    {
+        "id": "contraposition_337",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "雪山を楽しめない人は、スキーをしない。ならば、スキーをする人は雪山を楽しめる。"
+    },
+    {
+        "id": "contraposition_338",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "山登りには、適切な装備と体力が不可欠だ。そうでなければ、危険な状況に陥ってしまう。"
+    },
+    {
+        "id": "contraposition_339",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私が宇宙飛行士ではないなら、私は宇宙に行けない。そうでなければ、私は宇宙に行けるはずだ。"
+    },
+    {
+        "id": "contraposition_340",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ジグソーパズルを作らない人は、問題解決能力を高めることができない。したがって、問題解決能力を高められる人は、ジグソーパズルを作っているはずだ。"
+    },
+    {
+        "id": "contraposition_341",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "高齢者の生活習慣を知らなければ、高齢者の世話はできない。しかし、高齢者の世話ができる人は、必ず高齢者の生活習慣を知っている。"
+    },
+    {
+        "id": "contraposition_342",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "毎日走らないと健康的ではない。しかし、私は健康である。したがって、私は毎日走っているに違いない。"
+    },
+    {
+        "id": "contraposition_343",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "宇宙旅行に参加するには、極限の環境に耐えられる健康状態でなければならない。そうでなければ、宇宙旅行に参加することはできない。"
+    },
+    {
+        "id": "contraposition_344",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ブロガーでない人は、オンラインで自分の意見を発信することはできない。でも、この女性は毎日熱心にブログを更新し、多くのフォロワーを持っている。つまり、彼女はブロガーであり、オンラインで自分の声を発信することができるのだ。"
+    },
+    {
+        "id": "contraposition_345",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "都市部での農業が広がらなければ、食料自給率は上がらない。つまり、食料自給率を上げるには、都市部での農業の普及が重要となる。"
+    },
+    {
+        "id": "contraposition_346",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし山岳自転車に乗らないなら、きっと山の景色を楽しむことはできない。つまり、山の景色を楽しむなら、必ず山岳自転車に乗っているはずだ。"
+    },
+    {
+        "id": "contraposition_347",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "タトゥーアーティストの技術が向上しなければ、個性的なデザインは生み出せない。つまり、個性的なタトゥーデザインを生み出すには、アーティストの技術向上が重要だ。"
+    },
+    {
+        "id": "contraposition_348",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "バレエを習っていない人は、バレエの基本的な動作を理解することはできない。つまり、バレエの基本的な動作を理解できる人は、バレエを習っている人である。"
+    },
+    {
+        "id": "contraposition_349",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "鳥小屋の製作には、鳥の生態を理解し、それに合わせた設計を行う能力が欠かせない。そうでなければ、鳥が快適に過ごせる小屋は作れない。つまり、鳥の生態理解と適切な設計ができなければ、鳥が快適に過ごせる小屋は作れないのである。"
+    },
+    {
+        "id": "contraposition_350",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "音楽を聴くのが好きでない人は、音楽を楽しまない。音楽を聴くのが好きな人は、必ず音楽を楽しむ。"
+    },
+    {
+        "id": "contraposition_351",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "スマートシティの技術を理解していなければ、その恩恵を受けることはできない。つまり、スマートシティの恩恵を受けられるのは、その技術を理解している人だけだ。"
+    },
+    {
+        "id": "contraposition_352",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "最新のファッショントレンドに興味がないなら、毎シーズン新しい服を買う必要がない。毎シーズン新しい服を買う必要があるなら、最新のファッショントレンドに興味があるはずだ。"
+    },
+    {
+        "id": "contraposition_353",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "公共の場所に不適切な作品を設置すれば、地域の景観を損なうだろう。したがって、地域の景観を保つには、適切な作品を選ぶ必要がある。"
+    },
+    {
+        "id": "contraposition_354",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ゲームをしない人は、戦略的思考を養うことができない。しかし、戦略的思考を養っている人は、ゲームをしているはずである。"
+    },
+    {
+        "id": "contraposition_355",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "チーズを作れない人は、チーズ職人ではない。逆に、チーズ職人であれば、チーズを作ることができる。"
+    },
+    {
+        "id": "contraposition_356",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "盆栽の育成には、樹木の成長を適切に管理する知識と経験が重要だ。そうでなければ、美しい盆栽を育てることはできない。つまり、樹木の成長管理の知識と経験がなければ、素晴らしい盆栽は育てられないのである。"
+    },
+    {
+        "id": "contraposition_357",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ブログを書けない人は、ブロガーではない。ブロガーであれば、定期的にブログを更新することができるはずだ。"
+    },
+    {
+        "id": "contraposition_358",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "星空を観察しないのであれば、アマチュア天文学の楽しみを味わえるはずがない。つまり、アマチュア天文学の楽しみを味わえるなら、必ず星空を観察しているはずだ。"
+    },
+    {
+        "id": "contraposition_359",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "医療現場で働いていなければ、患者の痛みを理解することはできない。一方、患者の痛みを理解できる人は、必ず医療現場で働いている。"
+    },
+    {
+        "id": "contraposition_360",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "創造的な書き手でない人は、自己表現の喜びを感じることはできない。一方で、自己表現の喜びを感じている人は、創造的な書き手であると言えるだろう。"
+    },
+    {
+        "id": "contraposition_361",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "トリビアナイトに参加するなら、問題に正解できないと楽しめない。つまり、問題に正解できれば、トリビアナイトを楽しめるはずだ。"
+    },
+    {
+        "id": "contraposition_362",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "トレイルランニングをするには、山道を走る必要がある。山道を走らなければ、トレイルランニングをすることはできない。"
+    },
+    {
+        "id": "contraposition_363",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "漫画の描き方を学んでいなければ、漫画家になることはできない。逆に、漫画家になれる人は、必ず漫画の描き方を学んでいる。"
+    },
+    {
+        "id": "contraposition_364",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "手作りの工芸品を作るには、材料と道具が必要だ。材料と道具がなければ、工芸品を作ることはできない。"
+    },
+    {
+        "id": "contraposition_365",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "漫画家でなければ、漫画を描くことはできない。一方、漫画を描くことができる人は、必ず漫画家である。"
+    },
+    {
+        "id": "contraposition_366",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ドラマを見るのが好きなら、感情移入しないと面白くない。つまり、感情移入できれば、ドラマを楽しめるはずだ。"
+    },
+    {
+        "id": "contraposition_367",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし動物の剥製を作ることが倫理的に問題ないとしたら、それは倫理的に問題があるはずだ。つまり、動物の剥製を作ることは倫理的に問題があると言えるだろう。"
+    },
+    {
+        "id": "contraposition_368",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "企業が社会的責任を果たさなければ、長期的な発展は望めない。つまり、企業が長期的に発展するには、社会的責任を果たす必要がある。"
+    },
+    {
+        "id": "contraposition_369",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "タロットカードを読めない人は、占い師ではない。占い師であれば、必ずタロットカードを読むことができるはずだ。"
+    },
+    {
+        "id": "contraposition_370",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "オペラを楽しめない人は、音楽を愛する人ではない。つまり、音楽を愛する人は、オペラを楽しめる人でもある。"
+    },
+    {
+        "id": "contraposition_371",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "バーベキューを上手に焼けないなら、料理の腕前が足りないはずだ。でも、私のバーベキューは絶品だ。つまり、私の料理の腕前は申し分ないと言えるだろう。"
+    },
+    {
+        "id": "contraposition_372",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "クラシック音楽を理解しないなら、その魅力を感じられないだろう。つまり、クラシック音楽の魅力を感じるには、それを理解する必要がある。"
+    },
+    {
+        "id": "contraposition_373",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし雨が降っていないなら、外出できる。外出できないなら、雨が降っているはずだ。"
+    },
+    {
+        "id": "contraposition_374",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "カクテルを作るには、正しい比率で材料を混ぜる技術が必要不可欠だ。そうでなければ、バランスの取れた味わいは得られない。つまり、材料の比率を正しく混ぜられなければ、美味しいカクテルは作れないのである。"
+    },
+    {
+        "id": "contraposition_375",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "データ可視化をしない人は、意思決定に役立てられないはずだ。したがって、意思決定に役立てられる人は、きっとデータ可視化をしているはずだ。"
+    },
+    {
+        "id": "contraposition_376",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "編み物ができない人は、編み物が好きではない人ではない。編み物が好きではない人は、編み物ができない人ではない。"
+    },
+    {
+        "id": "contraposition_377",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "アロマテラピーの効果を知らない人は、適切なアロマオイルを選ぶことができない。でも、適切なアロマオイルを選べるのであれば、その人はアロマテラピーの効果を知っていると言えるはずだ。"
+    },
+    {
+        "id": "contraposition_378",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "音楽制作の経験がない人は、アーティストのキャリア開発を支援することはできない。つまり、アーティストのキャリア開発を支援できる人は、音楽制作の経験を持っている人である。"
+    },
+    {
+        "id": "contraposition_379",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "バレエダンサーでなければ、バレエの振付を創造することはできない。つまり、バレエの振付を創造できる人は、必ずバレエダンサーである。"
+    },
+    {
+        "id": "contraposition_380",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "釣りで魚が釣れなければ、満足できないはずだ。つまり、満足できれば、釣りで魚が釣れているはずだ。"
+    },
+    {
+        "id": "contraposition_381",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "お茶の味わいを理解していない人は、良質なお茶を見分けられない。しかし、良質なお茶を見分けられるのであれば、その人はお茶の味わいを理解していると言えるだろう。"
+    },
+    {
+        "id": "contraposition_382",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "映画祭に出品されるためには、作品が高い水準に達していなければならない。そうでなければ、出品されることはない。"
+    },
+    {
+        "id": "contraposition_383",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ブロガーでない人は、オンラインで自分の声を発信することはできない。でも、この女性は毎日熱心にブログを更新し、多くのフォロワーを持っている。つまり、彼女はブロガーであり、オンラインで自分の意見を表現することができるのだ。"
+    },
+    {
+        "id": "contraposition_384",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "自動車を運転しないなら、事故に遭うことはない。つまり、事故に遭うなら、自動車を運転しているはずだ。"
+    },
+    {
+        "id": "contraposition_385",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "アロマテラピーの効果を知らない人は、適切なアロマオイルを選べない。つまり、適切なアロマオイルを選べるのであれば、アロマテラピーの効果を知っていると言えるだろう。"
+    },
+    {
+        "id": "contraposition_386",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "スマートシティに住んでいなければ、最新のテクノロジーを活用できない。つまり、最新のテクノロジーを活用できるのは、スマートシティに住んでいる人だけだ。"
+    },
+    {
+        "id": "contraposition_387",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "海洋保護活動に携わっていなければ、海洋生態系を保護することはできない。つまり、海洋生態系を保護できる人は、必ず海洋保護活動に携わっている。"
+    },
+    {
+        "id": "contraposition_388",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ミツバチ飼育の重要性を理解していない人は、絶対にミツバチ保護活動に熱心に取り組むはずがない。しかし、彼女は実際にミツバチ保護のために尽力しているので、彼女はミツバチ飼育の重要性を十分に理解しているに違いない。"
+    },
+    {
+        "id": "contraposition_389",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "蝋燭作りの工程を知らない人は、きれいな蝋燭を作ることはできない。だが、きれいな蝋燭を作れるのであれば、その人はその工程を理解していると言えるはずだ。"
+    },
+    {
+        "id": "contraposition_390",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "コミュニティに参加しない人は、コミュニティの一員ではない。しかし、コミュニティの一員である人が、必ずしもコミュニティに参加しているわけではない。つまり、コミュニティに参加していない人が、コミュニティの一員ではないとは限らない。"
+    },
+    {
+        "id": "contraposition_391",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "自然の中で採取していなければ、フォーラジングを楽しめないはずだ。つまり、フォーラジングを楽しめれば、自然の中で採取しているはずだ。"
+    },
+    {
+        "id": "contraposition_392",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "セキュリティ対策を怠れば、重大な事故が起きる可能性がある。したがって、事故を防ぐには、しっかりとしたセキュリティ対策を講じなければならない。"
+    },
+    {
+        "id": "contraposition_393",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "私が毎日運動すれば、必ず健康的な体型を維持できるはずだ。しかし、私が太っているのを見れば、私が毎日運動しているとは考えにくい。"
+    },
+    {
+        "id": "contraposition_394",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "私が毎日勉強すれば、必ず成績が上がるはずだ。しかし、私の成績が下がっているのを見れば、私が毎日勉強しているとは考えにくい。"
+    },
+    {
+        "id": "contraposition_395",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "私が英語を話せるなら、必ず英語の試験に合格できるはずだ。しかし、私が英語の試験に落ちたのを見れば、私が英語を話せるとは考えられない。"
+    },
+    {
+        "id": "contraposition_396",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "タロットカードを読むことができない人は、占い師ではない。なぜなら、占い師はタロットカードを読むことができるからだ。"
+    },
+    {
+        "id": "contraposition_397",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "アルガルバイオ燃料を使わないなら、再生可能エネルギーの利用は望めない。つまり、再生可能エネルギーを利用するなら、アルガルバイオ燃料を使っているはずだ。"
+    },
+    {
+        "id": "contraposition_398",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ウェブデザインの基本を理解していない人は、魅力的なウェブサイトを作ることはできない。しかし、彼は見事なウェブサイトを制作しているので、彼はウェブデザインの基本を完全に理解していると言えるだろう。"
+    },
+    {
+        "id": "contraposition_399",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "手作りの小物を作るには、創造性と集中力が必要だ。創造性と集中力がなければ、手作りの小物を作ることはできない。"
+    },
+    {
+        "id": "contraposition_400",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "あなたがこの問題を解決できないなら、私もそうだ。私たちは同じ立場にいるのだ。"
+    },
+    {
+        "id": "contraposition_401",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "平和構築に取り組まない人は、対立を解消することができない。つまり、対立を解消できる人は、平和構築に取り組んでいるはずだ。"
+    },
+    {
+        "id": "contraposition_402",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "海洋保護区に魚が住んでいないなら、その保護区は機能していない。つまり、ある保護区に魚が住んでいるなら、その保護区は適切に機能しているといえるだろう。"
+    },
+    {
+        "id": "contraposition_403",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "コミュニティの一員でない人は、コミュニティに参加しない。しかし、コミュニティに参加している人が、必ずしもコミュニティの一員であるわけではない。つまり、コミュニティに参加していない人がコミュニティの一員ではないとは限らない。"
+    },
+    {
+        "id": "contraposition_404",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "スタートアップが成功しないなら、投資家は利益を得られないだろう。しかし、投資家が利益を得られているのであれば、スタートアップが成功しているはずだ。"
+    },
+    {
+        "id": "contraposition_405",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "SNSを使わなければ、オンラインでの人脈を広げることはできない。つまり、オンラインでの人脈を広げられるのは、SNSを使っている人だけだ。"
+    },
+    {
+        "id": "contraposition_406",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "不動産投資をしない人は、家を買わない。不動産投資をする人は、必ず家を買う。"
+    },
+    {
+        "id": "contraposition_407",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "漫画を描くことができる人は、漫画家である。なぜなら、漫画家は漫画を描くことができるからだ。"
+    },
+    {
+        "id": "contraposition_408",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "オペラを聞いていなければ、音楽の魅力を理解できないはずだ。しかし、私はオペラを毎週楽しんでいるので、音楽の素晴らしさを十分に感じ取ることができる。"
+    },
+    {
+        "id": "contraposition_409",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ファッションのDIYをしていなければ、自分好みのデザインを作れないはずだ。しかし、私は毎週ファッションのDIYに取り組んでいるので、自分のスタイルに合った服を作り上げることができる。"
+    },
+    {
+        "id": "contraposition_410",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "パーティーの計画を立てる人は、必ず楽しい時間を過ごせるはずだ。つまり、楽しい時間を過ごせない人は、パーティーの計画を立てていないということになる。"
+    },
+    {
+        "id": "contraposition_411",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "私たちが本を読まないなら、私たちは知識を得ることはできない。つまり、私たちが知識を得ているなら、私たちは本を読んでいるはずだ。"
+    },
+    {
+        "id": "contraposition_412",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "料理ができない人は、シェフではない。シェフであれば、様々な料理を作ることができるはずだ。"
+    },
+    {
+        "id": "contraposition_413",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "トリビアナイトで正解できなければ、楽しめないはずだ。つまり、楽しめれば、トリビアナイトで正解できているはずだ。"
+    },
+    {
+        "id": "contraposition_414",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "帆船を愛好しない人は、海の魅力に惹かれることがない。つまり、海の魅力に惹かれる人は、必ず帆船を愛好しているはずだ。"
+    },
+    {
+        "id": "contraposition_415",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ピアノが弾けない人は、音楽家ではない。音楽家であれば、ピアノを演奏することができるはずだ。"
+    },
+    {
+        "id": "contraposition_416",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "クラフトビールの人気が高まらなければ、地域の醸造所は存続できない。つまり、地域の醸造所を存続させるには、クラフトビールの人気上昇が必要不可欠だ。"
+    },
+    {
+        "id": "contraposition_417",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私がこの難しい数学の問題を解けないのなら、あなたも解けないはずだ。私たちは同じ教育を受けているからだ。"
+    },
+    {
+        "id": "contraposition_418",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "持続可能なファッションを選んでいなければ、環境に配慮していないはずだ。つまり、環境に配慮していれば、持続可能なファッションを選んでいるはずだ。"
+    },
+    {
+        "id": "contraposition_419",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ダンサーが正しい姿勢を保たなければ、優雅に踊れないはずだ。しかし、その動きが不格好だと、きっと姿勢が崩れていたのだと分かる。"
+    },
+    {
+        "id": "contraposition_420",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "イラストを描いているなら、きっと創造性があるはずだ。つまり、創造性がないなら、きっとイラストを描いていないだろう。"
+    },
+    {
+        "id": "contraposition_421",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "野生動物の保護に尽力しない人は、自然の大切さを理解していない。つまり、自然の大切さを理解している人は、必ず野生動物の保護に尽力しているはずだ。"
+    },
+    {
+        "id": "contraposition_422",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "映画制作には、綿密な事前準備が欠かせない。準備しなければ、撮影現場で混乱が起きてしまう。"
+    },
+    {
+        "id": "contraposition_423",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "伝統工芸品を後世に残すには、その価値を理解し、保護する努力が必要だ。その価値を理解せず、保護する努力をしなければ、伝統工芸品を後世に残すことはできない。つまり、伝統工芸品を後世に残せるなら、その価値を理解し、保護する努力をしているはずだ。"
+    },
+    {
+        "id": "contraposition_424",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "チョコレートを好きでないなら、毎日チョコレートを食べる必要がない。毎日チョコレートを食べる必要があるなら、チョコレートを好きなはずだ。"
+    },
+    {
+        "id": "contraposition_425",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "森林保護が重要でないなら、それは重要であるはずがない。つまり、森林保護は重要だと言えるのではないだろうか。"
+    },
+    {
+        "id": "contraposition_426",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ドローン撮影を行うには、空中からの視点を活かすための高度な操縦技術が必要だ。操縦技術が不足していれば、ドローン撮影の意味はない。つまり、操縦技術が不足しているのであれば、ドローン撮影を行うべきではないのである。"
+    },
+    {
+        "id": "contraposition_427",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "都市部での農業が広がらなければ、食の安全性は確保できない。つまり、食の安全性を確保するには、都市部での農業の普及が必要不可欠だ。"
+    },
+    {
+        "id": "contraposition_428",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし会社が倫理的に行動しないなら、顧客の信頼を失うだろう。つまり、会社が顧客の信頼を維持するには、倫理的に行動する必要がある。"
+    },
+    {
+        "id": "contraposition_429",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "良い茶葉を選ぶには、茶葉の産地や製造方法を熟知することが欠かせない。茶葉の産地や製造方法を知らなければ、良い茶葉を選ぶことはできない。つまり、茶葉の産地や製造方法を知らないのであれば、良い茶葉を選ぶことはできないのである。"
+    },
+    {
+        "id": "contraposition_430",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "雇用政策に詳しくない人は、政策立案者ではない。政策立案者であれば、雇用政策について深い知識を持っているはずだ。"
+    },
+    {
+        "id": "contraposition_431",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ラジオDJとして人気を得るには、リスナーを魅了する話術と個性が必要不可欠だ。そうでなければ、人気DJとして認められることはない。"
+    },
+    {
+        "id": "contraposition_432",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "言語学の専門家でなければ、言語の歴史を詳しく説明できない。逆に言えば、言語の歴史を詳しく説明できるなら、言語学の専門家であるはずだ。"
+    },
+    {
+        "id": "contraposition_433",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "国際関係を理解するには、異文化を学ぶ必要がある。異文化を学ばなければ、国際関係を理解することはできない。"
+    },
+    {
+        "id": "contraposition_434",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "本を丁寧に製本しないと、本が傷んでしまう。しかし、私の製本した本は全く傷んでいない。つまり、私は本を丁寧に製本したということだ。"
+    },
+    {
+        "id": "contraposition_435",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "気候変動対策を講じなければ、地球温暖化は進行し続けるだろう。しかし、温室効果ガスの排出量が減少しているのを見れば、対策が功を奏していると言えるだろう。"
+    },
+    {
+        "id": "contraposition_436",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "雪山でスノーボードをしているなら、きっと寒さに耐えられるはずだ。つまり、寒さに耐えられないなら、きっとスノーボードをしていないだろう。"
+    },
+    {
+        "id": "contraposition_437",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "小説を書いていなければ、物語の構造を理解できないはずだ。しかし、私は毎週小説を書いているので、物語の構造を深く理解することができる。"
+    },
+    {
+        "id": "contraposition_438",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "観光客が冒険ツアーに参加しないなら、ツアー会社は収益を上げられないだろう。しかし、ツアー会社が収益を上げられているのであれば、観光客が冒険ツアーに参加しているはずだ。"
+    },
+    {
+        "id": "contraposition_439",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "登山をしない人は、山に登らない。登山をする人は、必ず山に登る。"
+    },
+    {
+        "id": "contraposition_440",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "公演の際は、聴衆の注意を引き付けられなければ、効果的なプレゼンテーションとは言えない。しかし、聴衆が熱心に聞き入っているのを見れば、このプレゼンテーションは成功していると判断できる。"
+    },
+    {
+        "id": "contraposition_441",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "公衆衛生の問題に取り組まないのであれば、地域社会の健康を守ることはできない。つまり、地域社会の健康を守れるなら、必ず公衆衛生の問題に取り組むはずだ。"
+    },
+    {
+        "id": "contraposition_442",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "経済学の知識がない人は、株式市場の動向を正確に予測することはできない。つまり、株式市場の動向を正確に予測できる人は、経済学の知識を持っている人である。"
+    },
+    {
+        "id": "contraposition_443",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "データサイエンスの知識がなければ、企業の意思決定を支援することはできない。つまり、企業の意思決定を支援できるなら、必ずデータサイエンスの知識を持っているはずだ。"
+    },
+    {
+        "id": "contraposition_444",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "山岳自転車に乗らないのなら、絶景を目にすることはできない。つまり、絶景を目にするなら、山岳自転車に乗っているはずだ。"
+    },
+    {
+        "id": "contraposition_445",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "アルガルバイオ燃料を使わないと、クリーンエネルギーの利用は望めない。つまり、クリーンエネルギーを利用するなら、アルガルバイオ燃料を使っているはずだ。"
+    },
+    {
+        "id": "contraposition_446",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "現代ダンスを踊るのが好きでない人は、ダンスを楽しまない。現代ダンスを踊るのが好きな人は、必ずダンスを楽しむ。"
+    },
+    {
+        "id": "contraposition_447",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "お茶の味わいを理解していない人は、良質なお茶を見分けられない。つまり、良質なお茶を見分けられるのであれば、お茶の味わいを理解していると言えるのだ。"
+    },
+    {
+        "id": "contraposition_448",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "観客を驚かせることができない人は、マジックのトリックを知らない。ならば、マジックのトリックを知る人は、観客を驚かせることができる。"
+    },
+    {
+        "id": "contraposition_449",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "編み物ができる人は、編み物が好きである。編み物が好きではない人は、編み物ができない人である。"
+    },
+    {
+        "id": "contraposition_450",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "折り紙を楽しむには、折り方を理解することが不可欠だ。折り方を理解していなければ、美しい作品を作ることはできない。つまり、美しい作品を作れるなら、折り方を理解しているはずだ。"
+    },
+    {
+        "id": "contraposition_451",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ジャズを聴かない人は、音楽の奥深さを理解していないはずだ。一方で、音楽の奥深さを理解している人は、ジャズを聴いているはずである。"
+    },
+    {
+        "id": "contraposition_452",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "高齢者の世話をしていなければ、その大変さを知ることはできない。しかし、その大変さを知っている人は、必ず高齢者の世話をしている。"
+    },
+    {
+        "id": "contraposition_453",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "外国語を話せない人は、通訳者ではない。通訳者であれば、複数の言語を流暢に操ることができるはずだ。"
+    },
+    {
+        "id": "contraposition_454",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "バレンタインデーにチョコレートをあげないなら、その人はあなたのことを好きではないはずだ。でも、その人はあなたにチョコレートをくれたので、その人はあなたのことを好きだと言えるだろう。"
+    },
+    {
+        "id": "contraposition_455",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "パーティーの計画を立てない人は、楽しい時間を過ごすことができない。つまり、楽しい時間を過ごせる人は、必ずパーティーの計画を立てているということだ。"
+    },
+    {
+        "id": "contraposition_456",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "創造的な書き手でなければ、自分の内面を表現することはできない。逆に、自分の内面を表現できる人は、創造的な書き手であると言えるだろう。"
+    },
+    {
+        "id": "contraposition_457",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "本を製本できない人は、本の価値を理解することはできない。しかし、この職人は本の製本に長けており、本の価値を深く理解している。したがって、彼は確実に本を製本することができる。"
+    },
+    {
+        "id": "contraposition_458",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私が音楽に全く興味がないなら、私は絶対にコンサートに行かないだろう。しかし、私はよくコンサートに足を運んでいる。したがって、私は音楽に興味があると言えるはずだ。"
+    },
+    {
+        "id": "contraposition_459",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "歴史小説を書くには、過去の出来事を深く理解し、それを現代の視点から解釈することが不可欠だ。過去の出来事を理解していなければ、現代の視点から解釈することはできない。つまり、過去の出来事を理解していなければ、歴史小説を書くことはできないのである。"
+    },
+    {
+        "id": "contraposition_460",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "家族の歴史に興味がなければ、家系図を作成することはできない。しかし、私が家系図を作成しているということは、家族の歴史に興味があることを意味する。"
+    },
+    {
+        "id": "contraposition_461",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "サーカスのパフォーマンスをしない人は、観客を驚かせられないはずだ。したがって、観客を驚かせられる人は、きっとサーカスのパフォーマンスをしているはずだ。"
+    },
+    {
+        "id": "contraposition_462",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ビールを自作しないと、自分好みの味を見つけられない。でも、ビールを自作すれば、自分だけのオリジナルの味を楽しめるはずだ。"
+    },
+    {
+        "id": "contraposition_463",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "釣りを趣味にするなら、魚を釣れないと満足できない。つまり、魚を釣れれば、釣りを楽しめるはずだ。"
+    },
+    {
+        "id": "contraposition_464",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ゲームをしない人は、楽しみを見出すことができないだろう。しかし、楽しみを見出せる人は、ゲームをしているはずである。"
+    },
+    {
+        "id": "contraposition_465",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし彼女が絵を描くことができないなら、彼女は絵を描くことはできない。しかし、彼女は絵を描くことができるので、彼女は絵を描くことができない、ということはない。"
+    },
+    {
+        "id": "contraposition_466",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "晴れの日に外出しなければ、日焼けしないはずだ。しかし、肌が赤く焼けているのを見れば、きっと雨の日にも外出していたのだと分かる。"
+    },
+    {
+        "id": "contraposition_467",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "この宇宙船が月に到達できないのであれば、私たちは地球に帰れない。そうでなければ、私たちは月に着陸できるはずだ。"
+    },
+    {
+        "id": "contraposition_468",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "都市探検に行かない人は、新しい発見をすることができない。しかし、新しい発見をしている人は、都市探検に行っているはずである。"
+    },
+    {
+        "id": "contraposition_469",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "オペラの歴史を学んでいなければ、その魅力を理解できないはずだ。でも、私はオペラの歴史を熱心に学んでいるので、オペラの素晴らしさを十分に味わえている。"
+    },
+    {
+        "id": "contraposition_470",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ヨーロッパ旅行に行かなければ、その地域の文化を理解することはできません。つまり、その地域の文化を理解できるということは、ヨーロッパ旅行に行ったということです。"
+    },
+    {
+        "id": "contraposition_471",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ガラスモザイクアートを作るには、ガラスの破片を丁寧に切り出し、それらを組み合わせる必要がある。そうしなければ、美しい作品は完成しない。つまり、ガラスの破片を切り出さず組み合わせなければ、美しいガラスモザイクアートは作れないのだ。"
+    },
+    {
+        "id": "contraposition_472",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "山登りには、安全管理が最優先事項だ。安全管理を怠れば、事故に巻き込まれる危険がある。"
+    },
+    {
+        "id": "contraposition_473",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "森林浴をしない人は、ストレスを解消できないだろう。つまり、ストレスが解消できる人は、必ず森林浴をしているはずだ。"
+    },
+    {
+        "id": "contraposition_474",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "スポーツベットをしていないなら、試合の結果を予想することはできない。つまり、試合の結果を正確に予想できたなら、スポーツベットをしていたはずだ。"
+    },
+    {
+        "id": "contraposition_475",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "国際法を守らない国は、平和な国際秩序を乱す。つまり、平和な国際秩序を乱さない国は、必ず国際法を守っているはずだ。"
+    },
+    {
+        "id": "contraposition_476",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "折り紙を楽しむには、紙を巧みに折り曲げる技術が必要だ。紙を折り曲げる技術がなければ、折り紙を楽しむことはできない。つまり、紙を折り曲げる技術がなければ、折り紙を楽しむことはできないのである。"
+    },
+    {
+        "id": "contraposition_477",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私が現代ダンスの歴史や理論を理解していなければ、そのパフォーマンスの意義を説明できない。しかし、私はそのダンスの背景にある思想を詳しく解説できたので、この分野に造詣が深いと言えるはずだ。"
+    },
+    {
+        "id": "contraposition_478",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ヒップホップを愛好していなければ、ヒップホップのライブに行くことはない。逆に、ヒップホップのライブに行く人は、必ずヒップホップを愛好している。"
+    },
+    {
+        "id": "contraposition_479",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "データ可視化をしない人は、情報を正しく理解できないだろう。つまり、情報を正しく理解できる人は、きっとデータ可視化をしているはずだ。"
+    },
+    {
+        "id": "contraposition_480",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "音楽フェスを楽しめない人は、音楽の力を感じられない。つまり、音楽の力を感じられる人は、必ず音楽フェスを楽しめるはずだ。"
+    },
+    {
+        "id": "contraposition_481",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "自動運転車の安全性が確保されていなければ、事故が起きる可能性がある。しかし、事故が起きていないことから、自動運転車の安全性は確保されていると言えるだろう。"
+    },
+    {
+        "id": "contraposition_482",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "暗号化技術を理解していなければ、機密情報を安全に保護することはできない。つまり、機密情報を安全に保護できるのは、暗号化技術を理解している人だけだ。"
+    },
+    {
+        "id": "contraposition_483",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし動物の生息地が保護されていないなら、その動物は絶滅の危機に瀕している。つまり、動物の生息地が保護されていれば、その動物は絶滅の危機に瀕していないということだ。"
+    },
+    {
+        "id": "contraposition_484",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "スパイスの栽培が持続可能でないなら、それは持続可能ではないはずだ。つまり、スパイスの栽培は持続可能だと言えるのではないか。"
+    },
+    {
+        "id": "contraposition_485",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私が大学で教えているなら、学生たちは確実に熱心に学ぶはずだ。しかし、学生たちが熱心に学んでいないのを見ると、私が大学で教えているとは考えられない。"
+    },
+    {
+        "id": "contraposition_486",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし彼女がミツバチ飼育の重要性を理解していないなら、彼女は絶対にミツバチ保護活動に熱心に取り組むはずがない。しかし、彼女は実際にミツバチ保護のために尽力しているので、彼女はミツバチ飼育の重要性を十分に理解しているに違いない。"
+    },
+    {
+        "id": "contraposition_487",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし私がこの手工芸品を作れないのなら、あなたも作れないはずだ。私たちは同じ材料と道具を使っているからだ。"
+    },
+    {
+        "id": "contraposition_488",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "バスケット編みは趣味ではない。なぜなら、趣味は楽しいものだが、バスケット編みは退屈だからだ。"
+    },
+    {
+        "id": "contraposition_489",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "トレイルランニングをする人は、運動が好きである。運動が好きではない人は、トレイルランニングをしない人である。"
+    },
+    {
+        "id": "contraposition_490",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "公衆衛生の課題解決策を提案できない人は、地域の健康問題に取り組むことはできない。逆に、地域の健康問題に取り組むことができる人は、公衆衛生の課題解決策を提案できるはずだ。"
+    },
+    {
+        "id": "contraposition_491",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ボルダリングを楽しむには、自身の体力と技術を十分に把握することが重要だ。自身の体力と技術を把握していなければ、ボルダリングを楽しむことはできない。つまり、自身の体力と技術を把握していないのであれば、ボルダリングを楽しむことはできないのである。"
+    },
+    {
+        "id": "contraposition_492",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ジグソーパズルのパーツが正しく組み立てられていなければ、完成したパズルにはならない。しかし、完成したパズルを見れば、パーツが正しく組み立てられていたことがわかる。"
+    },
+    {
+        "id": "contraposition_493",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "登山に興味がない人は、山に登らない。登山に興味がある人は、必ず山に登る。"
+    },
+    {
+        "id": "contraposition_494",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "本を丁寧に製本しなければ、長く使えないはずだ。しかし、その本が簡単に壊れるのを見れば、適切に製本されていなかったことが分かる。"
+    },
+    {
+        "id": "contraposition_495",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ヨーロッパの歴史を学ばなければ、その地域の文化的背景を理解することはできません。つまり、ヨーロッパの文化的背景を理解できるということは、ヨーロッパの歴史を学んでいるということです。"
+    },
+    {
+        "id": "contraposition_496",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "ごみの分別をしていれば、リサイクルが促進される。分別をしていなければ、リサイクルが進まないことになる。"
+    },
+    {
+        "id": "contraposition_497",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "虫を集めていないなら、新しい種類の虫を見つけることはできない。つまり、新しい種類の虫を見つけたなら、虫を集めていたはずだ。"
+    },
+    {
+        "id": "contraposition_498",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "平和構築に取り組まない国は、必ず長期的に安定を維持することはできない。なぜなら、平和構築に尽力する国こそが、対立を解消し、持続可能な平和を実現できるからだ。"
+    },
+    {
+        "id": "contraposition_499",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "サーフボードを上手に作れないなら、それは私の技術が足りないからだ。でも、私はサーフボードを上手に作れる。つまり、私の技術は十分だと言えるだろう。"
+    },
+    {
+        "id": "contraposition_500",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "もし魚が水中にいないなら、その場所は海ではない。つまり、ある場所に魚がいるなら、その場所は海だと言えるのだ。"
+    },
+    {
+        "id": "contraposition_501",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "陶芸作品を高値で販売するには、作品の芸術性と技術力が高く評価されていなければならない。そうでなければ、高値で販売することはできない。"
+    },
+    {
+        "id": "contraposition_502",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "良い茶葉を選ぶには、茶葉の特性を理解することが重要だ。茶葉の特性を理解していなければ、良い茶葉を選ぶことはできない。つまり、茶葉の特性を理解していないのであれば、良い茶葉を選ぶことはできないのである。"
+    },
+    {
+        "id": "contraposition_503",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "パン作りのテクニックを習得していなければ、本格的な手作りパンを作ることはできない。つまり、本格的な手作りパンを作れるのは、そのテクニックを習得している人だけだ。"
+    },
+    {
+        "id": "contraposition_504",
+        "rhetorical_device": [
+            "contraposition"
+        ],
+        "text": "日本の文化に興味があるなら、きっと好奇心があるはずだ。つまり、好奇心がないなら、きっと日本の文化に興味がないだろう。"
+    }
+]

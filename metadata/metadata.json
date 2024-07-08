@@ -1,0 +1,51 @@
+{
+  "dataset_name": "Japanese Rhetoric Annotation Dataset (J-RAD)",
+  "version": "1.0",
+  "author": "Say Toaza",
+  "license": "CC BY-NC-SA 4.0",
+  "url": "https://github.com/10sedecim/J-RAD",
+  "overview": "Japanese Rhetoric Annotation Dataset (J-RAD) is a dataset of Japanese sentences annotated with rhetorical devices.",
+  "purpose": "The purpose of this dataset is to provide a resource for studying rhetorical devices in Japanese text.",
+  "data_format": "JSON",
+  "schema": {
+    "fields": [
+      {
+        "name": "id",
+        "description": "Unique identifier for each entry.",
+        "type": "string",
+        "example": "epitrope_0"
+      },
+      {
+        "name": "rhetorical_device",
+        "description": "List of rhetorical devices present in the sentences.",
+        "type": "array",
+        "example": ["epitrope"]
+      },
+      {
+        "name": "text",
+        "description": "Japanese text of the sentence.",
+        "type": "string",
+        "example": "新しいカヤックの機能性については、私はこのように評価しているのですが、あなたはどのように感じられますか?私の意見に同意されますか?"
+      }
+    ]
+  },
+  "data_collection_method": "Data was collected by LLM-based text generation with prompts for rhetorical devices.",
+  "data_source": "LLM-based text generation.",
+  "known_issues": [
+    "This dataset does not contain phonological rhetorical devices, which are difficult to represent with LLMs.",
+    "The dataset may contain some noise due to the nature of LLM-based text generation."
+  ],
+  "application_areas": [
+    "Rhetorical analysis",
+    "Stylometry",
+    "Text generation"
+  ],
+  "update_history": [
+    {
+      "version": "1.0",
+      "date": "2024-07-07",
+      "changes": "Initial release."
+    }
+  ],
+  "maintenance_plan": "Updates will be released quarterly based on user feedback and new data availability."
+}

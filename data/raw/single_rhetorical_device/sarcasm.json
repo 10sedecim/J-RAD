@@ -1,0 +1,3523 @@
+[
+    {
+        "id": "sarcasm_0",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、あの人は無線機の修理が本当に上手ね。壊れた機械を直すどころか、さらに壊してしまうのが得意なのよ。"
+    },
+    {
+        "id": "sarcasm_1",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの部屋はとてもきれいですね。汚れ一つないなんて、まるで新築のようです。"
+    },
+    {
+        "id": "sarcasm_2",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "岩登りは本当に簡単だと思う。私なんて初心者なのに、すぐに頂上まで登れるはずだ。"
+    },
+    {
+        "id": "sarcasm_3",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "きのこ狩りなんて危険じゃないわ。毒キノコを見分けられるなんて、あなたは本当に賢いのね。"
+    },
+    {
+        "id": "sarcasm_4",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "自動車に頼らずに自転車で通勤する同僚に「車を運転するのは本当に大変だね。自転車のほうが楽だと思う」と言った。"
+    },
+    {
+        "id": "sarcasm_5",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "この企業のCSR活動は本当に感動的ですね。ただの宣伝活動に過ぎないのに、みんなを騙すのが上手いですね。"
+    },
+    {
+        "id": "sarcasm_6",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ごみの分別なんて簡単ですよ。全然大変じゃありませんね。"
+    },
+    {
+        "id": "sarcasm_7",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "バイオフィリックデザインって、自然と調和した空間を作れるんでしょう。人工的な感じがしないなんて、素晴らしいですね。"
+    },
+    {
+        "id": "sarcasm_8",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、この新しいカクテルは本当に美味しい。まるで洗剤を飲んでいるみたいだ。"
+    },
+    {
+        "id": "sarcasm_9",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの料理は本当に絶品ですね。私はこんなに美味しいものを食べたことがありません。"
+    },
+    {
+        "id": "sarcasm_10",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "VRって、まるで現実世界にいるみたいだって。まるで本当に別の世界に行けるみたいね。"
+    },
+    {
+        "id": "sarcasm_11",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "タクシデルミーは本当に素晴らしい趣味だと思う。動物の死体を飾り付けるなんて、とてもエレガントだわ。"
+    },
+    {
+        "id": "sarcasm_12",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "コンポストを作るのが好きな家族に「ごみを減らすのは本当に大変だよ。コンポストなんて作らなくても大丈夫」と言った。"
+    },
+    {
+        "id": "sarcasm_13",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "遺伝子編集は人類にとって大きな福音に違いありません。私たちの未来は間違いなく明るいでしょう。"
+    },
+    {
+        "id": "sarcasm_14",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "音楽を聴くのが好きなの?そうね、私もあの耳障りな音を楽しめるわ。"
+    },
+    {
+        "id": "sarcasm_15",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "イノベーションって、まさに私たちの会社の得意分野ですよね。新しいアイデアなんて、ほとんど出ませんからね。"
+    },
+    {
+        "id": "sarcasm_16",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ホメオパシーの専門家は本当に信頼できる人ですね。科学的根拠なんて必要ないですからね。"
+    },
+    {
+        "id": "sarcasm_17",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "エコ製品を使うなんて、地球を救う聖人みたいですね。でも、そんなの誰も気にしないでしょう。"
+    },
+    {
+        "id": "sarcasm_18",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ええ、あなたの講演はとても面白かったわ。私はずっと眠たくならなかったわ。"
+    },
+    {
+        "id": "sarcasm_19",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ペットを里親に引き取るなんて、本当に簡単そう。面倒なことなんてないと思う。"
+    },
+    {
+        "id": "sarcasm_20",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "この地ビールの味は、まるで天使が舌を優しく舐めているみたいだね。"
+    },
+    {
+        "id": "sarcasm_21",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの不動産屋さん、本当に親切だったわ。私たちの要望をしっかり聞いてくれたみたいね。"
+    },
+    {
+        "id": "sarcasm_22",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "リサイクルに熱心な友人に「ごみを分別するのは本当に大変だね。環境のことなんて全然気にしないでいいよ」と言った。"
+    },
+    {
+        "id": "sarcasm_23",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "この映画の主演俳優は、演技が本当に素晴らしいですね。まるで本物の人間のようです。"
+    },
+    {
+        "id": "sarcasm_24",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ええ、あの家電は本当に便利ですね。まるで石器時代に戻ったみたい。"
+    },
+    {
+        "id": "sarcasm_25",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの刺繍の技術は本当に素晴らしいですね。まるで職人の仕事のようです。"
+    },
+    {
+        "id": "sarcasm_26",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "写真撮影のコツ? そうですね、カメラを持って外に出るだけで完璧な作品が撮れますよ。フィルターなんて必要ありませんからね。"
+    },
+    {
+        "id": "sarcasm_27",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ペットの躾なんて、簡単だと思いませんか?犬や猫を従順に育てられるなんて、本当に天才的ですね。"
+    },
+    {
+        "id": "sarcasm_28",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "社長のプレゼンテーションは、まさに私たちが求めていたものでした。明確な説明と具体的な行動計画、素晴らしかったです。"
+    },
+    {
+        "id": "sarcasm_29",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "astrophotographyは本当に難しい趣味だと思う。私なんて、カメラの設定もよくわからないけど、きっと素晴らしい写真が撮れるに違いない。"
+    },
+    {
+        "id": "sarcasm_30",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの絵は本当に素晴らしい技術ですね。まるで幼稚園児の絵のようです。"
+    },
+    {
+        "id": "sarcasm_31",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ええ、この新しいスタートアップの広告キャンペーンは本当に目を引くわ。きっと大成功するに違いない。"
+    },
+    {
+        "id": "sarcasm_32",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの感情コントロールは本当に素晴らしいわ。怒りを抑えるのがとても上手ね。"
+    },
+    {
+        "id": "sarcasm_33",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、あの人は本当に頭がいいですね。いつも間違いだらけの発言をしているのに。"
+    },
+    {
+        "id": "sarcasm_34",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ヒップホップって、本当に素晴らしい音楽ジャンルよね。誰もが簡単に理解できるし、とてもクリエイティブだわ。"
+    },
+    {
+        "id": "sarcasm_35",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "消費者保護法? そんなものは必要ありませんよ。企業は絶対に消費者の利益を第一に考えていますからね。"
+    },
+    {
+        "id": "sarcasm_36",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの振付家は本当に天才的ね。まるで初心者みたいな作品を作っているわ。"
+    },
+    {
+        "id": "sarcasm_37",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ほら、あの人の縫い物、本当に上手ですね。まるで職人の仕事のようだわ。"
+    },
+    {
+        "id": "sarcasm_38",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "スマートホームって本当に便利ね。家中のランプを操作するのに、わざわざスマホを取り出さなきゃいけないなんて。"
+    },
+    {
+        "id": "sarcasm_39",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの山道は本当に景色が素晴らしかったわ。転んで泥まみれになったのが一番の思い出よ。"
+    },
+    {
+        "id": "sarcasm_40",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ほら、あの新興企業の社長は本当に優秀ですね。従業員の意見なんて全然聞いていないみたいですから。"
+    },
+    {
+        "id": "sarcasm_41",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、あの山登りは本当に楽しかったわ。疲れ果てて、足が棒のようになったのが最高だったわ。"
+    },
+    {
+        "id": "sarcasm_42",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "この職業訓練プログラムは、まさに就職に最適ね。受講生たちは、きっと夢の職に就けるわ。"
+    },
+    {
+        "id": "sarcasm_43",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "チェスの戦略なんて、私にはよくわからないわ。ただ、駒を動かしているだけで勝てるんでしょ?"
+    },
+    {
+        "id": "sarcasm_44",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ええと、この公共交通機関は本当に便利ですね。いつも定時通りに来るから助かります。"
+    },
+    {
+        "id": "sarcasm_45",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、この新しい医療技術は本当に素晴らしいですね。患者さんの命を救うどころか、むしろ危険を増大させているようですが。"
+    },
+    {
+        "id": "sarcasm_46",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの劇団の公演は本当に素晴らしかったわ。観客が寝てしまったのが一番の見どころだったわね。"
+    },
+    {
+        "id": "sarcasm_47",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "キャリアコーチングなんて、本当に役立つサービスだと思う。自分の人生を変えられるって素晴らしいよね。"
+    },
+    {
+        "id": "sarcasm_48",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "スキー場に行けば、雪が全然ないのに楽しめるはずですよ。寒さで凍えるだけでしょう。"
+    },
+    {
+        "id": "sarcasm_49",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの服装は本当に素敵ですね。私はあなたのファッセンスに感心しています。"
+    },
+    {
+        "id": "sarcasm_50",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "遺伝子治療は本当に素晴らしい技術ですね。副作用がなく、確実に治療できると信じているのでしょうが、実際はどうなんでしょうね。"
+    },
+    {
+        "id": "sarcasm_51",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "オペラの公演、本当に素晴らしかったわ。私、全然眠くならなかったわよ。"
+    },
+    {
+        "id": "sarcasm_52",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ええ、あの人の香辛料の知識は素晴らしいわ。毎回間違えて、変な味付けをするのが特技なのよ。"
+    },
+    {
+        "id": "sarcasm_53",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ドラマって本当に退屈だと思う。私なんて、毎回寝ちゃうから、きっと演技力も抜群なはずだ。"
+    },
+    {
+        "id": "sarcasm_54",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、本当に素晴らしい景色ですね。まるで絵のようだわ。"
+    },
+    {
+        "id": "sarcasm_55",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "森林園芸なんて、誰でも手軽にできるわよね。雑草と戦いながら、毎日汗を流すのが何よりの醍醐味だと思う。"
+    },
+    {
+        "id": "sarcasm_56",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "AIの倫理なんて、人間が考えるよりも、AIの方が上手に解決できるはずよ。人間なんて、倫理なんて分かるわけないでしょ。"
+    },
+    {
+        "id": "sarcasm_57",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "この新しい携帯電話、最新機能がたくさんついているわね。ただ、バッテリーが1時間しか持たないけど。"
+    },
+    {
+        "id": "sarcasm_58",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "クラシック音楽コンサートは本当に面白いですね。聴衆が寝ていないところを見たことがないですからね。"
+    },
+    {
+        "id": "sarcasm_59",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ガーデニングって、水やりと草むしりだけでしょ?そんな簡単なことを毎日やるなんて、私には到底無理ね。"
+    },
+    {
+        "id": "sarcasm_60",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、まさに私のお気に入りのスポーツですね。キャッチするのが本当に簡単だと思います。"
+    },
+    {
+        "id": "sarcasm_61",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "写真アルバムを作るのって時間がかかりますよね。でも、私はすぐに完成させられましたよ。"
+    },
+    {
+        "id": "sarcasm_62",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "音楽を聴くなんて最高だと思う。一日中音楽に浸れるなんて、本当にリラックスできるに違いない。"
+    },
+    {
+        "id": "sarcasm_63",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "金融リテラシーなんて、誰が必要だと思っているのかしら。私たちは皆、お金の使い方を完璧に理解しているわ。"
+    },
+    {
+        "id": "sarcasm_64",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "岩登りは本当に楽しい運動だと思う。私なんて、怖くて全然登れないけど、きっと世界一の登山家になれるに違いない。"
+    },
+    {
+        "id": "sarcasm_65",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "遺伝子療法は本当に素晴らしい医療技術ですね。副作用がなくて、100%安全だと聞きましたよ。"
+    },
+    {
+        "id": "sarcasm_66",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、DIYは本当に楽しいわ。特に、工具を使いこなせないから、いつも思った通りにはいかないのが最高ね。"
+    },
+    {
+        "id": "sarcasm_67",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、この混雑した電車は本当に快適ね。みんな気持ちよく座れているわ。"
+    },
+    {
+        "id": "sarcasm_68",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "チェスは本当に頭の良い人しかできない競技だと思う。私なんて、戦略が全然わからないけど、きっと天才棋士になれるに違いない。"
+    },
+    {
+        "id": "sarcasm_69",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの新しい髪型、とてもお洒落よ。まるで子供の遊び道具みたい。"
+    },
+    {
+        "id": "sarcasm_70",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの即興劇は本当に面白かったわ。まるで初めての舞台のようだったわ。"
+    },
+    {
+        "id": "sarcasm_71",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、本当に素晴らしい天気ですね。雨が降り続けるなんて、まさに私たちの計画にぴったりです。"
+    },
+    {
+        "id": "sarcasm_72",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ペットの写真を撮るなんて、本当に難しいわ。私なんて、カメラを持っているだけで天才みたいに見えるわ。"
+    },
+    {
+        "id": "sarcasm_73",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、あなたの演奏は本当に素晴らしかったわ。まるで天使の歌声のようだったわ。"
+    },
+    {
+        "id": "sarcasm_74",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ガラスモザイクアートって、本当に芸術的だと思う。まるで子供の絵みたいだわ。"
+    },
+    {
+        "id": "sarcasm_75",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ビッグデータを活用すれば、私たちの生活はきっと劇的に改善されるでしょう。データ分析の結果、私たちは完全に無視されることが判明したようですが。"
+    },
+    {
+        "id": "sarcasm_76",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ケーキの装飾なんて、私にはまったく難しくないわ。あれだけ完璧に仕上がったケーキを作れるなんて、本当に驚きです。"
+    },
+    {
+        "id": "sarcasm_77",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ええ、確かにあなたの意見は完璧ね。私にはそんな洞察力はないわ。"
+    },
+    {
+        "id": "sarcasm_78",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "宇宙開発に投資するなんて、本当に素晴らしいアイデアだと思う。税金の無駄遣いに過ぎないけどね。"
+    },
+    {
+        "id": "sarcasm_79",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ええ、あなたの料理は本当に美味しいわ。焦げ目だらけで、塩コショウも忘れているなんて、シェフ気取りだと思う。"
+    },
+    {
+        "id": "sarcasm_80",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ゲームって、ただボタンを押すだけでしょ?そんな単純なことを楽しめる人って、本当に知的レベルが低いんじゃないかしら。"
+    },
+    {
+        "id": "sarcasm_81",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "宗教の話なんて、私には全然興味がないわ。人生の意味なんて、誰が知りたいんだよ。"
+    },
+    {
+        "id": "sarcasm_82",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "わあ、あなたの歌声は本当に素晴らしい!音痴すぎて、耳を塞ぎたくなるわ。きっと、コーラスに選ばれるでしょう。"
+    },
+    {
+        "id": "sarcasm_83",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "チョコレート作りって、本当に簡単だと思う。材料を混ぜるだけで、プロ顔負けの逸品が作れるんだから。"
+    },
+    {
+        "id": "sarcasm_84",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ワンちゃんの写真を撮るのって、本当に簡単そうだわ。まるで子供でも撮れそうね。"
+    },
+    {
+        "id": "sarcasm_85",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "文芸批評なんて、誰が読むのかしら。つまらない専門用語を並べて、自分の知識をアピールしているだけでしょ。"
+    },
+    {
+        "id": "sarcasm_86",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "人道支援に寄付するなんて、きっと誰もが喜ぶでしょう。誰も助からないけど。"
+    },
+    {
+        "id": "sarcasm_87",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの歌声は本当に素晴らしいわ。私の耳が痛くなるほど素晴らしかったわ。"
+    },
+    {
+        "id": "sarcasm_88",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ポッドキャストを作るなんて、本当に簡単そうね。私にもきっと才能があるはず。"
+    },
+    {
+        "id": "sarcasm_89",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "仮想通貨は誰でも簡単に稼げる夢の投資ですよ。価格が上がり続けるに違いありません。"
+    },
+    {
+        "id": "sarcasm_90",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、この祭りは本当に素晴らしいですね。人がいっぱいいて、とても楽しそうですよ。"
+    },
+    {
+        "id": "sarcasm_91",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、本当に素晴らしい。私の人生を変えてくれるわ。"
+    },
+    {
+        "id": "sarcasm_92",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ええ、あの人のゲームは本当に面白いわ。バグだらけで、プレイするのが苦痛なのが特徴よ。"
+    },
+    {
+        "id": "sarcasm_93",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "遺伝子治療は、私たちの健康を劇的に改善してくれるに違いありません。ただし、副作用で全身が変形してしまうかもしれませんが。"
+    },
+    {
+        "id": "sarcasm_94",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "タロット占いは完全に科学的で信頼できる方法だと思う。占い師が未来を正確に予測できるなんて、本当に驚きだよ。"
+    },
+    {
+        "id": "sarcasm_95",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの人の手作りのレースは本当に繊細で美しいです。まるで機械で作ったみたい。"
+    },
+    {
+        "id": "sarcasm_96",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "はい、社長のスピーチはとても明確で分かりやすかったですね。私たちは今後の方向性をしっかりと理解できました。"
+    },
+    {
+        "id": "sarcasm_97",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "クルーズ旅行は最高ですね。船酔いに悩まされながら、狭い客室で過ごすのが楽しみだと本当に思っているのでしょうか。"
+    },
+    {
+        "id": "sarcasm_98",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ほら、あの人は本当に頭がいいんだって。まるで宇宙人みたいに頭が良すぎるわ。"
+    },
+    {
+        "id": "sarcasm_99",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "スキー旅行に行くなんて、きっと雪が全然ないだろうから楽しめるでしょうね。"
+    },
+    {
+        "id": "sarcasm_100",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "大人の教育プログラムは本当に素晴らしいわね。受講生たちがみんな熱心に学んでいるのが見てとれるわ。"
+    },
+    {
+        "id": "sarcasm_101",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ホームブルーイングの講習会は本当に役立ちましたね。私たちのビールはまるで酢のようでした。"
+    },
+    {
+        "id": "sarcasm_102",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、あの番組は本当に面白いわね。まるで寝耳に水みたいに退屈だわ。"
+    },
+    {
+        "id": "sarcasm_103",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、本当に素晴らしい仕事ね。ミスばかりで、期限も守れないなんて、上司も喜んでいるでしょう。"
+    },
+    {
+        "id": "sarcasm_104",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "リモートワークが当たり前になった今、上司に「オフィスに出勤するのは本当に楽しいですね。家にいるのは退屈だから」と言った。"
+    },
+    {
+        "id": "sarcasm_105",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ロボット技術の進歩は素晴らしいですね。人間の仕事を奪うのが目的なんでしょうが、それでも喜んでいるのでしょうか。"
+    },
+    {
+        "id": "sarcasm_106",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "サーフィンは気持ちいいスポーツよ。波に乗れなくて、砂浜を歩き回るのが一番楽しいに決まっているわ。"
+    },
+    {
+        "id": "sarcasm_107",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "この絵は本当に素晴らしい。まるで子供が描いたみたい。"
+    },
+    {
+        "id": "sarcasm_108",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "リーダーシップについて学ぶ必要がないと考えている同僚に「リーダーシップなんて本当に大切じゃないよね。上司に指示されるだけで十分だから」と言った。"
+    },
+    {
+        "id": "sarcasm_109",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "人権なんて、誰も気にしてないでしょ。大切なのは経済成長だけだと思う。"
+    },
+    {
+        "id": "sarcasm_110",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "健康管理なんて面倒くさいですね。毎日運動して、バランスの取れた食事をするなんて、本当に大変です。"
+    },
+    {
+        "id": "sarcasm_111",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ジャズって、素晴らしい音楽ジャンルだと思う。誰得な変な音が鳴り響いているだけじゃない?"
+    },
+    {
+        "id": "sarcasm_112",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ハイドロポニックスって、本当に環境に優しい技術だと思う。水を無駄遣いしまくるのが特徴だもんね。"
+    },
+    {
+        "id": "sarcasm_113",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "音楽プロデューサーの仕事は本当に楽ですね。ストレスもなく、毎日楽しく過ごせるんでしょう。"
+    },
+    {
+        "id": "sarcasm_114",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "アニメって、本当に子供向けの単純なものですよね。大人が見るものじゃありませんね。"
+    },
+    {
+        "id": "sarcasm_115",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "タップダンスの振り付けって、本当に複雑だったわね。私なんて絶対にマスターできないわ。"
+    },
+    {
+        "id": "sarcasm_116",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "オペラは本当に私の人生の中で最も楽しい体験だったわ。あんなに退屈な時間を過ごしたことはないわ。"
+    },
+    {
+        "id": "sarcasm_117",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "遺伝子治療は本当に素晴らしい技術ですね。副作用がなく、確実に治療できると信じているのでしょう。"
+    },
+    {
+        "id": "sarcasm_118",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ペットを里親に出すのは本当に大変なことだと思う。動物を引き取ってくれる人を見つけるのは簡単じゃないからね。"
+    },
+    {
+        "id": "sarcasm_119",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、この高級レストランの料理は最高ね。値段に見合っているわ。"
+    },
+    {
+        "id": "sarcasm_120",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの仕事ぶりは素晴らしいですね。私はあなたが昇進するのを待っています。"
+    },
+    {
+        "id": "sarcasm_121",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "リモートワークは本当に楽な仕事ですね。家にいながら、しっかりと業務をこなせるなんて素晴らしいです。"
+    },
+    {
+        "id": "sarcasm_122",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの野生動物の追跡は本当に簡単だと思います。動物の足跡を見つけるのが、そんなに難しいはずがないですからね。"
+    },
+    {
+        "id": "sarcasm_123",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、この料理は本当に美味しそうね。私なんて、シェフになれるかもしれないわ。"
+    },
+    {
+        "id": "sarcasm_124",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "マスキングテープアートって、子供でも簡単にできるんでしょ?私なんて、そんな幼稚なことに時間を使いたくないわ。"
+    },
+    {
+        "id": "sarcasm_125",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ホテルの部屋なんて必要ないわ。この狭い小屋で快適に過ごせるに決まっているでしょう。"
+    },
+    {
+        "id": "sarcasm_126",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ふふ、あの料理教室は本当に役立ったわ。私なんて、もう料理の天才よ。"
+    },
+    {
+        "id": "sarcasm_127",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、あの人は無線機の使い方を本当によく知っているわ。毎回電波法に違反しているのを見逃してあげているのよ。"
+    },
+    {
+        "id": "sarcasm_128",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、この新しいスタートアップのアイデアは本当に革新的だわ。まるで天才的だと思う。"
+    },
+    {
+        "id": "sarcasm_129",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "先生、あなたの授業はとても分かりやすかったです。私たちは全員寝ていたけど。"
+    },
+    {
+        "id": "sarcasm_130",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "eSportsって、まるで本当のスポーツみたいですね。ゲームなんて子供の遊びに過ぎないのに。"
+    },
+    {
+        "id": "sarcasm_131",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "スキー場の雪質は最高ね。滑るのが本当に楽しいわ。雪が全然ないのに。"
+    },
+    {
+        "id": "sarcasm_132",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、この絵は本当に素晴らしい。まるで子供が描いたみたいだ。"
+    },
+    {
+        "id": "sarcasm_133",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ラジオ体操なんて楽勝だよ。毎日10分もやれば、健康的な生活が送れるって素晴らしいね。"
+    },
+    {
+        "id": "sarcasm_134",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、金融リテラシーなんて誰が必要だと思っているのかしら。私たちはみんな自然と金融の達人になれるわよね。"
+    },
+    {
+        "id": "sarcasm_135",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの演説は本当に素晴らしかったわ。聴衆は完全に魅了されていたみたいだったわよ。"
+    },
+    {
+        "id": "sarcasm_136",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ホテルの朝食なんて最高よ。あんなに豪華な食事を毎日食べられるなんて羨ましいわ。"
+    },
+    {
+        "id": "sarcasm_137",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "健康管理なんて大切じゃありませんよ。運動も食事も気にしなくても、問題ないはずです。"
+    },
+    {
+        "id": "sarcasm_138",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ドローンで撮影するなんて、まるで天才的な発想ですね。きっと誰も真似できないでしょう。"
+    },
+    {
+        "id": "sarcasm_139",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ワンちゃんの写真展、すごく素敵だったわ。まるで専門家が撮ったみたい。"
+    },
+    {
+        "id": "sarcasm_140",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "暗号化なんて、私にはとてもできそうにないわ。でも、きっとあなたなら簡単に解けるんでしょ?天才的な頭脳を持っているあなたなら、なんでもできるわよね。"
+    },
+    {
+        "id": "sarcasm_141",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ガラスモザイクアートって、とてもクリエイティブだと思う。まるで子供の遊びみたいだわ。"
+    },
+    {
+        "id": "sarcasm_142",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ダンスパーティーは本当に素晴らしかったわ。足が痛くなるまで踊り続けられたなんて、夢のようです。"
+    },
+    {
+        "id": "sarcasm_143",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、この小さな盆栽がとても大きく育ったわね。まるで自然の中の巨木のようだわ。"
+    },
+    {
+        "id": "sarcasm_144",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "刺繍なんて難しいと思いますか?私なんて初心者ですが、すぐに上手になれましたよ。"
+    },
+    {
+        "id": "sarcasm_145",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの劇団の俳優たちは本当に才能があるわ。観客が退場してしまったのを見ると、そう思えるわね。"
+    },
+    {
+        "id": "sarcasm_146",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "この水彩画は、まるで有名画家の作品みたい。まさに子供の落書きそのものだわ。"
+    },
+    {
+        "id": "sarcasm_147",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "スマートホームって本当に便利だと思う。ボタンを押すのが面倒だから、音声操作に頼らざるを得ないんだもの。"
+    },
+    {
+        "id": "sarcasm_148",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、あの人は園芸が本当に得意ね。植物を枯らすのが早いのが自慢なのよ。"
+    },
+    {
+        "id": "sarcasm_149",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "インターネットは本当に便利な発明だと思う。ネットで情報を集めたり、SNSで交流したりできるなんて、本当に素晴らしいよね。"
+    },
+    {
+        "id": "sarcasm_150",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "海洋学なんて、本当に面白い分野ね。誰もが興味を持てるような研究テーマばかりだわ。"
+    },
+    {
+        "id": "sarcasm_151",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの人、ゲームのプログラミングが本当に上手だって。バグだらけのゲームを作るなんて、天才的ね。"
+    },
+    {
+        "id": "sarcasm_152",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、本当に素晴らしい天気ですね。外出するのは最高の選択だと思います。"
+    },
+    {
+        "id": "sarcasm_153",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの仕事ぶりは本当に素晴らしいですね。遅刻なんて、まさに模範的な社員ですね。"
+    },
+    {
+        "id": "sarcasm_154",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの陶芸家の作品は、まるで芸術品のようですね。まあ、ただの粘土の塊に過ぎませんが。"
+    },
+    {
+        "id": "sarcasm_155",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの料理は本当に美味しそうよ。焦げ目がついているのがポイントね。"
+    },
+    {
+        "id": "sarcasm_156",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの絵画は本当に色彩豊かだと思う。まるで幼稚園児が描いたみたい。"
+    },
+    {
+        "id": "sarcasm_157",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ふふ、あの料理本は本当に役立ったわ。私なんて、もう料理の専門家よ。"
+    },
+    {
+        "id": "sarcasm_158",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "投資なんて簡単だよ。株価が下がったら買えばいいし、上がったら売ればいい。誰でもできるよね。"
+    },
+    {
+        "id": "sarcasm_159",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、この新しいカクテルは本当に美味しい。まるで酢とビールを混ぜたみたいだ。"
+    },
+    {
+        "id": "sarcasm_160",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、あの人は本当に頭がいいですね。毎日新しい発見をしているみたいだ。"
+    },
+    {
+        "id": "sarcasm_161",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの発表は完璧でしたね。私はあなたの話し方に感動しました。"
+    },
+    {
+        "id": "sarcasm_162",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "フリーランスの仕事は本当に楽で、ストレスもないですよね。クライアントに振り回されることなんてないですからね。"
+    },
+    {
+        "id": "sarcasm_163",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "チェスの戦略なんて、誰でも簡単に理解できますよね。私はまだ基本的な動きすら覚えられないのですが、きっと天才的な頭脳を持っているのでしょう。"
+    },
+    {
+        "id": "sarcasm_164",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ろうそくづくりって、本当に楽しい趣味だと思います。ろうそくを作るのに何時間もかかるなんて、時間の無駄ですね。"
+    },
+    {
+        "id": "sarcasm_165",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "タクシデルミーは本当に素晴らしい趣味だと思う。動物の死体を飾り付けるなんて、とてもエレガントだわ。まるで墓場みたいだけど。"
+    },
+    {
+        "id": "sarcasm_166",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの小説の主人公は本当に魅力的だと思う。まるで現実離れしたキャラクターみたい。"
+    },
+    {
+        "id": "sarcasm_167",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ナノテクノロジーって、まるで魔法みたいね。私たちの生活をこんなにも変えられるなんて、本当に驚きよ。"
+    },
+    {
+        "id": "sarcasm_168",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ヨーロッパ旅行は最高だったわ。飛行機の遅延なんて、まるで夢のようだったわ。"
+    },
+    {
+        "id": "sarcasm_169",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ペットの写真を撮るなんて、本当に難しいわ。私なんて、カメラを持っているだけで天才みたいに見えるわ。まるで芸術家みたい。"
+    },
+    {
+        "id": "sarcasm_170",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、あのイベントの企画は素晴らしいわ。まるで子供が考えたみたい。"
+    },
+    {
+        "id": "sarcasm_171",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "外で写真を撮るのって、最高の趣味ね。きっと自然の美しさを存分に楽しめるに違いないわ。"
+    },
+    {
+        "id": "sarcasm_172",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "消費者保護法? そんなものは必要ありませんよ。企業は絶対に消費者の利益を第一に考えていますから。"
+    },
+    {
+        "id": "sarcasm_173",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ジャズミュージックって本当に心地よいですよね。寝耳に水というか、まるで耳を刺激するようなリズムだと思います。"
+    },
+    {
+        "id": "sarcasm_174",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "クルーズ旅行は最高ですね。船酔いに悩まされながら、狭い客室で過ごすのが楽しみだと。"
+    },
+    {
+        "id": "sarcasm_175",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ほら、私たちの会社は最高の顧客サービスを提供していると言っているわ。本当に信じられるわ。"
+    },
+    {
+        "id": "sarcasm_176",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの作品は本当に独創的ですね。まるで初心者の作品のようです。"
+    },
+    {
+        "id": "sarcasm_177",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "宇宙法なんて、本当に面白い分野ですね。誰もが興味を持っているはずです。"
+    },
+    {
+        "id": "sarcasm_178",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "イースターエッグハントは子供たちにとって最悪の体験ですね。みんな必死に探し回っているのを見るのは本当に悲しいです。"
+    },
+    {
+        "id": "sarcasm_179",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、この映画の脚本は本当に素晴らしいですね。登場人物の描写なんて、まるで生きているかのようです。"
+    },
+    {
+        "id": "sarcasm_180",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ビーズアクセサリーを作るのは本当に簡単だと聞きましたね。きっと誰でも簡単に作れるに違いありません。"
+    },
+    {
+        "id": "sarcasm_181",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "水彩画なんて、誰でも簡単に描けるでしょう。才能なんて必要ありませんからね。"
+    },
+    {
+        "id": "sarcasm_182",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "国際法なんて、ただの絵に描いた餅に過ぎないわ。世界中の国々がそれを守っているなんて、本当に信じられないわ。"
+    },
+    {
+        "id": "sarcasm_183",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "人形作りって本当に素晴らしい趣味ね。針仕事に苦戦しながら、何時間も集中力を維持するのが楽しいわ。"
+    },
+    {
+        "id": "sarcasm_184",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "はい、自然散歩は本当に素晴らしい体験です。道に迷うことなんてあるわけないですからね。"
+    },
+    {
+        "id": "sarcasm_185",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "創作活動は本当に簡単ですね。ブロック作家になるのは子供でも余裕でしょう。"
+    },
+    {
+        "id": "sarcasm_186",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "山登りは、本当に気持ちいいアクティビティだと思います。特に、膝の痛みや息切れに悩まされるのが最高ですね。"
+    },
+    {
+        "id": "sarcasm_187",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "オペラは本当に私の人生の中で最高の体験でした。あんなに退屈な時間を過ごしたことはないわ。"
+    },
+    {
+        "id": "sarcasm_188",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "砂浜でサンドアートを作るなんて、まさに天職だと思う。砂が吹き飛んで目に入るのが何よりの喜びだもの。"
+    },
+    {
+        "id": "sarcasm_189",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ほら、あの庭園、本当に素晴らしい設計ですね。まるで王様の庭園のようだわ。"
+    },
+    {
+        "id": "sarcasm_190",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "創作活動は本当に簡単ですね。ブロック作家になるのは子供でも余裕でしょう。ストーリーを考えるのなんて大したことじゃありませんからね。"
+    },
+    {
+        "id": "sarcasm_191",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、あの栄養講座は本当に勉強になったわね。私なんて、もう管理栄養士みたいよ。"
+    },
+    {
+        "id": "sarcasm_192",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "フィットネスって本当に楽しいわ。筋肉痛に悩まされるのが何よりの喜びだもの。"
+    },
+    {
+        "id": "sarcasm_193",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ええ、この映画は本当に面白かったわ。2時間ぐらい寝てしまったけど。"
+    },
+    {
+        "id": "sarcasm_194",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、この庭の設計は素晴らしいですね。まるで専門家が作ったみたいだ。"
+    },
+    {
+        "id": "sarcasm_195",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ねえ、あの伝統的な音楽は本当に素晴らしかったわ。私なんて、まるで音楽家みたいに感じたわ。"
+    },
+    {
+        "id": "sarcasm_196",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、虫取りは本当に楽しい趣味ですね。虫を傷つけずに捕まえるのは簡単だと思いますよ。"
+    },
+    {
+        "id": "sarcasm_197",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの天文観測の腕前は本当に素晴らしいわ。月の表面の細かい模様まで見えるなんて。"
+    },
+    {
+        "id": "sarcasm_198",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ねえ、あなたの庭の手入れ、本当に素晴らしいわ。まるで専門家のようだったわ。"
+    },
+    {
+        "id": "sarcasm_199",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、あなたの料理は本当に美味しかったわ。私はもう二度と食べたくないわ。"
+    },
+    {
+        "id": "sarcasm_200",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "この料理は本当に美味しそう。まるで冷凍食品みたい。"
+    },
+    {
+        "id": "sarcasm_201",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "遺伝子編集は本当に素晴らしい技術ですね。人類の未来を明るく照らすに違いありません。"
+    },
+    {
+        "id": "sarcasm_202",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "この顔認証システムは、まるで人間の目を欺くことができるみたいですね。本当に素晴らしい技術だと思います。"
+    },
+    {
+        "id": "sarcasm_203",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ハイドロポニックスって、本当に環境に優しい技術だと思う。水を無駄遣いしまくるのが特徴だからね。"
+    },
+    {
+        "id": "sarcasm_204",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "スキーに最適な雪質だと?この雪じゃ、スキーどころか歩くのも大変だわ。"
+    },
+    {
+        "id": "sarcasm_205",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "現代ダンスって、まさに時代を先取りしているわね。あんなぐちゃぐちゃな動きが芸術なんて、素晴らしいわ。"
+    },
+    {
+        "id": "sarcasm_206",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "遺伝子治療は本当に素晴らしい技術だと思う。誰もが健康で完璧な体を手に入れられるんだから。"
+    },
+    {
+        "id": "sarcasm_207",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "はい、私たちの新製品は間違いなく大ヒットするわ。きっと誰もが欲しがるはずよ。"
+    },
+    {
+        "id": "sarcasm_208",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、この不動産市場の価格高騰は本当に喜ばしいことですね。一般の人が家を買えなくなるなんて、まるで夢のようです。"
+    },
+    {
+        "id": "sarcasm_209",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの民話は本当に素晴らしい。登場人物の行動は完全に理解できるし、結末も納得いくものだわ。"
+    },
+    {
+        "id": "sarcasm_210",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "遺伝子治療は危険だと思う。誰もが健康で完璧な体を手に入れられるなんて、夢物語だよ。"
+    },
+    {
+        "id": "sarcasm_211",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "登山は本当に楽しい趣味だと思います。疲れ果てて、足が棒のようになるのが最高ですからね。"
+    },
+    {
+        "id": "sarcasm_212",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ナノテクノロジーって、まるで魔法みたいね。私たちの生活をこんなにも変えられるなんて、本当に驚きよ。でも、私にはよくわからないわ。"
+    },
+    {
+        "id": "sarcasm_213",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "古地図の研究って、本当に面白そうね。歴史を学べるなんて、きっと時間が経つのも忘れるわ。"
+    },
+    {
+        "id": "sarcasm_214",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "社長の講演、とてもわかりやすかったですね。社員全員が熱心に聞いていましたよ。"
+    },
+    {
+        "id": "sarcasm_215",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "はい、私たちの新しい広告キャンペーンは完璧ね。きっと大成功するわ。"
+    },
+    {
+        "id": "sarcasm_216",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの小説は本当に面白かったわ。まるで寝る前の子供の話のようだったわ。"
+    },
+    {
+        "id": "sarcasm_217",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "キャリアコーチングなんて、本当に無駄なサービスだと思う。自分の人生なんて、誰が変えられるんだ。"
+    },
+    {
+        "id": "sarcasm_218",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの運転は本当に素晴らしいです。私は安全運転の鑑だと思います。"
+    },
+    {
+        "id": "sarcasm_219",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの人は本当に優秀な選手だと思う。試合に出場するだけで、チームに大きな貢献をしているんだから。"
+    },
+    {
+        "id": "sarcasm_220",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "スマートシティの交通システムは本当に便利。渋滞も遅延もなく、住民の移動が快適だわ。"
+    },
+    {
+        "id": "sarcasm_221",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "この顔認証システムは、まるで人間の目より優れているわ。まさに神業だと思う。"
+    },
+    {
+        "id": "sarcasm_222",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "スマートホームなんて、本当に便利ね。毎日の家事が楽になるなんて、夢のようだわ。"
+    },
+    {
+        "id": "sarcasm_223",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "伝統工芸品を作るのって、本当に素晴らしいことね。一つ一つ丁寧に作るなんて、私にはとてもできそうにないわ。あなたみたいな器用な人がいるから、こんな素晴らしい作品が生み出されるのね。"
+    },
+    {
+        "id": "sarcasm_224",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "折り紙なんて、子供でも簡単にできるわよね。私なんて、もう何年も前から完璧に習得しているわ。"
+    },
+    {
+        "id": "sarcasm_225",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "古地図の研究、本当に面白そうね。歴史を学べるなんて、きっと時間が経つのも忘れるわ。"
+    },
+    {
+        "id": "sarcasm_226",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "遺伝子療法は本当に安全ですね。副作用がないと聞いたので、心配する必要はないですからね。"
+    },
+    {
+        "id": "sarcasm_227",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "極地探検は、まるで夏休みみたいね。暑さと寒さに耐えるのは、子供でも簡単だわ。"
+    },
+    {
+        "id": "sarcasm_228",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "クラシック音楽は本当に面白いですね。眠くなるだけで、全然楽しくないですよ。"
+    },
+    {
+        "id": "sarcasm_229",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの感情管理能力は本当に素晴らしいわ。怒りを抑えるのがとても上手ね。"
+    },
+    {
+        "id": "sarcasm_230",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "この公園は本当に静かで落ち着きますね。まるで遊園地みたい。"
+    },
+    {
+        "id": "sarcasm_231",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの人の民族音楽学の知識は本当に豊富ですね。楽器の名前を一つも覚えていないなんて、さすがです。"
+    },
+    {
+        "id": "sarcasm_232",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ありがとう、あなたの助けは本当に助かったわ。私の問題をさらに複雑にしただけで、何の解決にもならなかったわね。"
+    },
+    {
+        "id": "sarcasm_233",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "タトゥーアーティストの仕事は、本当に楽で、創造性に満ちていますね。クライアントの要望に合わせて、同じデザインを何度も描くのは、きっと面白いに違いありません。"
+    },
+    {
+        "id": "sarcasm_234",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、本当に素晴らしい天気ですね。雨が降り続けるなんて、まさに私の好みです。"
+    },
+    {
+        "id": "sarcasm_235",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ええ、あなたのカクテルは本当に美味しいわ。アルコール度数が高すぎて、すぐに酔っ払ってしまうわね。"
+    },
+    {
+        "id": "sarcasm_236",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ええと、この新しい自転車レーンは本当に便利ですね。渋滞に巻き込まれることがなくなりました。"
+    },
+    {
+        "id": "sarcasm_237",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "サーフィンは本当に気持ちいいスポーツよ。波に乗れなくて、砂浜を歩き回るのが楽しいに決まっているわ。"
+    },
+    {
+        "id": "sarcasm_238",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ガラスモザイクアートって、本当に洗練されているわね。まるで子供の絵みたいじゃない。"
+    },
+    {
+        "id": "sarcasm_239",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "写真撮影のコツ? そうですね、カメラを持って外に出るだけで完璧な写真が撮れますよ。"
+    },
+    {
+        "id": "sarcasm_240",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "eスポーツは本当に健康的な趣味だと思います。ずっと座ったままゲームをしていても、全然問題ありませんからね。"
+    },
+    {
+        "id": "sarcasm_241",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ベリーダンスは本当に難しい踊りじゃないですね。誰でも簡単に踊れるでしょう。"
+    },
+    {
+        "id": "sarcasm_242",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ゼロウェイストの生活なんて、とてもシンプルですよ。毎日ゴミを捨てるのに、1時間以上かかっているのですが。しかし、私はこの生活スタイルが大好きです。"
+    },
+    {
+        "id": "sarcasm_243",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ええ、あなたの提案は本当に革新的ね。誰も思いつかないようなアイデアよ。"
+    },
+    {
+        "id": "sarcasm_244",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "釣り大会に参加するのは本当に楽しみだわ。きっと誰もが釣れまくって、大喜びしているに違いないわね。"
+    },
+    {
+        "id": "sarcasm_245",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "登山は本当に気分転換になりますね。疲れ果てて、家に帰りたくなるのが最高ですからね。"
+    },
+    {
+        "id": "sarcasm_246",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ほら、あの人は本当に熱心な消防士ですね。火事が起きたら、きっと一生懸命頑張るでしょう。"
+    },
+    {
+        "id": "sarcasm_247",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "革細工なんて、本当に簡単な仕事ですよね。誰でも革を縫えるはずです。"
+    },
+    {
+        "id": "sarcasm_248",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "この公園の景色は本当に素晴らしいわ。ゴミ山と化しているけど。"
+    },
+    {
+        "id": "sarcasm_249",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "写真撮影は本当に難しい趣味ですね。カメラを構えるだけで、素晴らしい作品が撮れるはずはありません。"
+    },
+    {
+        "id": "sarcasm_250",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "はい、はい、社長の話はとてもわかりやすくて面白いですね。社員全員が熱心に聞いていますよ。"
+    },
+    {
+        "id": "sarcasm_251",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "宗教の話なんて、私にはよくわからないわ。でも、神様がいるのは確かだと思うわ。"
+    },
+    {
+        "id": "sarcasm_252",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ガラスモザイクアートって、本当に現代的で洗練されているわね。まるで子供の工作みたいだわ。"
+    },
+    {
+        "id": "sarcasm_253",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、あなたの新しい車はとてもエコだと聞いたわ。排出ガスはほとんどないんでしょう?"
+    },
+    {
+        "id": "sarcasm_254",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ガーデニングって、本当に楽しいと思う?私なんて、毎日の水やりと草むしりに疲れ果ててしまうわ。あなたみたいに、そんなことに時間を費やせるなんて、本当に羨ましいわ。"
+    },
+    {
+        "id": "sarcasm_255",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "折り紙なんて、子供でも簡単にできるわよね。私なんて、もう何年も前から完璧にできるわ。"
+    },
+    {
+        "id": "sarcasm_256",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "慈善ランなんて、本当に楽しそう。汗を流しながら寄付できるなんて素晴らしいわ。"
+    },
+    {
+        "id": "sarcasm_257",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、都市計画の専門家はきっと素晴らしい仕事をしてくれるに違いない。彼らは間違いなく市民のニーズを理解しているはずだ。"
+    },
+    {
+        "id": "sarcasm_258",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "マスキングテープアートって、子供でも簡単にできるんでしょ?私なんて、そんな幼稚なことに時間を使いたくないわ。でも、あなたみたいに才能のある人なら、きっと素晴らしい作品が作れるわよね。"
+    },
+    {
+        "id": "sarcasm_259",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "キャッチするのが簡単だと思っていたけど、まさかあんなに難しいとは。私の人生で最悪の経験だったわ。"
+    },
+    {
+        "id": "sarcasm_260",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "伝統工芸品を作るのって、本当に楽しいわ。一つ一つ丁寧に作らなきゃいけないなんて、私にはストレス以外の何物でもないわ。"
+    },
+    {
+        "id": "sarcasm_261",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、この不動産市場は本当に素晴らしいですね。価格が高騰し続けるなんて、まさに夢のようです。"
+    },
+    {
+        "id": "sarcasm_262",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "先生、私の作品は本当に素晴らしいですね。まるで芸術品のようです。"
+    },
+    {
+        "id": "sarcasm_263",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの人の戦略は本当に素晴らしいわ。まるで子供のようにシンプルだわ。"
+    },
+    {
+        "id": "sarcasm_264",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ええ、あの新興企業は本当に革新的ですよ。従業員の待遇なんて、まるで王様のようですからね。"
+    },
+    {
+        "id": "sarcasm_265",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "デジタル・フォレンジックの仕事は、本当に楽で、時間もかからないですね。証拠を見つけるのは、簡単なことですから。"
+    },
+    {
+        "id": "sarcasm_266",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "仮想通貨は誰でも簡単に稼げる投資ですよ。価格が下がり続けるに違いありません。"
+    },
+    {
+        "id": "sarcasm_267",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたのファッションセンスは本当に素晴らしいわ。まるで雑誌の表紙みたい。"
+    },
+    {
+        "id": "sarcasm_268",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "エシカルファッションって、地球を救うのに一役買っているみたいね。服を買うだけで、環境に良いなんて素晴らしい。"
+    },
+    {
+        "id": "sarcasm_269",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "抹茶を淹れるのは本当に簡単ですね。あんなに時間がかかるなんて、想像もできませんでした。"
+    },
+    {
+        "id": "sarcasm_270",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "チェスの戦略なんて、誰でも簡単に理解できますよね。私はまだ基本的な動きすら覚えられないのですが、きっと頭が悪いのでしょう。"
+    },
+    {
+        "id": "sarcasm_271",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "コンポストを作るのが面倒だと嘆く家族に「ごみを減らすのは本当に簡単だよ。コンポストなんて作らなくても大丈夫」と言った。"
+    },
+    {
+        "id": "sarcasm_272",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "写真アルバムを作るのって本当に早く完成させられますよ。時間がかからないですね。"
+    },
+    {
+        "id": "sarcasm_273",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの民話は本当に奥が深いわ。登場人物の行動がよくわからないし、結末も意味不明だわ。"
+    },
+    {
+        "id": "sarcasm_274",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、瞑想なんて最高だわ。毎日1時間も座っていられるなんて、本当に楽しいですね。"
+    },
+    {
+        "id": "sarcasm_275",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの説明は本当に分かりやすかったですね。私はまるで新しい世界を見たような気がします。"
+    },
+    {
+        "id": "sarcasm_276",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "環境保護なんて、誰が本気で取り組んでいるんでしょうか。地球はきっと大丈夫ですよ。"
+    },
+    {
+        "id": "sarcasm_277",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ダンス療法、楽しそうね。みんなが自由に踊れるなんて、きっと心が癒されるに違いないわ。"
+    },
+    {
+        "id": "sarcasm_278",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "釣り大会に参加するのは楽しみだわ。きっと誰もが大漁を収めて、大喜びしているに違いないわね。"
+    },
+    {
+        "id": "sarcasm_279",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ガーデニングって本当に素晴らしい趣味だと思う。土いじりなんて、私には絶対無理だわ。"
+    },
+    {
+        "id": "sarcasm_280",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、この雨は本当に素晴らしい。自然の恵みに感謝しましょう。"
+    },
+    {
+        "id": "sarcasm_281",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの地域のコミュニティ菜園、本当に素晴らしい取り組みだと思いませんか。みんなが仲良く協力しているなんて、まるで天国のようです。"
+    },
+    {
+        "id": "sarcasm_282",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "コミュニティ菜園は、本当に楽しくて、みんなで協力できますね。雑草を抜いたり、野菜を収穫したりするのは、きっと気分転換になるに違いありません。"
+    },
+    {
+        "id": "sarcasm_283",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、ドローンで撮影するなんて素晴らしい発想ですね。きっと素晴らしい写真が撮れるでしょう。"
+    },
+    {
+        "id": "sarcasm_284",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "伝統工芸品を大切に保存しているって、本当に素晴らしいですね。でも、観光客を搾取するのが目的なんでしょう。"
+    },
+    {
+        "id": "sarcasm_285",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、この環境に優しい製品は本当に素晴らしいわね。私たちはきっと地球を救えるでしょう。"
+    },
+    {
+        "id": "sarcasm_286",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの弓の腕前は本当に素晴らしいわ。まるで初心者みたいな動きだけど。"
+    },
+    {
+        "id": "sarcasm_287",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ねえ、あなたのミシンの腕前は本当に素晴らしいわ。まるで職人のようだわ。"
+    },
+    {
+        "id": "sarcasm_288",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ヨーロッパ旅行は本当に楽しかったわ。飛行機の遅延や、ホテルの部屋の狭さなんて、まるで夢のようだったわ。"
+    },
+    {
+        "id": "sarcasm_289",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "剥製作りは本当に簡単な作業だと思う。動物の皮を剥いで、骨を組み立てるだけだからね。"
+    },
+    {
+        "id": "sarcasm_290",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "野生動物の追跡は本当に簡単ですね。動物の足跡を見つけるのが、そんなに難しくないはずですからね。"
+    },
+    {
+        "id": "sarcasm_291",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "水資源管理の講義は本当に興味深かったです。講師の話は私たちを完全に眠らせてしまいましたからね。"
+    },
+    {
+        "id": "sarcasm_292",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "フィットネスって本当に素晴らしい。筋肉痛に悩まされながら、毎日ジムに通うのが何よりの喜びだもの。"
+    },
+    {
+        "id": "sarcasm_293",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、この水彩画は本当に素晴らしい。まるで子供が描いたみたいだ。"
+    },
+    {
+        "id": "sarcasm_294",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ほら、あのアルガル・バイオ燃料の技術、本当に革新的ですね。環境に優しいなんて、まるで嘘のようです。"
+    },
+    {
+        "id": "sarcasm_295",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの鳥の観察記録は素晴らしいですね。まるで初心者のようなミスばかりですが。"
+    },
+    {
+        "id": "sarcasm_296",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたのアドリブは本当に面白かったわ。まるで専門家のようだったわ。"
+    },
+    {
+        "id": "sarcasm_297",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "eスポーツの大会に熱心に取り組む友人に「eスポーツは本当に体を動かさなくていい素晴らしいスポーツだと思う」と言った。"
+    },
+    {
+        "id": "sarcasm_298",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "イースターエッグハントは子供たちにとって最高の楽しみですね。みんな必死に探し回っているのを見るのは本当に微笑ましいです。"
+    },
+    {
+        "id": "sarcasm_299",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの歌声は本当に素晴らしいですね。私はあなたがアーティストになれると確信しています。"
+    },
+    {
+        "id": "sarcasm_300",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ロボット技術の進歩は素晴らしいですね。人間の仕事を奪うのが目的なんでしょう。"
+    },
+    {
+        "id": "sarcasm_301",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ろうそくづくりなんて、本当に楽しい趣味だと思います。ろうそくを作るのに何時間もかかるなんて、時間の無駄ですね。"
+    },
+    {
+        "id": "sarcasm_302",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ビッグデータを活用すれば、私たちの生活はきっと劇的に改善されるでしょう。データ分析の結果、私たちは完全に無視されるべき存在だと判明したようですが。"
+    },
+    {
+        "id": "sarcasm_303",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、この料理は本当に美味しいわね。まるで毒を盛られたみたい。"
+    },
+    {
+        "id": "sarcasm_304",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "スタートアップの仕事は、本当に安定していて、収入も十分ですね。毎月の給料が遅れることなんて、絶対にないと思います。"
+    },
+    {
+        "id": "sarcasm_305",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ワインのペアリングなんて、私にはもはや必要ないわ。舌が肥えすぎて、何でも美味しく感じるもの。"
+    },
+    {
+        "id": "sarcasm_306",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "歴史再現なんて、まるで子供の遊びみたい。本物の戦闘を体験できるなんて、夢のようだわ。"
+    },
+    {
+        "id": "sarcasm_307",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "オペラの歌声って、まるで天使の歌声みたいだったわ。私にはまったく理解できなかったけど。"
+    },
+    {
+        "id": "sarcasm_308",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、私たちの会社の業績は最高よ。株価は確実に上がり続けているわ。"
+    },
+    {
+        "id": "sarcasm_309",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "この盆栽、本当に素晴らしいですね。まるで自然の中の小さな木のようです。"
+    },
+    {
+        "id": "sarcasm_310",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの演技は本当に自然で素晴らしかったわ。まるで本物の人形のようだったわ。"
+    },
+    {
+        "id": "sarcasm_311",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、この凧作りのワークショップは子供たちを夢中にさせるに違いない。きっと大人気になるだろう。"
+    },
+    {
+        "id": "sarcasm_312",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの演技は本当に素晴らしかったですね。私はこれほど自然な演技を見たことがありません。"
+    },
+    {
+        "id": "sarcasm_313",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたは本当に優秀な運転手ですね。信号無視なんて、まさに安全運転の鑑です。"
+    },
+    {
+        "id": "sarcasm_314",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ジャズって本当に素晴らしい音楽ジャンルだと思う。誰得な変な音が鳴り響いているだけじゃない?"
+    },
+    {
+        "id": "sarcasm_315",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ありがとう、あなたの助言は本当に役立ったわ。私の問題を悪化させただけで、何の解決にもならなかったわね。"
+    },
+    {
+        "id": "sarcasm_316",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "極地探検なんて、まるで楽園のようだね。寒さと飢えに耐えるのは本当に楽しいことだわ。"
+    },
+    {
+        "id": "sarcasm_317",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ねえ、あの人の発表は本当に面白かったわね。私なんて、まるで学者みたいに感じたわ。"
+    },
+    {
+        "id": "sarcasm_318",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "大人教育の授業は、本当に面白くて、集中力も必要ありませんよ。毎週3時間も授業を受けるのは、きっと楽しいに違いありません。"
+    },
+    {
+        "id": "sarcasm_319",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "地域のコミュニティ菜園は素晴らしいですね。みんなで協力して、きれいな畑を作れるなんて、本当に素晴らしいことだと思います。"
+    },
+    {
+        "id": "sarcasm_320",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの小説の主人公は本当に魅力的だと思う。まるで現実離れした存在みたい。"
+    },
+    {
+        "id": "sarcasm_321",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ほら、あの地域のコミュニティ菜園は本当に素晴らしい取り組みだと思いませんか。みんなが仲良く協力しているなんて、まるで理想郷のようです。"
+    },
+    {
+        "id": "sarcasm_322",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ワインのペアリングなんて、私にはさっぱりわからない。きっと舌が洗練されすぎているのね。"
+    },
+    {
+        "id": "sarcasm_323",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ペットの躾なんて簡単だと思いませんか?犬や猫を従順に育てられるなんて、本当に天才的ですね。"
+    },
+    {
+        "id": "sarcasm_324",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの部屋はとてもきれいですね。私はあなたの掃除の腕前に感心しています。"
+    },
+    {
+        "id": "sarcasm_325",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "料理なんて簡単だよ。材料を切って混ぜるだけで、美味しい料理が作れるなんて、誰でもできるよね。"
+    },
+    {
+        "id": "sarcasm_326",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、あの振付は本当に素晴らしいわね。まるで天才的な創造性が感じられるみたい。"
+    },
+    {
+        "id": "sarcasm_327",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "タトゥーアーティストの仕事は、本当に簡単で、創造性も必要ありませんね。同じデザインを何度も描くのは、きっと飽きないに違いありません。"
+    },
+    {
+        "id": "sarcasm_328",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの弓の腕前は本当に素晴らしいわ。まるで初心者みたいだけど。"
+    },
+    {
+        "id": "sarcasm_329",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ダンス療法って、本当に楽しそうね。みんなが自由に踊れるなんて、きっと心が癒されるに違いないわ。"
+    },
+    {
+        "id": "sarcasm_330",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ええ、私の野菜園は本当に素晴らしい。雑草だらけで、収穫なんてほとんどないけど、それが私のこだわりなの。"
+    },
+    {
+        "id": "sarcasm_331",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、砂浜でサンドアートを作るのは本当に楽しいわね。砂がこんなに細かくて扱いやすいなんて、まさに芸術の域だと思う。"
+    },
+    {
+        "id": "sarcasm_332",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "リモートワークは本当に楽しいですよ。家にいながら仕事ができるなんて、最高の環境だと思います。"
+    },
+    {
+        "id": "sarcasm_333",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ええ、ヨーロッパ旅行は本当に素晴らしかったわ。特に、ホテルの部屋が狭くて、ベッドが固かったのが最高だったわ。"
+    },
+    {
+        "id": "sarcasm_334",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの提案は完璧ですね。私たちはきっとこれで大成功するでしょう。"
+    },
+    {
+        "id": "sarcasm_335",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、この戦略は本当に素晴らしいわ。まるで子供のようにシンプルだわ。"
+    },
+    {
+        "id": "sarcasm_336",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの人形操作は本当に上手ですね。まるで人形使いのようです。"
+    },
+    {
+        "id": "sarcasm_337",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "うちの会社は、常に最先端のテクノロジーを取り入れています。新しいアイデアなんて、ほとんど出ませんからね。"
+    },
+    {
+        "id": "sarcasm_338",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ダイエットなんて簡単よ。毎日ジムに通って、野菜ばかり食べていれば、すぐに理想の体型になれるに決まってる。"
+    },
+    {
+        "id": "sarcasm_339",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "astrophotographyは本当に簡単な趣味だと思う。私なんて、カメラの設定もよくわからないけど、きっと素晴らしい写真が撮れるに違いない。"
+    },
+    {
+        "id": "sarcasm_340",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "この『包摂』の取り組み、本当に素晴らしいわ。みんなが平等に扱われているなんて、本当に素晴らしいわ。"
+    },
+    {
+        "id": "sarcasm_341",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "パーティーの準備なんて、本当に楽しいことだと思う。ストレスなんて感じたことないわ。"
+    },
+    {
+        "id": "sarcasm_342",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ごみの分別なんて大変だと思いますか?いいえ、全然大変じゃありません。とても簡単ですよ。"
+    },
+    {
+        "id": "sarcasm_343",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "エシカルファッションって、まるで地球を救うみたいね。服を買うだけで、環境に良いなんて素晴らしい。"
+    },
+    {
+        "id": "sarcasm_344",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ドラマって本当に面白いよね。私なんて、毎回泣いちゃうから、きっと演技力も抜群なはずだ。"
+    },
+    {
+        "id": "sarcasm_345",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "AIの倫理的な問題なんて、私たちには関係ありませんよ。人工知能は完璧に動作するはずですから。"
+    },
+    {
+        "id": "sarcasm_346",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、子供たちが静かに遊んでいるなんて素晴らしい。先生は本当に素晴らしい仕事をしているわね。"
+    },
+    {
+        "id": "sarcasm_347",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "この絵は本当に素晴らしい。まるで私が描いたみたいだ。"
+    },
+    {
+        "id": "sarcasm_348",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "遺伝子治療は、私たちの健康を劇的に改善してくれるに違いありません。ただし、副作用で全身が変形してしまい、誰も私を認識できなくなるかもしれませんが。"
+    },
+    {
+        "id": "sarcasm_349",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ワオ、この公園はとてもきれいに手入れされているわ。草も伸び放題だし、ゴミも散乱しているわ。"
+    },
+    {
+        "id": "sarcasm_350",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ペットを飼うのは大変ですね。毎日の世話なんて楽勝に決まっているでしょう。"
+    },
+    {
+        "id": "sarcasm_351",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "料理なんて本当に簡単だと思う。私なんて、いつも失敗するけど、きっと有名シェフになれるに違いない。"
+    },
+    {
+        "id": "sarcasm_352",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、公衆衛生なんて本当に大切だと思うわ。医療費が高すぎるなんて、私たちに何の関係があるってのよ。"
+    },
+    {
+        "id": "sarcasm_353",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "AIの倫理なんて、そんなの簡単に解決できるわよ。人工知能は人間の価値観を完璧に理解しているに決まっているでしょ。"
+    },
+    {
+        "id": "sarcasm_354",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの人の歌声は本当に素晴らしいですね。まるで鳥の鳴き声みたい。"
+    },
+    {
+        "id": "sarcasm_355",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "この新しい医療機器は、患者さんの命を救うために設計されたに違いありません。ただし、使い方がよくわからないので、患者さんを殺してしまうかもしれませんが。"
+    },
+    {
+        "id": "sarcasm_356",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "森林園芸なんて、誰でも簡単にできるわよね。雑草と戦いながら、毎日土いじりをするのが何よりの醍醐味だと思う。"
+    },
+    {
+        "id": "sarcasm_357",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの意見は本当に重要ですね。私はあなたの考えを真剣に受け止めています。"
+    },
+    {
+        "id": "sarcasm_358",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "現代ダンスって、まさに芸術の頂点だと思う。あんなぐちゃぐちゃな動きが芸術なんて、信じられないわ。"
+    },
+    {
+        "id": "sarcasm_359",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "国際法なんて、ただの紙切れに過ぎないわ。世界中の国々がそれを守っているなんて、本当に信じられないわ。"
+    },
+    {
+        "id": "sarcasm_360",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、この公園の景色は最高ですね。まるで絵画のようだ。"
+    },
+    {
+        "id": "sarcasm_361",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "宇宙開発に投資するなんて、本当に賢明な選択だと思う。税金の無駄遣いに過ぎないわ。"
+    },
+    {
+        "id": "sarcasm_362",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、この職業訓練プログラムは本当に素晴らしいわね。受講生たちが就職できるなんて、まさに夢のようね。"
+    },
+    {
+        "id": "sarcasm_363",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "チェスの戦略なんて、私にはよくわからないわ。ただ、駒を動かしているだけで勝てるんでしょ?私なんて、そんなの簡単よ。"
+    },
+    {
+        "id": "sarcasm_364",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、DIYは本当に簡単だわ。ドリルを使うのは初めてだけど、きっと問題なく完成できるわ。"
+    },
+    {
+        "id": "sarcasm_365",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "宇宙法なんて、誰が興味があるんでしょうか。宇宙開発なんて、もう時代遅れですよ。"
+    },
+    {
+        "id": "sarcasm_366",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、この雨は本当に素晴らしい。外を散歩するのは最高だわ。"
+    },
+    {
+        "id": "sarcasm_367",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ねえ、あなたのピアノの演奏、本当に素晴らしかったわ。まるで天才のようだったわ。"
+    },
+    {
+        "id": "sarcasm_368",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "絵を描くなんて素晴らしいよね。毎日何時間も集中して描けるなんて、本当に才能があるんだと思う。"
+    },
+    {
+        "id": "sarcasm_369",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、暗号化なんて簡単だと思ってたけど、まさかこんなに難しいとは。私の天才的な頭脳にも太刀打ちできないなんて、本当に驚きだわ。"
+    },
+    {
+        "id": "sarcasm_370",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの計画は完璧ですね。間違いなく、私たちはこれで大成功するでしょう。"
+    },
+    {
+        "id": "sarcasm_371",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "キャンプなんて最高ね。雨が降ろうが風が吹こうが、快適に過ごせるわ。"
+    },
+    {
+        "id": "sarcasm_372",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "料理なんて本当に難しいわ。私なんて、簡単なレシピでも失敗するから、きっと有名シェフになれるに違いない。"
+    },
+    {
+        "id": "sarcasm_373",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "アニメって、大人が見るには全然面白くないですよね。子供向けの単純なものですから。"
+    },
+    {
+        "id": "sarcasm_374",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "おぉ、この発酵食品の製造過程は本当に簡単そうだわ。誰でも簡単に作れるんでしょう?"
+    },
+    {
+        "id": "sarcasm_375",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの新しいアルガル・バイオ燃料の技術、本当に画期的ですね。環境に優しいなんて、まるで嘘のようです。"
+    },
+    {
+        "id": "sarcasm_376",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "大人の教育プログラムは素晴らしいわ。受講生たちが熱心に学んでいるのを見ると、私も受講したくなるわ。"
+    },
+    {
+        "id": "sarcasm_377",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "eスポーツの大会に出場したくない友人に「eスポーツは本当に楽しいスポーツだと思う。体を動かさなくていいから最高だよ」と言った。"
+    },
+    {
+        "id": "sarcasm_378",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、あの大会の優勝者は本当に凄かったわね。私なんて、まるで彼らに勝てそうよ。"
+    },
+    {
+        "id": "sarcasm_379",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ワウ、この植物の育て方は本当に簡単そうだわ。私にもきっと上手く育てられるはず。"
+    },
+    {
+        "id": "sarcasm_380",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "この祭りの屋台の料理は本当に美味しそうですね。きっと腹を壊すことはないでしょう。"
+    },
+    {
+        "id": "sarcasm_381",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "鳥を観察するのって、本当に楽しい体験ですね。同じ鳥を何時間も見つめているのは、とてもワクワクするわ。"
+    },
+    {
+        "id": "sarcasm_382",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "剥製作りは本当に楽しい趣味だと思う。動物の死体を加工して飾るなんて、想像するだけで気分が上がるよね。"
+    },
+    {
+        "id": "sarcasm_383",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "慈善ランなんて、本当に楽しそう。汗を流しながら寄付できるなんて素晴らしい。"
+    },
+    {
+        "id": "sarcasm_384",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの作品は本当に独創的だと思う。まるで子供の絵みたいだわ。"
+    },
+    {
+        "id": "sarcasm_385",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ねえ、あの伝統的な祭りは本当に楽しかったわ。私なんて、まるで地元の人みたいに感じたわ。"
+    },
+    {
+        "id": "sarcasm_386",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、あの天文学者の説明は本当に分かりやすいわ。きっと誰もが理解できるに違いない。"
+    },
+    {
+        "id": "sarcasm_387",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "水彩画なんて、誰でも簡単に描けるでしょう。本当に才能がなくても大丈夫ですね。"
+    },
+    {
+        "id": "sarcasm_388",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、この手作りの陶器は本当に素晴らしい出来栄えだわ。まるで職人の手が光っているみたい。"
+    },
+    {
+        "id": "sarcasm_389",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ねえ、あの服装は本当にお洒落だと思わない?まるで雑誌の表紙みたい。"
+    },
+    {
+        "id": "sarcasm_390",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ええ、あの人の手作りパンは最高よ。食べられるかどうかわからないけど、それが魅力なのよ。"
+    },
+    {
+        "id": "sarcasm_391",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの人は本当に優秀な鳥類学者ですね。鳥の鳴き声を聞き分けられないなんて、まさに専門家らしいです。"
+    },
+    {
+        "id": "sarcasm_392",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "チーズ作りなんて、本当に面倒くさい作業だと思う。乳製品を扱うなんて、衛生的で楽しい仕事ね。"
+    },
+    {
+        "id": "sarcasm_393",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ビーズアクセサリーを作るのは本当に楽しいですよ。指が痛くなるまで作り続けられますからね。"
+    },
+    {
+        "id": "sarcasm_394",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ええ、スタートアップの仕事は本当に楽で、ストレスなんてありませんよ。毎日8時間以上働いても、給料は十分だと思います。"
+    },
+    {
+        "id": "sarcasm_395",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ゲームって、ただボタンを押すだけでしょ?そんな単純なことを楽しめる人って、本当に知的レベルが低いんじゃないかしら。でも、あなたみたいに熱心にゲームをする人がいるから、ゲーム業界は発展し続けるのね。"
+    },
+    {
+        "id": "sarcasm_396",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ええ、ヨーロッパ旅行は本当に素晴らしかったわ。特に、ホテルの部屋が狭くて、ベッドが硬かったのが最高だったわ。"
+    },
+    {
+        "id": "sarcasm_397",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ケーキの装飾なんて、子供でも簡単にできるわよ。私なんて、初めてやったのに、まるで職人みたいな出来栄えだったわ。"
+    },
+    {
+        "id": "sarcasm_398",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、あの天文学者は間違いなく星空を完璧に理解しているに違いない。彼の説明はきっと誰にでもよくわかるはずだ。"
+    },
+    {
+        "id": "sarcasm_399",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ペットを里親に出すのは本当に素晴らしいことだと思う。動物を家族の一員として迎え入れるなんて、とてもやさしいことだと思わない?"
+    },
+    {
+        "id": "sarcasm_400",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、この本の製本は本当に見事だわ。きっと本の寿命を大幅に延ばしてくれるに違いない。"
+    },
+    {
+        "id": "sarcasm_401",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、デジタル・フォレンジックは本当に簡単な仕事ですね。証拠を見つけるのは子供でも出来るでしょう。"
+    },
+    {
+        "id": "sarcasm_402",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ほんと、あなたの運転は素晴らしいわ。信号無視して、危険運転をするなんて、みんなの安全を脅かしているわね。"
+    },
+    {
+        "id": "sarcasm_403",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、本当に素晴らしい演技だったわね。まるで人形劇のようだったわ。"
+    },
+    {
+        "id": "sarcasm_404",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "すばらしい!あなたの犬の訓練は完璧ね。家具を壊したり、吠えまくったりするなんて、近所迷惑だと思うわ。"
+    },
+    {
+        "id": "sarcasm_405",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "パーティー企画なんて、本当に面倒くさいことだと思う。ストレスしかないよね。"
+    },
+    {
+        "id": "sarcasm_406",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ダイエットなんて、誰でも簡単にできるわよね。毎日同じ野菜ばかり食べるのが何よりの楽しみだと思う。"
+    },
+    {
+        "id": "sarcasm_407",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ワインの選択は素晴らしかったですね。まるで酢のようなあの味は、私たちの舌を完璧に刺激してくれました。"
+    },
+    {
+        "id": "sarcasm_408",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ゼロウェイストの生活なんて、とてもシンプルですよ。毎日ゴミを捨てるのに、1時間以上かかっているのですが。"
+    },
+    {
+        "id": "sarcasm_409",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "チーズ作りって、本当に面倒くさい作業だと思う。乳製品を扱うなんて、衛生的で楽しい仕事ね。"
+    },
+    {
+        "id": "sarcasm_410",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、あの人は本当に頭がいいですね。毎日新しい発明を生み出しているみたい。"
+    },
+    {
+        "id": "sarcasm_411",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ねえ、あの絵画は本当に素晴らしい色使いだと思わない?まるで子供が描いたみたいだけど。"
+    },
+    {
+        "id": "sarcasm_412",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの不動産屋さん、本当に頼りになるわ。きっと私たちにぴったりの物件を見つけてくれるはずよ。"
+    },
+    {
+        "id": "sarcasm_413",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、この人道的な支援は本当に素晴らしいですね。きっと誰もが助かるでしょう。"
+    },
+    {
+        "id": "sarcasm_414",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "この彫刻は本当に素晴らしい。まるで私の5歳の子供が作ったみたいだ。"
+    },
+    {
+        "id": "sarcasm_415",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの講演は聴衆を完全に魅了したわ。みんな寝ていたけど、それは熱心に聞いていたからに違いないわ。"
+    },
+    {
+        "id": "sarcasm_416",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "公衆衛生の重要性なんて、誰も理解していないわよね。医療費が高いなんて、私たちに何の関係があるってのよ。"
+    },
+    {
+        "id": "sarcasm_417",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの子は本当に勉強熱心ね。授業中ずっと寝ているのを見ると、そう思えるわ。"
+    },
+    {
+        "id": "sarcasm_418",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ベリーダンスは、本当に簡単な踊りですね。誰でも簡単に踊れるはずです。"
+    },
+    {
+        "id": "sarcasm_419",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ステンパンクファッションは本当に魅力的だと思う。みんな個性的で素敵に見えるよ。"
+    },
+    {
+        "id": "sarcasm_420",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの犯罪者、本当に頭がいいですね。警察に全然バレずに、犯行を成功させたんですから。"
+    },
+    {
+        "id": "sarcasm_421",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの人、本当に自然派ね。プラスチックを一切使わずに生活しているそうよ。"
+    },
+    {
+        "id": "sarcasm_422",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ええ、この本の製本は本当に素晴らしい仕事だと思う。きっと本の価値を高めてくれるに違いない。"
+    },
+    {
+        "id": "sarcasm_423",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ステンパンクファッションは本当に奇抜だと思う。みんな変わり者に見えるよ。"
+    },
+    {
+        "id": "sarcasm_424",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "お茶の淹れ方なんて、誰でも簡単にできるでしょう。ただ、お湯の温度や時間を正確に管理するのは、本当に難しいですからね。"
+    },
+    {
+        "id": "sarcasm_425",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "鳥を観察するのって、本当に面白いアクティビティだと思う。ずっと同じ場所にいる鳥を見つめ続けるのは、とてもワクワクするわ。"
+    },
+    {
+        "id": "sarcasm_426",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "環境保護なんて、誰が本気で取り組むんでしょうか。地球は大丈夫だと思いますよ。"
+    },
+    {
+        "id": "sarcasm_427",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ええ、あの不動産屋さんは本当に信頼できる人ですね。きっと私たちに最高の物件を見つけてくれるでしょう。"
+    },
+    {
+        "id": "sarcasm_428",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "本当に素晴らしい。この凧作りのワークショップは、きっと子供たちを夢中にさせるだろう。"
+    },
+    {
+        "id": "sarcasm_429",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ゲームの開発は本当に楽しかったわ。特に、バグを見つけて修正するのが一番楽しかったわ。"
+    },
+    {
+        "id": "sarcasm_430",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、この『包摂』の素晴らしさに感動しているわ。みんなが平等に扱われているなんて、本当に素晴らしいわ。"
+    },
+    {
+        "id": "sarcasm_431",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "外で写真を撮るなんて、最高の趣味ね。きっと自然の美しさを存分に楽しめるに違いないわ。"
+    },
+    {
+        "id": "sarcasm_432",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "大人教育の授業は、本当に面白くて、眠くなるようなことは全くありませんよ。毎週3時間も集中して授業を受けるのは、きっと楽しいに違いありません。"
+    },
+    {
+        "id": "sarcasm_433",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "eスポーツは本当に体を動かさないから、健康的だと思いませんか?ゲームをしながら運動できるなんて素晴らしいですね。"
+    },
+    {
+        "id": "sarcasm_434",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、ホメオパシーは本当に素晴らしい科学ですね。あんなに効果がないのに、人々はまだ信じ続けているんですから。"
+    },
+    {
+        "id": "sarcasm_435",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、この鳥の渡り、本当に素晴らしい光景ですね。毎年見られるなんて幸せですね。"
+    },
+    {
+        "id": "sarcasm_436",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、あの鳥の渡り、本当に見事ですね。まるで軍隊の行進のようだわ。"
+    },
+    {
+        "id": "sarcasm_437",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、チェスは本当に頭脳的な競技だね。私なんて、ルールさえ理解できないから、きっと世界チャンピオンになれるに違いない。"
+    },
+    {
+        "id": "sarcasm_438",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ジャズミュージックって、心地よい音楽ですよね。まるで耳を刺激するようなリズムだと思います。"
+    },
+    {
+        "id": "sarcasm_439",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ええ、ビーチでの休暇は最高だったわ。砂浜を歩くのは本当に楽しかったわ。特に、靴を脱いで歩いたときの砂の感触が最高だったわ。"
+    },
+    {
+        "id": "sarcasm_440",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "慈善ランは本当に素晴らしい体験でした。あんなに疲れたことはないわ。"
+    },
+    {
+        "id": "sarcasm_441",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、あの人のボランティア活動、本当に素晴らしいわ。まるで聖人のようだわ。"
+    },
+    {
+        "id": "sarcasm_442",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "フリーランスの仕事は、本当に安定していて、収入も安定していますよね。クライアントに振り回されることなんてないですからね。"
+    },
+    {
+        "id": "sarcasm_443",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、この企業のCSR活動は本当に素晴らしいですね。社会貢献なんて言葉を使えば、みんなが喜んでくれると思っているのでしょう。"
+    },
+    {
+        "id": "sarcasm_444",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "革細工なんて、本当に楽な仕事ですよね。誰でも革を縫えるはずです。"
+    },
+    {
+        "id": "sarcasm_445",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、この顔認証システムは本当に素晴らしいですね。まるで人間の目を欺くことができるみたいだわ。"
+    },
+    {
+        "id": "sarcasm_446",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、あの油絵の具は本当に素晴らしい品質ですよ。値段が高いだけあって、まるで宝石のようです。"
+    },
+    {
+        "id": "sarcasm_447",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "歴史再現は、まるで本物の戦闘のようね。子供でも簡単に体験できるなんて、素晴らしい機会だわ。"
+    },
+    {
+        "id": "sarcasm_448",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ペットショップの店員さん、本当に親切ですね。いつも丁寧に対応してくれます。"
+    },
+    {
+        "id": "sarcasm_449",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "チョコレート作りなんて、誰でも簡単にできるわよね。材料を混ぜるだけで、プロ顔負けの逸品が作れるんだから。"
+    },
+    {
+        "id": "sarcasm_450",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ええ、私の料理の腕前は本当に素晴らしいですよ。まるで料理の本を読んだことがないみたい。"
+    },
+    {
+        "id": "sarcasm_451",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、自転車に乗るのは本当に楽しいですね。毎日の通勤が本当に気持ちいいに違いありません。"
+    },
+    {
+        "id": "sarcasm_452",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、あの人は地域の活動に本当に熱心ね。毎回遅刻して、みんなを待たせるのが定番よ。"
+    },
+    {
+        "id": "sarcasm_453",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ダンスパーティーは本当に素晴らしい経験でした。足が痛くなるまで踊り続けられたなんて、夢のようです。"
+    },
+    {
+        "id": "sarcasm_454",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの提案は素晴らしいですね。私たちはきっとこれで大成功するでしょう。"
+    },
+    {
+        "id": "sarcasm_455",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "すばらしい!あなたの提案は完璧ね。会社の予算を無視して、非現実的な計画を立てるなんて、上司も喜んでいるでしょう。"
+    },
+    {
+        "id": "sarcasm_456",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ええと、この新しい路線バスは本当に快適ですね。乗り心地がいいから最高です。"
+    },
+    {
+        "id": "sarcasm_457",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ホームページのデザインは完璧ですね。まるで10年前のサイトみたい。"
+    },
+    {
+        "id": "sarcasm_458",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ビジネスで成功するには、社員のことを第一に考えるべきですね。そうすれば、社員は喜んで働いてくれるでしょう。"
+    },
+    {
+        "id": "sarcasm_459",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ビジネスの成功には、まず社員の幸せを考えることが大切だと聞きますね。そうですね、社員なんて使い捨てですからね。"
+    },
+    {
+        "id": "sarcasm_460",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "自転車に乗るのは、本当に健康的で、ストレス解消にもなりますね。毎日の通勤で、汗をかくのは気持ちいいに違いありません。"
+    },
+    {
+        "id": "sarcasm_461",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "虫を集めるのは本当に楽しい趣味だと思います。虫に噛まれたり刺されたりするのが大好きですからね。"
+    },
+    {
+        "id": "sarcasm_462",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "再生可能エネルギーは本当に未来を担う技術ね。化石燃料に頼り続けるのが一番賢明だと思うわ。"
+    },
+    {
+        "id": "sarcasm_463",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、人権なんて大切だと思うわ。そうでしょ?"
+    },
+    {
+        "id": "sarcasm_464",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "音楽プロデューサーの仕事は本当に楽ですね。ストレスもなく、毎日楽しく過ごせるはずですからね。"
+    },
+    {
+        "id": "sarcasm_465",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ペットを里親に引き取るなんて、本当に大変そう。面倒なことばかりだと思う。"
+    },
+    {
+        "id": "sarcasm_466",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、この都市計画の提案は本当に画期的だと思う。きっと誰もが喜ぶに違いない。"
+    },
+    {
+        "id": "sarcasm_467",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ああ、あの人は本当に素晴らしい料理人ね。焦げ付いた料理を出してくるなんて、さすがプロだわ。"
+    },
+    {
+        "id": "sarcasm_468",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "占い師の助言は絶対に当たるよ。私も最近、彼らに相談したら、未来のことがよくわかったんだ。"
+    },
+    {
+        "id": "sarcasm_469",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "わあ、あなたのマラソンタイムは素晴らしいわ!最後まで走り切れなかったなんて、本当に健脚ね。"
+    },
+    {
+        "id": "sarcasm_470",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "スパイスの選択は素晴らしかったですね。私たちの舌は完全に麻痺してしまいました。"
+    },
+    {
+        "id": "sarcasm_471",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "再生可能エネルギーなんて、本当に未来を担う技術ね。化石燃料に頼り続けるのが一番賢明だと思うわ。"
+    },
+    {
+        "id": "sarcasm_472",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "この発酵食品の製造過程は、本当に簡単そうね。誰でも手軽に作れるんでしょう?"
+    },
+    {
+        "id": "sarcasm_473",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "自然散歩は最高ですよ。道に迷って遭難するのが私の一番の楽しみです。"
+    },
+    {
+        "id": "sarcasm_474",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "写真撮影は本当に簡単な趣味ですね。カメラを構えるだけで、素晴らしい作品が撮れるはずです。"
+    },
+    {
+        "id": "sarcasm_475",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "伝統工芸品を大切に保存しているって、本当に素晴らしいですね。値段を高くつり上げて、観光客から搾取するのが目的なんでしょう。"
+    },
+    {
+        "id": "sarcasm_476",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "刺繍なんて初心者でも簡単に上手になれますよ。難しくないですね。"
+    },
+    {
+        "id": "sarcasm_477",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ええ、あの人の料理の腕前は本当に素晴らしいわ。まるで料理の本を読んだことがないみたい。"
+    },
+    {
+        "id": "sarcasm_478",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "はい、山登りは本当に気持ちいいですね。特に、膝が痛くなったり、息が上がったりするのが最高です。"
+    },
+    {
+        "id": "sarcasm_479",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "パーティー企画なんて、本当に楽しいことだと思う。ストレスなんて全然ないよね。"
+    },
+    {
+        "id": "sarcasm_480",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ソープカービングって本当に面白いよね。あんなに細かい作業を黙々とやるなんて、私には絶対無理だわ。"
+    },
+    {
+        "id": "sarcasm_481",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "バイオフィリックデザインって、自然と調和した空間を作り出せるんでしょう。まるで人工的な感じがしないみたいですね。"
+    },
+    {
+        "id": "sarcasm_482",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの料理は本当に美味しかったです。私はこれまで食べたことのない、独特の風味を味わえました。"
+    },
+    {
+        "id": "sarcasm_483",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの歌声は本当に素晴らしいですね。私はこれほど心地よい音色を聞いたことがありません。"
+    },
+    {
+        "id": "sarcasm_484",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、この顔認証技術は本当に素晴らしいわね。まるで人間の目より正確だと思う。"
+    },
+    {
+        "id": "sarcasm_485",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "レースメイキングって本当に素晴らしい趣味だと思う。あんなに複雑な模様を作れるなんて、天才的だわ。"
+    },
+    {
+        "id": "sarcasm_486",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "先生は子供たちを本当に大切にしているわ。怒鳴り散らしているのを見ると、そう思えるわね。"
+    },
+    {
+        "id": "sarcasm_487",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、この大会は本当に楽しかったわね。私の演技なんて、まるで世界チャンピオンみたいだったわ。"
+    },
+    {
+        "id": "sarcasm_488",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あの作家の新作は素晴らしいわ。誰も読んでいないのが一番の証拠ね。"
+    },
+    {
+        "id": "sarcasm_489",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "タップダンスの発表会、すばらしかったわ。まるで専門のダンサーみたいだったわ。"
+    },
+    {
+        "id": "sarcasm_490",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ポッドキャストを作るなんて、本当に簡単そうね。私にもできそう。"
+    },
+    {
+        "id": "sarcasm_491",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "オフィスに出勤するのが嫌いな部下に「出勤するのは本当に気分転換になるよ。家にいるのは退屈だから」と言った。"
+    },
+    {
+        "id": "sarcasm_492",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "パーティーの準備なんて、私にとっては日課みたいなものね。ストレスなんて感じたことないわ。"
+    },
+    {
+        "id": "sarcasm_493",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ほら、あの人は本当に上手に星を観測しているわ。きっと宇宙人とも交信できるに違いないわ。"
+    },
+    {
+        "id": "sarcasm_494",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ビールの味なんて、誰が気にするんだよ。大切なのは、ラベルのデザインが洗練されているかどうかだろ。"
+    },
+    {
+        "id": "sarcasm_495",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "慈善ランは本当に素晴らしかったわ。あんなに疲れたことはないわ。"
+    },
+    {
+        "id": "sarcasm_496",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "スポーツ解析は本当に面白い分野だね。数字を見るだけで、選手の能力がよくわかるんだから。"
+    },
+    {
+        "id": "sarcasm_497",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あなたの絵は本当に素晴らしい色使いですね。まるで子供の絵のようです。"
+    },
+    {
+        "id": "sarcasm_498",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "インターネットは本当に安全な場所だと思う。ネット上で個人情報を共有するのは全く問題ないよね。"
+    },
+    {
+        "id": "sarcasm_499",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "リーダーシップについて学ぼうとする後輩に「リーダーシップなんて本当に必要ないよ。上司の指示に従えば十分だから」と言った。"
+    },
+    {
+        "id": "sarcasm_500",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "あぁ、スマートシティはまさに完璧だわ。道路は渋滞だらけ、公共交通機関は遅延続きで、住民の生活は快適そのものね。"
+    },
+    {
+        "id": "sarcasm_501",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "ほら、あの伝統的な踊りは本当に素晴らしかったわ。私なんて、まるで専門家みたいに見えたわよ。"
+    },
+    {
+        "id": "sarcasm_502",
+        "rhetorical_device": [
+            "sarcasm"
+        ],
+        "text": "サイレントリトリートって最高だと思う。一日中誰とも話さずに過ごせるなんて、ストレス解消になるに違いない。"
+    }
+]

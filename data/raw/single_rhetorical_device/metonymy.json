@@ -1,0 +1,3537 @@
+[
+    {
+        "id": "metonymy_0",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "スピアフィッシングの聖地、沖縄の海で、熟練のダイバーたちが魚を狙っていた。"
+    },
+    {
+        "id": "metonymy_1",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "人気料理店の厨房では、調理器具の音が絶え間なく響き渡る。シェフたちの手際の良さに、食通たちは舌鼓を打つ。"
+    },
+    {
+        "id": "metonymy_2",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "陸軍は国境警備を強化した。(The army reinforced the border security.)"
+    },
+    {
+        "id": "metonymy_3",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ウォール街は株価の下落に苦しんでいる。(Wall Street is struggling with the stock market decline.)"
+    },
+    {
+        "id": "metonymy_4",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ウォール街の動きを見守りながら、投資家たちは次の一手を慎重に検討していた。"
+    },
+    {
+        "id": "metonymy_5",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "求人広告に、企業の人材ニーズが表れていた。"
+    },
+    {
+        "id": "metonymy_6",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ドローンレースの優勝者は、観客の熱狂的な歓声に包まれた。"
+    },
+    {
+        "id": "metonymy_7",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "手刺繍の名門が、新作のデザインを発表した。"
+    },
+    {
+        "id": "metonymy_8",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "地元の工場が閉鎖されたため、町の経済は大打撃を受けた。"
+    },
+    {
+        "id": "metonymy_9",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "アストロフォトグラフィーの愛好家たちは、夜空の美しい写真を撮るために、遠隔地の山奥に足を運んでいる。"
+    },
+    {
+        "id": "metonymy_10",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ホワイトハウスは新しい政策を発表した。"
+    },
+    {
+        "id": "metonymy_11",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "スポーツ選手たちは、グラウンドで汗を流しながら熱心に練習に励んでいた。"
+    },
+    {
+        "id": "metonymy_12",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "アンコールワットは、カンボジアの歴史と文化を物語る遺跡だ。"
+    },
+    {
+        "id": "metonymy_13",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ダウン街の活気に満ちた雰囲気に魅了されていた。"
+    },
+    {
+        "id": "metonymy_14",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ベーカリーは、香り高いパンを焼き上げていた。"
+    },
+    {
+        "id": "metonymy_15",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ミツバチが花粉を集めるのを見るのは本当に魅力的だ。"
+    },
+    {
+        "id": "metonymy_16",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ホリウッドは、最新の映画情報を常に発信し続けている。"
+    },
+    {
+        "id": "metonymy_17",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "東京の街を歩いていると、シックな洋服を着た人々が多く見られる。ファッション業界の中心地である銀座の影響が強く感じられる。"
+    },
+    {
+        "id": "metonymy_18",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "庭園の隅に佇む小さな木々が、静かに呼吸を続けている。"
+    },
+    {
+        "id": "metonymy_19",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "昨日、私は友人と一緒にワイナリーを訪れた。ナパバレーの銘醸地で、最高の味わいを楽しめた。"
+    },
+    {
+        "id": "metonymy_20",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私は、この地域の伝統的な織物デザインに魅了されている。"
+    },
+    {
+        "id": "metonymy_21",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ブラジルのアマゾンは、地球温暖化の影響を最も受けている地域の一つだと指摘されている。"
+    },
+    {
+        "id": "metonymy_22",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ロンドンの歴史的建造物を訪れ、英国の伝統に触れた。"
+    },
+    {
+        "id": "metonymy_23",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "首相官邸は新政策を発表した。(The Prime Minister's Office announced the new policy.)"
+    },
+    {
+        "id": "metonymy_24",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ベジタリアン料理の本を読んでいると、大豆や豆腐といった植物性のタンパク質の魅力に気づかされる。"
+    },
+    {
+        "id": "metonymy_25",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ベルリンの壁が崩壊した日、世界中のメディアがその光景を伝えた。人々は、自由への扉が開かれたことを喜び合った。"
+    },
+    {
+        "id": "metonymy_26",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ウィスキー蒸留所は最新の設備を導入した。"
+    },
+    {
+        "id": "metonymy_27",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "王冠は国民の期待に応えなければならない。"
+    },
+    {
+        "id": "metonymy_28",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "古い家具を修復するのが趣味の彼女は、時間をかけて丁寧に木材を磨き上げていた。"
+    },
+    {
+        "id": "metonymy_29",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "キャンパスは新しい学生寮を建設することを決めた。(The campus decided to build a new dormitory.)"
+    },
+    {
+        "id": "metonymy_30",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "熟練の「革職人」は、上質な革製品を生み出す。"
+    },
+    {
+        "id": "metonymy_31",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ホワイトハウスは新しい政策を発表しました。"
+    },
+    {
+        "id": "metonymy_32",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ウォール街の動きが、世界経済に大きな影響を及ぼしている。"
+    },
+    {
+        "id": "metonymy_33",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "シリコンバレーの企業が、最新のテクノロジーを開発している。"
+    },
+    {
+        "id": "metonymy_34",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ファッション業界では、パリコレクションが注目を集めている。"
+    },
+    {
+        "id": "metonymy_35",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "窓の外を見ると、雪が静かに舞っている。"
+    },
+    {
+        "id": "metonymy_36",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ニューヨークの街角で、モデル愛好家たちが熱心に鉄道模型を眺めていた。"
+    },
+    {
+        "id": "metonymy_37",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ファッション業界は、パリコレの発表を心待ちにしている。"
+    },
+    {
+        "id": "metonymy_38",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ブロードウェイは新しい演劇を上演している。(Broadway is staging a new play.)"
+    },
+    {
+        "id": "metonymy_39",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "パリのエッフェル塔を背景に、カップルたちが写真を撮っていた。ロマンチックな雰囲気に包まれた光景だった。"
+    },
+    {
+        "id": "metonymy_40",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "出版社は、新人作家の作品を高く評価していると聞いた。"
+    },
+    {
+        "id": "metonymy_41",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "地域の防災訓練では、消防署の指示に従う参加者が多かった。地域の安全を守る消防組織の重要性が認識されている。"
+    },
+    {
+        "id": "metonymy_42",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私たちの会社は、新しい製品の開発に力を入れている。"
+    },
+    {
+        "id": "metonymy_43",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "新型コロナウイルスの感染が広がる中、医療現場は大変な状況にある。白衣の天使たちは必死に患者の命を守っている。"
+    },
+    {
+        "id": "metonymy_44",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "植物園を散策していると、珍しい花々に出会える。その色鮮やかな姿は、まるで芸術作品のようだ。"
+    },
+    {
+        "id": "metonymy_45",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "病院の窓から見える景色は、患者の心に安らぎを与えてくれる。"
+    },
+    {
+        "id": "metonymy_46",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "VRゲームの没入感は、現実世界から完全に切り離されたかのような体験を生み出す。"
+    },
+    {
+        "id": "metonymy_47",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "「ハリウッド」は、映画産業の中心地であり続けている。"
+    },
+    {
+        "id": "metonymy_48",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "経済の中心地である市街地では、活気に満ちている。スーツ姿の人々が行き交う姿が見られる。"
+    },
+    {
+        "id": "metonymy_49",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ダンサーたちは、ステージの上で華麗な演技を披露し、観客を魅了した。"
+    },
+    {
+        "id": "metonymy_50",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "文芸賞を受賞したのは新進気鋭の作家だ。(The rising literary talent won the literary award.)"
+    },
+    {
+        "id": "metonymy_51",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ハリウッドは今年も斬新な作品を発表した。観客は新しい映画に夢中になった。"
+    },
+    {
+        "id": "metonymy_52",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私たちは王宮を訪れました。"
+    },
+    {
+        "id": "metonymy_53",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "皇室の決定に国民の注目が集まっている。"
+    },
+    {
+        "id": "metonymy_54",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ワシントンD.C.の国会議事堂で、議員たちが熱心に議論していた。政治家たちが国家の未来を左右する重要な決断をしていた。"
+    },
+    {
+        "id": "metonymy_55",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "お城の中には、王冠が輝いていた。"
+    },
+    {
+        "id": "metonymy_56",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "編み物教室に通う主婦たちは、新しい糸を手に入れるたびに喜びを隠せない。手芸の中心地である専門店の存在が大きい。"
+    },
+    {
+        "id": "metonymy_57",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ホワイトハウスは、外交政策の変更を発表した。"
+    },
+    {
+        "id": "metonymy_58",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "東京の街を歩いていると、シャッターが下りた店舗が目に付く。ここは金融の中心地なのだ。"
+    },
+    {
+        "id": "metonymy_59",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ハリウッドは、今年の受賞作品を発表した。"
+    },
+    {
+        "id": "metonymy_60",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "新しいアイスクリームショップがオープンした。店頭には、色鮮やかな冷たいスイーツが並んでいた。"
+    },
+    {
+        "id": "metonymy_61",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ホワイトハウスは先週、新たな経済政策を発表した。"
+    },
+    {
+        "id": "metonymy_62",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ダウンタウンの高層ビルでは、経営者たちが会議を行っている。彼らは、企業の将来を左右する重要な決断を下そうとしている。"
+    },
+    {
+        "id": "metonymy_63",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ウォール街は、金融市場の動向を敏感に捉えている。"
+    },
+    {
+        "id": "metonymy_64",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "政治の中心地は、重要な決定を下した。"
+    },
+    {
+        "id": "metonymy_65",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "皇室は国民の関心を集めている。"
+    },
+    {
+        "id": "metonymy_66",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "鳥小屋作りに熱中する人が増えている。"
+    },
+    {
+        "id": "metonymy_67",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "石鹸の街は、自然派の製品で有名だ。"
+    },
+    {
+        "id": "metonymy_68",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "写真集には、家族の思い出がたくさん詰まっている。"
+    },
+    {
+        "id": "metonymy_69",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私たちは、シリコンバレーの最新のイノベーションに注目している。"
+    },
+    {
+        "id": "metonymy_70",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ハリウッドは今年、大ヒット作品を多数公開している。"
+    },
+    {
+        "id": "metonymy_71",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ベルリンの壁が崩壊したあの日、世界中が歓喜に包まれた。"
+    },
+    {
+        "id": "metonymy_72",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "考古学者たちが遺跡の発掘に取り組んでいる。(The archaeologists are working on excavating the ruins.)"
+    },
+    {
+        "id": "metonymy_73",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "映画祭の開幕に合わせ、レッドカーペットには多くの有名俳優が登場した。映画界の中心的な存在である俳優たちの出席が注目を集めている。"
+    },
+    {
+        "id": "metonymy_74",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "フリーランスのペンは社会問題を鋭く描いた。(The freelance pen sharply depicted the social issues.)"
+    },
+    {
+        "id": "metonymy_75",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "キャンパスは学生の活動を支援している。"
+    },
+    {
+        "id": "metonymy_76",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ウォールストリートは、株価の変動に敏感に反応している。"
+    },
+    {
+        "id": "metonymy_77",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "あの有名な歌手がレコード会社と契約を結んだと聞いた。"
+    },
+    {
+        "id": "metonymy_78",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "シリコンバレーは新しいテクノロジーを生み出し続けている。"
+    },
+    {
+        "id": "metonymy_79",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "文学フェスティバルの会場には、熱心な読書家が詰めかけ、著名作家との対話に興奮気味に耳を傾ける。"
+    },
+    {
+        "id": "metonymy_80",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "サイバーセキュリティ業界は人材不足に悩んでいる。"
+    },
+    {
+        "id": "metonymy_81",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "工房の窓ガラスには、職人の手仕事を讃える言葉が書かれている。その文字が、作品への愛着を物語る。"
+    },
+    {
+        "id": "metonymy_82",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "パドルボードに乗って湖面を滑るのは、心地よい体験だった。"
+    },
+    {
+        "id": "metonymy_83",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ワシントンは新しい政策を発表した。(Washington has announced a new policy.)"
+    },
+    {
+        "id": "metonymy_84",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "外は雨が降っているが、「空」は晴れ間を見せてくれるかもしれない。"
+    },
+    {
+        "id": "metonymy_85",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "洞窟は探検家たちを魅了し続けている。"
+    },
+    {
+        "id": "metonymy_86",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "この工房では、熟練の職人の手によって生み出される陶器の数々が並んでいる。"
+    },
+    {
+        "id": "metonymy_87",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ステージの上で、ギターが熱狂的な歓声を呼び起こした。"
+    },
+    {
+        "id": "metonymy_88",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ハリウッドは今年、大ヒット作品を多数公開した。映画ファンは期待に胸を膨らませている。"
+    },
+    {
+        "id": "metonymy_89",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "王冠は、君主制の象徴として君臨している。"
+    },
+    {
+        "id": "metonymy_90",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "スポーツ界は、ドーピング問題に悩まされ続けている。"
+    },
+    {
+        "id": "metonymy_91",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "農場は新鮮な野菜を提供し続けている。(The farm continues to provide fresh vegetables.)"
+    },
+    {
+        "id": "metonymy_92",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "バレエ界の巨匠が振付を手掛けた。(The master of the ballet world choreographed the piece.)"
+    },
+    {
+        "id": "metonymy_93",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "地方自治体の会議では、市長の発言に注目が集まった。行政の中心的な存在である市長の意見が重要視されている。"
+    },
+    {
+        "id": "metonymy_94",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "チョコレート工房は新しい味を生み出し続けている。"
+    },
+    {
+        "id": "metonymy_95",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ホワイトハウスは外交政策の変更を検討している。"
+    },
+    {
+        "id": "metonymy_96",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "政治家たちは、「ホワイトハウス」の動向に注目している。"
+    },
+    {
+        "id": "metonymy_97",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "SNSは若者の間で大きな影響力を持っている。"
+    },
+    {
+        "id": "metonymy_98",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "インディーゲームの開発者たちは、独創的なアイデアを形にしている。彼らの作品は、ゲーム業界に新しい風を吹き込んでいる。"
+    },
+    {
+        "id": "metonymy_99",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "オンラインゲームの大会会場では、プロチームのユニフォームを着た選手たちが熱戦を繰り広げていた。ゲーム業界のトップチームの活躍が期待されている。"
+    },
+    {
+        "id": "metonymy_100",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ステップファミリーの話を聞くと、「血縁」よりも「絆」の大切さがよくわかる。"
+    },
+    {
+        "id": "metonymy_101",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "新しい技術が登場すると、シリコンバレーは大きな注目を集める。"
+    },
+    {
+        "id": "metonymy_102",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "模型愛好家たちは最新の技術を使って作品を作っている。"
+    },
+    {
+        "id": "metonymy_103",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "SNSでは新製品の話題が盛り上がっていた。ユーザーたちが熱心にコメントを寄せていた。"
+    },
+    {
+        "id": "metonymy_104",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ホワイトハウスは先週、新たな政策を発表した。大統領府は国民の期待に応えるべく、様々な取り組みを行っている。"
+    },
+    {
+        "id": "metonymy_105",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私たちは家族で日曜日の朝、キッチンの香りに包まれながらゆっくりと過ごした。"
+    },
+    {
+        "id": "metonymy_106",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ガラスの器に注がれた液体が、光を反射して輝いている。"
+    },
+    {
+        "id": "metonymy_107",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ホワイトハウスは、この問題について慎重な対応を取っている。"
+    },
+    {
+        "id": "metonymy_108",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ホワイトハウスは先週の会議で重要な決定を下した。"
+    },
+    {
+        "id": "metonymy_109",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ハリウッドは、今年の作品ラインナップに期待が高まっている。"
+    },
+    {
+        "id": "metonymy_110",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ダウンタウンは活気に満ちている。"
+    },
+    {
+        "id": "metonymy_111",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "スポーツ観戦を通して、観客たちは選手たちの熱意に感動を覚えた。"
+    },
+    {
+        "id": "metonymy_112",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "紙の模様を眺めながら、彼女は自分の作品に満足げだった。大切な一枚が完成したのだ。"
+    },
+    {
+        "id": "metonymy_113",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "先週末、私は友人と一緒にキャンプに行った。大自然に囲まれた、あの国立公園で素晴らしい時間を過ごせた。"
+    },
+    {
+        "id": "metonymy_114",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "彫刻家は粘土を巧みに操り、美しい作品を生み出した。"
+    },
+    {
+        "id": "metonymy_115",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "シリコンバレーは最新のテクノロジーを生み出し続けている。(Silicon Valley continues to produce the latest technologies.)"
+    },
+    {
+        "id": "metonymy_116",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "カヤックの里は、アウトドアスポーツの愛好家を魅了している。"
+    },
+    {
+        "id": "metonymy_117",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "フラッシュモブの参加者たちは、一斉に踊り始めた。"
+    },
+    {
+        "id": "metonymy_118",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "文芸誌の表紙には、新進気鋭の作家の写真が躍る。その顔が、読者の期待を呼び起こす。"
+    },
+    {
+        "id": "metonymy_119",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ホワイトハウスは外交政策について声明を出した。"
+    },
+    {
+        "id": "metonymy_120",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "シリコンバレーは、最新のテクノロジー開発に熱心に取り組んでいる。"
+    },
+    {
+        "id": "metonymy_121",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ワシントンは、この問題について慎重に検討しているようだ。"
+    },
+    {
+        "id": "metonymy_122",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "この町の人々は、毎週日曜日にテニスコートに集まる。みんなテニスを楽しむのが好きなのだ。"
+    },
+    {
+        "id": "metonymy_123",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "東京の街並みを眺めながら、私は首都の活気に魅了された。"
+    },
+    {
+        "id": "metonymy_124",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ハリウッドは今年の作品ラインナップに期待が高まっている。"
+    },
+    {
+        "id": "metonymy_125",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "オーディオエンジニアたちは、最新のサウンド技術を駆使して、アーティストの魂を表現した。"
+    },
+    {
+        "id": "metonymy_126",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ラグビーチームは、優勝を目指して練習に励んでいる。"
+    },
+    {
+        "id": "metonymy_127",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "科学者たちは、火星探査機の打ち上げに向けて、最終調整を行っている。彼らは、この探査機が新たな発見をもたらすことを期待している。"
+    },
+    {
+        "id": "metonymy_128",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ダウンタウンは今日の交通渋滞に悩まされている。"
+    },
+    {
+        "id": "metonymy_129",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ハリウッドは、世界中に影響力を及ぼす映画産業の中心地だ。"
+    },
+    {
+        "id": "metonymy_130",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ダンサーたちは、フラメンコの激情を体現していた。"
+    },
+    {
+        "id": "metonymy_131",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ガラス細工の展示会に行ったら、素晴らしい作品ばかりだった。"
+    },
+    {
+        "id": "metonymy_132",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ライブハウスは熱狂的な雰囲気に包まれていた。ステージ上のアーティストが観客を魅了していた。"
+    },
+    {
+        "id": "metonymy_133",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "レインボーフラッグは、LGBTQコミュニティの象徴となっている。"
+    },
+    {
+        "id": "metonymy_134",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "首相官邸は、この問題について明確な立場を示さなかった。"
+    },
+    {
+        "id": "metonymy_135",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "シリコンバレーは、世界最先端のテクノロジー企業が集まる場所だ。"
+    },
+    {
+        "id": "metonymy_136",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "東京の街を歩いていると、ウォール街の活気を感じる。"
+    },
+    {
+        "id": "metonymy_137",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ホリウッドの映画スターたちは、世界中のファンを魅了し続けている。"
+    },
+    {
+        "id": "metonymy_138",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "お城の中には王様がいらっしゃいます。"
+    },
+    {
+        "id": "metonymy_139",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "アスリートたちは、五輪の栄光を勝ち取るべく全力で戦っていた。"
+    },
+    {
+        "id": "metonymy_140",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "地元の工場が新しい製品を発表したと、町中が話題に花を咲かせた。"
+    },
+    {
+        "id": "metonymy_141",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ウォールストリートは、アメリカの金融市場の中心地を表している。"
+    },
+    {
+        "id": "metonymy_142",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "アドベンチャーレースの参加者は過酷なコースに挑戦する。"
+    },
+    {
+        "id": "metonymy_143",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "東京の街を歩いていると、シャッターを切る手が止まらなくなる。カメラマンたちが、街の喧噪を捉えようと必死に撮影していた。"
+    },
+    {
+        "id": "metonymy_144",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ハリウッドは新作映画の発表を控えている。"
+    },
+    {
+        "id": "metonymy_145",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ファンたちは、彼らのアイドルを熱狂的に応援していた。"
+    },
+    {
+        "id": "metonymy_146",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私は、あの有名な俳優の最新作を楽しみにしている。"
+    },
+    {
+        "id": "metonymy_147",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "タップダンサーの足音が響き渡り、会場全体が熱気に包まれた。"
+    },
+    {
+        "id": "metonymy_148",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "フェスティバルの会場は観客で賑わっていた。"
+    },
+    {
+        "id": "metonymy_149",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "バチカンは、カトリック教会の中心的な存在である。"
+    },
+    {
+        "id": "metonymy_150",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "あの脚本家の最新作が、映画祭で高い評価を得ている。"
+    },
+    {
+        "id": "metonymy_151",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ワシントンは外交政策の変更を検討している。"
+    },
+    {
+        "id": "metonymy_152",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "東京の街は今日も忙しく動いている。(The city of Tokyo is bustling with activity today.)"
+    },
+    {
+        "id": "metonymy_153",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ルーブル美術館の名画を鑑賞するのは、芸術愛好家の夢だ。"
+    },
+    {
+        "id": "metonymy_154",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "古地図を見ると、その時代の「王冠」の領土が一目瞭然だ。"
+    },
+    {
+        "id": "metonymy_155",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "シリコンバレーの企業が、革新的な製品を世に送り出した。"
+    },
+    {
+        "id": "metonymy_156",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私たちは家族で週末にキャンプに行った。テントを張り、焚き火を楽しんだ。夜空を見上げると、天の川が美しく輝いていた。"
+    },
+    {
+        "id": "metonymy_157",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ファッション業界の関係者たちが、次のトレンドを探るべく、パリコレに集まった。"
+    },
+    {
+        "id": "metonymy_158",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ベルリンは再び壁を建設することを決めた。"
+    },
+    {
+        "id": "metonymy_159",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "この村の顔は、毎週日曜日に集まる老人たちだ。"
+    },
+    {
+        "id": "metonymy_160",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "王冠は国民の尊敬と愛情を集めている。"
+    },
+    {
+        "id": "metonymy_161",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "首都は新しい政策を発表した。"
+    },
+    {
+        "id": "metonymy_162",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "今日のゲームは白熱していた。ピッチ上の11人が熱心に戦っていた。"
+    },
+    {
+        "id": "metonymy_163",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "あの小さな工房で作られた手作りの石鹸は、都会人に人気を集めている。"
+    },
+    {
+        "id": "metonymy_164",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "スクラップブッキングの達人は、思い出の品々を美しく配置し、自分だけの作品を作り上げていく。"
+    },
+    {
+        "id": "metonymy_165",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "クレイアートの世界に魅了されるのは、指先の感触が作品に宿る魂を感じられるからだ。"
+    },
+    {
+        "id": "metonymy_166",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "東京の街を歩いていると、ウォールストリートの動きを感じられる。"
+    },
+    {
+        "id": "metonymy_167",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私たちの街は伝統的な工芸品で有名だ。"
+    },
+    {
+        "id": "metonymy_168",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "デジタルキャンバスに、アーティストの感性が込められていた。"
+    },
+    {
+        "id": "metonymy_169",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ジオキャッシングを楽しむ人々は、自然の中を探検するのを楽しんでいる。"
+    },
+    {
+        "id": "metonymy_170",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私は先週、ハリウッドで開催された映画祭に参加した。世界中から集まった映画人たちが、最新作を披露していた。"
+    },
+    {
+        "id": "metonymy_171",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ホワイトハウスは先週、新たな政策を発表した。"
+    },
+    {
+        "id": "metonymy_172",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "オックスフォード大学は、世界的に高い評価を得ている。"
+    },
+    {
+        "id": "metonymy_173",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "「リサイクルセンター」は、地域の人々に大切な役割を果たしている。"
+    },
+    {
+        "id": "metonymy_174",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ホリウッドは最近、ヒーロー物語に人気が集まっているようだ。"
+    },
+    {
+        "id": "metonymy_175",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "川の流れを眺めながら、心が落ち着いていった。"
+    },
+    {
+        "id": "metonymy_176",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ヨーグルト工場は、新しい商品を開発している。"
+    },
+    {
+        "id": "metonymy_177",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "首相官邸は、新型コロナウイルス対策について発表した。"
+    },
+    {
+        "id": "metonymy_178",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "あのバンドのニューアルバムが発売されるのを楽しみにしている。"
+    },
+    {
+        "id": "metonymy_179",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ハリウッドは今年、大ヒット作品を多数公開した。"
+    },
+    {
+        "id": "metonymy_180",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "森林は、地球の肺と呼ばれ、私たちの生命を支えている。"
+    },
+    {
+        "id": "metonymy_181",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私は、ウォール街の動向を常に注視している。"
+    },
+    {
+        "id": "metonymy_182",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "国会議事堂は、重要な政治決定を下す場所として知られている。"
+    },
+    {
+        "id": "metonymy_183",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ロンドンは新しい観光スポットを紹介した。(London introduced a new tourist attraction.)"
+    },
+    {
+        "id": "metonymy_184",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "職人の手が、伝統的な工芸品を生み出していた。"
+    },
+    {
+        "id": "metonymy_185",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ファストファッションの影響で、「メイド・イン・バングラデシュ」の服が世界中に広まっている。"
+    },
+    {
+        "id": "metonymy_186",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "宇宙開発の最前線を担うのは、いつも白い制服を着た若者たちだ。"
+    },
+    {
+        "id": "metonymy_187",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ショーウィンドウに並ぶ宝石が、私の目を引きつけた。"
+    },
+    {
+        "id": "metonymy_188",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "東京の街は今日も忙しく動いている。皇居の近くでは、政治家たちが重要な会議を開いている。"
+    },
+    {
+        "id": "metonymy_189",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "宇宙船の設計図を手にした技術者たちは、夢の実現に向けて日夜取り組んでいる。"
+    },
+    {
+        "id": "metonymy_190",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ダンサーたちは、ステージの上で華麗な演技を披露した。"
+    },
+    {
+        "id": "metonymy_191",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ウォール街は株価の変動に敏感だ。"
+    },
+    {
+        "id": "metonymy_192",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ガーデニングが趣味の彼女は、毎週末に自宅の庭に出かける。その緑豊かな空間で、心を落ち着かせているようだ。"
+    },
+    {
+        "id": "metonymy_193",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ニューヨークの街角では、ダンサーたちが熱心にパフォーマンスを披露している。彼らは、自身の技術を世界に向けて発信しようと努めている。"
+    },
+    {
+        "id": "metonymy_194",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "シリコンバレーは、テクノロジー企業の集積地として有名だ。"
+    },
+    {
+        "id": "metonymy_195",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "オリンピックは世界中の注目を集めている。(The Olympics are drawing the attention of the world.)"
+    },
+    {
+        "id": "metonymy_196",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "アストロフォトグラフィーの撮影には、高性能な望遠レンズが欠かせない。"
+    },
+    {
+        "id": "metonymy_197",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "登山家たちは標高5,000メートルの峰を目指している。"
+    },
+    {
+        "id": "metonymy_198",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ダンスセラピーの先生は、参加者一人一人に丁寧な指導をしていた。"
+    },
+    {
+        "id": "metonymy_199",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ワシントンは昨日、新しい政策を発表した。ホワイトハウスは国民の利益を第一に考えているようだ。"
+    },
+    {
+        "id": "metonymy_200",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "地域の園芸クラブは毎週土曜日に集まって、畑の手入れをしている。"
+    },
+    {
+        "id": "metonymy_201",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "医療現場では、白衣が患者の安心感を高めている。"
+    },
+    {
+        "id": "metonymy_202",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "窓ガラスの向こうで、雨が静かに降り続けていた。"
+    },
+    {
+        "id": "metonymy_203",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "農村部の活性化に向けて、様々な取り組みが行われている。その地域の特産品が、注目を集めるようになってきた。"
+    },
+    {
+        "id": "metonymy_204",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ファッション業界では、「パリ」が最先端のトレンドを生み出し続けている。"
+    },
+    {
+        "id": "metonymy_205",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ビールを注ぐ音が心地よかった。ラベルには、ドイツの伝統的な醸造所の名前が書かれていた。"
+    },
+    {
+        "id": "metonymy_206",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "田舎の小さな村に行ってみると、のどかな風景に癒されるだろう。そこでは、自然と調和した生活が営まれている。"
+    },
+    {
+        "id": "metonymy_207",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "先日、私は新しい腕時計を購入した。スイスの伝統を受け継ぐ、あの高級ブランドの製品だ。"
+    },
+    {
+        "id": "metonymy_208",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "手術室の緑の灯りが点灯すると、医療現場の緊張感が高まる。"
+    },
+    {
+        "id": "metonymy_209",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "サーフボードの形状を研究する工房が注目を集めている。"
+    },
+    {
+        "id": "metonymy_210",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "製薬会社は、患者のニーズに応えるべく努力している。"
+    },
+    {
+        "id": "metonymy_211",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "アーティストたちが集まるソーホーでは、新しい芸術作品が次々と生み出されている。その作品は、世界中の美術館で展示される予定だ。"
+    },
+    {
+        "id": "metonymy_212",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ニューヨークのスカイラインを見上げると、高層ビルが立ち並んでいた。都市の発展と近代化を象徴する景色だった。"
+    },
+    {
+        "id": "metonymy_213",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "成人教育センターでは、様々な講座が開講されている。"
+    },
+    {
+        "id": "metonymy_214",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "バレエの振付家たちは、ステージの上で優雅な「白鳥」を演じる。"
+    },
+    {
+        "id": "metonymy_215",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "砂の彫刻家たちは、自然の造形美を引き出そうと努力していた。彼らの作品は見る者を魅了した。"
+    },
+    {
+        "id": "metonymy_216",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "パリの洗練された街並みを散策し、フランスの芸術文化に魅了された。"
+    },
+    {
+        "id": "metonymy_217",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "首相官邸は新しい政策を発表した。(The Prime Minister's Office announced a new policy.)"
+    },
+    {
+        "id": "metonymy_218",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "工場の煙突から、重工業の活気が感じられた。"
+    },
+    {
+        "id": "metonymy_219",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ブルームバーグは、経済指標の変化を詳細に分析している。"
+    },
+    {
+        "id": "metonymy_220",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "新しいエネルギー技術の開発に尽力しているシリコンバレーは、再生可能エネルギーの未来を象徴する存在となっている。"
+    },
+    {
+        "id": "metonymy_221",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ハリウッドは、最新の映画技術を駆使した作品を次々と世に送り出している。"
+    },
+    {
+        "id": "metonymy_222",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ダイエットのために、冷蔵庫の中身を見直した。"
+    },
+    {
+        "id": "metonymy_223",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ホワイトハウスは先週、新しい経済政策を発表した。大統領府の動きに注目が集まっている。"
+    },
+    {
+        "id": "metonymy_224",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "量子コンピューターは、従来のコンピューターを遥かに凌駕する性能を持っている。"
+    },
+    {
+        "id": "metonymy_225",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私は、ブロードウェイの舞台公演を楽しみにしている。"
+    },
+    {
+        "id": "metonymy_226",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "スケートボードは、公園で華麗な技を披露していた。"
+    },
+    {
+        "id": "metonymy_227",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "コメディは観客を笑いの渦に巻き込んだ。"
+    },
+    {
+        "id": "metonymy_228",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "東京の街並みを眺めながら、シティライフの喧騒に疲れを感じていた。"
+    },
+    {
+        "id": "metonymy_229",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "レース編み職人は、繊細な模様を生み出していた。"
+    },
+    {
+        "id": "metonymy_230",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私たちは、「ウォール街」の動向を注視しながら、投資の機会を探っている。"
+    },
+    {
+        "id": "metonymy_231",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "地域コミュニティの舞台は活気に満ちていた。観客席からは大きな拍手が響き渡った。"
+    },
+    {
+        "id": "metonymy_232",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "企業の新入社員研修では、上司の講義に熱心に耳を傾ける新人社員の姿が見られた。組織の中心的な存在である上司の指導が重視されている。"
+    },
+    {
+        "id": "metonymy_233",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "文芸界は彼の新作に期待を寄せている。(The literary world is anticipating his new work.)"
+    },
+    {
+        "id": "metonymy_234",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私は、この洋服を自分で裁縫して作りました。"
+    },
+    {
+        "id": "metonymy_235",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ウォール街の株価が急落したことで、投資家たちは大きな損失を被った。金融界全体が動揺に包まれている。"
+    },
+    {
+        "id": "metonymy_236",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "東京の街を歩いていると、スーツを着た人々の波が押し寄せてくる。"
+    },
+    {
+        "id": "metonymy_237",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "気象予報士は、「天気」の変化を正確に伝えることが求められる。"
+    },
+    {
+        "id": "metonymy_238",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ブルックリンは若者たちに人気の地域となっている。"
+    },
+    {
+        "id": "metonymy_239",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ファンタジーリーグの優勝を目指す彼は、毎週選手の動向を注意深く追っていた。"
+    },
+    {
+        "id": "metonymy_240",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "あの有名な航空会社は、新しい機内サービスを導入したと発表した。"
+    },
+    {
+        "id": "metonymy_241",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "祇園祭の山鉾は、京都の伝統と歴史を象徴する。"
+    },
+    {
+        "id": "metonymy_242",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ペットセラピーを受けて心が癒されました。"
+    },
+    {
+        "id": "metonymy_243",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私たちは、クラウンの決定に期待を寄せている。"
+    },
+    {
+        "id": "metonymy_244",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "議会は新しい法案を可決した。"
+    },
+    {
+        "id": "metonymy_245",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "本棚の古い書籍に手を伸ばし、ページをめくった。"
+    },
+    {
+        "id": "metonymy_246",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "先週末、私は友人と一緒にスポーツカーを運転した。赤い馬のエンブレムが輝く、あのイタリアの名門メーカーの車だ。"
+    },
+    {
+        "id": "metonymy_247",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私たちの学校は、最新のサーフィン技術を教えている。"
+    },
+    {
+        "id": "metonymy_248",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ステージは新しい音楽ジャンルを紹介した。"
+    },
+    {
+        "id": "metonymy_249",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ドローンレースの会場は、熱気に包まれていた。"
+    },
+    {
+        "id": "metonymy_250",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ガラスの器に注がれた透明な液体が、光を反射して輝いている。"
+    },
+    {
+        "id": "metonymy_251",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "バレエ団は新しい振付家を迎えた。(The ballet troupe welcomed a new choreographer.)"
+    },
+    {
+        "id": "metonymy_252",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "パリは、ファッションの最先端を行く都市として知られている。"
+    },
+    {
+        "id": "metonymy_253",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "首相官邸は、先週の閣議で重要な決定を下した。国民は、その決定に注目し、今後の政策動向を見守っている。"
+    },
+    {
+        "id": "metonymy_254",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "凧作りの伝統が息づく街で、職人たちが新しい作品を生み出していた。"
+    },
+    {
+        "id": "metonymy_255",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ゲームの結果を見て、チームの監督は喜びに満ちていた。選手たちの努力が報われたのだ。"
+    },
+    {
+        "id": "metonymy_256",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ベッドの上で、疲れた体を休めていた。"
+    },
+    {
+        "id": "metonymy_257",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "砂浜で彫刻家たちが熱心に作品を作っていた。彼らの手は真剣に砂を操っていた。"
+    },
+    {
+        "id": "metonymy_258",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ヨガの先生が新しいポーズを披露した。"
+    },
+    {
+        "id": "metonymy_259",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "王冠は国民の尊敬を集めている。"
+    },
+    {
+        "id": "metonymy_260",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ウィーンは、クラシック音楽の伝統を誇りに思っている。"
+    },
+    {
+        "id": "metonymy_261",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "街の喫煙所で、白い煙が上がっていた。"
+    },
+    {
+        "id": "metonymy_262",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "スポーツ界では、メダルを獲得した選手たちが称賛を浴びている。"
+    },
+    {
+        "id": "metonymy_263",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ローマ法王は、カトリック教会の最高指導者として、世界中の信者から尊崇されている。"
+    },
+    {
+        "id": "metonymy_264",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "クラウンは、国民の期待に応えるべく、重要な演説を行った。"
+    },
+    {
+        "id": "metonymy_265",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "彼女は新しいアパートに引っ越した。窓からは、シリコンバレーの高層ビルが見えるようになった。"
+    },
+    {
+        "id": "metonymy_266",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "地元のキャンパスでは、学生たちが熱心に勉強に励んでいる。"
+    },
+    {
+        "id": "metonymy_267",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "SNSでは、あの人気アーティストの新曲がトレンド入りしている。"
+    },
+    {
+        "id": "metonymy_268",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "遺伝子の研究は医療分野に大きな影響を与えている。"
+    },
+    {
+        "id": "metonymy_269",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "シリコンバレーは新しいテクノロジーの中心地となっている。"
+    },
+    {
+        "id": "metonymy_270",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "医療現場では、白衣が患者の命を救うために奮闘している。"
+    },
+    {
+        "id": "metonymy_271",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "カヤックの町は、水上スポーツの聖地として知られている。"
+    },
+    {
+        "id": "metonymy_272",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "シェフは、地元の食材を巧みに活かした料理を提供していた。"
+    },
+    {
+        "id": "metonymy_273",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ハリウッドは今年も話題作を次々と生み出した。観客は新作に熱狂した。"
+    },
+    {
+        "id": "metonymy_274",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "パラノーマル研究所は、不思議な現象を調査している。"
+    },
+    {
+        "id": "metonymy_275",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ハリウッドは新しい映画スターを発掘し続けている。(Hollywood continues to discover new movie stars.)"
+    },
+    {
+        "id": "metonymy_276",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "バレエ団の新しい振付家が、観客を魅了する革新的な作品を発表した。"
+    },
+    {
+        "id": "metonymy_277",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ガラス工芸の町として知られるあの地域で、新しいスタジオがオープンした。"
+    },
+    {
+        "id": "metonymy_278",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ガラス工芸家は、「フュージング」の技法を使って、美しい作品を生み出している。"
+    },
+    {
+        "id": "metonymy_279",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "天気予報では、低気圧が接近していると伝えられた。"
+    },
+    {
+        "id": "metonymy_280",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "有機農家は、自然の恵みを最大限に活かした作物を育てている。"
+    },
+    {
+        "id": "metonymy_281",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "森林保護団体は、木々の命を守るために懸命に活動している。"
+    },
+    {
+        "id": "metonymy_282",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "東京の街を歩いていると、スーツを着た人々が行き交う。その中には、ウォールストリートの動きを注視する銀行マンの姿も見られる。"
+    },
+    {
+        "id": "metonymy_283",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "健康意識の高まりから、ジムの会員数が増加傾向にある。鉄の殿堂で汗を流す人々が増えている。"
+    },
+    {
+        "id": "metonymy_284",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "遺伝子の設計図を読み解きながら、新しい可能性を探っていく。"
+    },
+    {
+        "id": "metonymy_285",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ビッグデータは私たちの生活を大きく変えつつある。"
+    },
+    {
+        "id": "metonymy_286",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "キャンパスは学生の活気に満ちている。(The campus is full of the energy of students.)"
+    },
+    {
+        "id": "metonymy_287",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "庭師は丁寧に香草を手入れしていた。彼の手つきは優雅だった。"
+    },
+    {
+        "id": "metonymy_288",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ミシンの音が響く工房では、熟練の職人たちが生み出す洗練された作品に見入る観客の視線が集まる。"
+    },
+    {
+        "id": "metonymy_289",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ドキュメンタリー映画監督は、撮影現場での出来事を生き生きと描いている。"
+    },
+    {
+        "id": "metonymy_290",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ホワイトハウスは、新大統領の就任に向けて準備を進めているという。"
+    },
+    {
+        "id": "metonymy_291",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "皇居の正門を通過するとき、天皇陛下の威厳を感じずにはいられない。"
+    },
+    {
+        "id": "metonymy_292",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ニューヨークは、世界有数の金融センターとして君臨し続けている。"
+    },
+    {
+        "id": "metonymy_293",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "フォーミュラワンは新しいレースを開催する。"
+    },
+    {
+        "id": "metonymy_294",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ベジタリアンの友人が、自分の健康のためにキャベツを多く取り入れていると話していた。"
+    },
+    {
+        "id": "metonymy_295",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "太極拳の稽古に励む人々の姿が、公園に点在している。静かな動作に集中する姿は美しい。"
+    },
+    {
+        "id": "metonymy_296",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ハリウッドは新作映画の公開を延期した。"
+    },
+    {
+        "id": "metonymy_297",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "映画ファンは、「ハリウッド」の最新作を待ち望んでいる。"
+    },
+    {
+        "id": "metonymy_298",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "皇室は、日本の伝統と文化を代表する存在である。"
+    },
+    {
+        "id": "metonymy_299",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "木工職人の手仕事は素晴らしい芸術作品のようだ。"
+    },
+    {
+        "id": "metonymy_300",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "あの絵画は、ルーブル美術館の代表作の一つだと聞いた。"
+    },
+    {
+        "id": "metonymy_301",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "写真家の作品展に行ってきた。そこで見た、自然の美しさを捉えた作品に感動した。"
+    },
+    {
+        "id": "metonymy_302",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ボールを上手く操るジャグラーの技は見事だ。"
+    },
+    {
+        "id": "metonymy_303",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私は先週、新しいカメラを買ったので、週末に自然の中を散歩しながら撮影を楽しんだ。"
+    },
+    {
+        "id": "metonymy_304",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "蜂の群れが花から花へと忙しく飛び交っていた。彼らは貴重な花粉を集めていた。"
+    },
+    {
+        "id": "metonymy_305",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "オーバルオフィスは重要な決定を下した。"
+    },
+    {
+        "id": "metonymy_306",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ワインを注ぐ店員の手つきは優雅だった。ボトルのラベルを見ると、フランスの田舎の風景が浮かんでくる。"
+    },
+    {
+        "id": "metonymy_307",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "キャンプ場の入り口で、テントの海を眺めていた。"
+    },
+    {
+        "id": "metonymy_308",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ワシントンは、外交政策の決定に慎重に取り組んでいる。"
+    },
+    {
+        "id": "metonymy_309",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ワインの都パリで、ソムリエが最高のペアリングを提案してくれた。"
+    },
+    {
+        "id": "metonymy_310",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "家族で集まる際は、いつも食卓を囲んで楽しい時間を過ごす。"
+    },
+    {
+        "id": "metonymy_311",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "庭師は丁寧に香草の手入れをしていた。彼の手つきは優雅で繊細だった。"
+    },
+    {
+        "id": "metonymy_312",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "警察は、あの事件の真相に迫るべく、捜査を続けている。"
+    },
+    {
+        "id": "metonymy_313",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ホリウッドは今年の映画賞レースで大きな話題を呼んでいる。"
+    },
+    {
+        "id": "metonymy_314",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私の隣人は毎日朝早くから庭の手入れをしている。彼は本当に素晴らしい盆栽の育て方を知っている。"
+    },
+    {
+        "id": "metonymy_315",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ジュネーブで開かれた会議では、各国の代表が活発な議論を交わした。"
+    },
+    {
+        "id": "metonymy_316",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "雨季になると、空が重たい雲に覆われる。"
+    },
+    {
+        "id": "metonymy_317",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "パラグライダーが空高く舞い上がり、大自然の中を自由に飛び回っていた。"
+    },
+    {
+        "id": "metonymy_318",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "キャンヌの赤いカーペットは、世界中の映画ファンの注目を集めている。"
+    },
+    {
+        "id": "metonymy_319",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "大統領府は新しい政策を発表しました。"
+    },
+    {
+        "id": "metonymy_320",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "あの有名な指揮者が、先週コンサートホールで素晴らしい演奏を披露した。"
+    },
+    {
+        "id": "metonymy_321",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "石鹸の都市は、手作りの石鹸を世界に送り出している。"
+    },
+    {
+        "id": "metonymy_322",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "東京の街を歩いていると、スーツを着た人々が行き交う。ビジネスの中心地、あの鉄の巨人が今日も活気に満ちている。"
+    },
+    {
+        "id": "metonymy_323",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "あの高級レストランは、新しいシェフを迎えて話題になっている。"
+    },
+    {
+        "id": "metonymy_324",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ハリウッドは、最新の映画情報を世界に発信し続けている。"
+    },
+    {
+        "id": "metonymy_325",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私たちは、この公園の緑豊かな景色を堪能した。"
+    },
+    {
+        "id": "metonymy_326",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "栄養士は、バランスの取れた食事を提案した。"
+    },
+    {
+        "id": "metonymy_327",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "コンサートホールは満席となり、観客の歓声が響き渡った。"
+    },
+    {
+        "id": "metonymy_328",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "首相官邸は新しい政策を発表した。"
+    },
+    {
+        "id": "metonymy_329",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "クラウンは国民の支持を失った。"
+    },
+    {
+        "id": "metonymy_330",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ウォールストリートの動きが世界経済に大きな影響を及ぼす。"
+    },
+    {
+        "id": "metonymy_331",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ホワイトハウスは先週、新しい政策を発表した。"
+    },
+    {
+        "id": "metonymy_332",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ウォールストリートは、株価の変動に敏感に反応していた。"
+    },
+    {
+        "id": "metonymy_333",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私たちの会社は、新しいオフィスに引っ越すことになった。"
+    },
+    {
+        "id": "metonymy_334",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "地域の劇場は満席となった。観客たちは演技に夢中になっていた。"
+    },
+    {
+        "id": "metonymy_335",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "陶芸家たちは京都の窯元で作品を制作している。"
+    },
+    {
+        "id": "metonymy_336",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ベルリンは再び世界的な注目を集めている。"
+    },
+    {
+        "id": "metonymy_337",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "鳥籠の中で、羽ばたく翼が音を立てていた。"
+    },
+    {
+        "id": "metonymy_338",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "新しいスマートフォンを手に入れた。ディスプレイの解像度が高く、写真撮影が楽しめそうだ。"
+    },
+    {
+        "id": "metonymy_339",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "DIYの達人は自作の家具を自慢げに見せていた。"
+    },
+    {
+        "id": "metonymy_340",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ウォール街は今日も株価の変動に敏感に反応していた。"
+    },
+    {
+        "id": "metonymy_341",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ハリウッドの新作映画が公開されるたび、映画ファンは熱狂的な反応を示す。映画産業の中心地の影響力は絶大だ。"
+    },
+    {
+        "id": "metonymy_342",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ウォール街の動向を注視する投資家たちは、株価の変動に神経を尖らせている。"
+    },
+    {
+        "id": "metonymy_343",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "文芸誌の編集部では、新鮮な感性を持つ若手作家の原稿が次々と届き、編集者たちが熱心に検討している。"
+    },
+    {
+        "id": "metonymy_344",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ファンタジーリーグで優勝を目指す彼は、毎週ベンチを見守っていた。"
+    },
+    {
+        "id": "metonymy_345",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ファンは熱狂的に歓声を上げた。ステージ上のアーティストが曲を披露すると、会場全体が一体となった。"
+    },
+    {
+        "id": "metonymy_346",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "文芸誌の編集部では、新人作家の投稿作品を熱心に読み込んでいる。"
+    },
+    {
+        "id": "metonymy_347",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ブログのコメント欄には、料理愛好家たちの熱い意見が寄せられている。その言葉に、シェフは励まされる。"
+    },
+    {
+        "id": "metonymy_348",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ウォール街は株価の下落に苦しんでいる。"
+    },
+    {
+        "id": "metonymy_349",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "スポーツジムで、汗を流しながらトレーニングに励んでいた。"
+    },
+    {
+        "id": "metonymy_350",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "手作りのキャンドルは温かみのある雰囲気を作り出す。"
+    },
+    {
+        "id": "metonymy_351",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "東京の街を歩いていると、スカイツリーが見えてきた。"
+    },
+    {
+        "id": "metonymy_352",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私たちの家族は、この週末、キャビンでゆっくりと過ごすつもりだ。"
+    },
+    {
+        "id": "metonymy_353",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "先日、私は友人と一緒に美術館に行った。ルーブルの傑作を鑑賞し、芸術の粋を堪能した。"
+    },
+    {
+        "id": "metonymy_354",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "フィールドワークを通して、民族の文化的特徴を深く理解することができた。"
+    },
+    {
+        "id": "metonymy_355",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "製薬会社は新薬の開発に力を入れている。"
+    },
+    {
+        "id": "metonymy_356",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "アルガルバイオ燃料は再生可能エネルギーの有望な選択肢となっている。"
+    },
+    {
+        "id": "metonymy_357",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ラジオは最新のヒット曲を紹介した。"
+    },
+    {
+        "id": "metonymy_358",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "クラウンは国民に向けて演説を行った。"
+    },
+    {
+        "id": "metonymy_359",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "新しい作品を発表したアカデミーは、批評家たちの注目を集めている。"
+    },
+    {
+        "id": "metonymy_360",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ホリウッドは新しい作品を発表した。"
+    },
+    {
+        "id": "metonymy_361",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私たちの地域のコミュニティガーデンは、毎年春に新しい植物を植えている。"
+    },
+    {
+        "id": "metonymy_362",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "民族学者たちは先住民の文化を詳しく調査している。"
+    },
+    {
+        "id": "metonymy_363",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "「シリコンバレー」は、世界最先端のテクノロジー企業が集まる場所として知られている。"
+    },
+    {
+        "id": "metonymy_364",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "観光客たちは、鎌倉の大仏に感動していた。"
+    },
+    {
+        "id": "metonymy_365",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "蜂の群れが花から花へと忙しく飛び回っていた。彼らは花粉を集めていた。"
+    },
+    {
+        "id": "metonymy_366",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "メディアは政治家の発言を大きく報道した。"
+    },
+    {
+        "id": "metonymy_367",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "遺伝子解析の結果が待ち遠しい。"
+    },
+    {
+        "id": "metonymy_368",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "家族の絆を感じながら、みんなで楽しい思い出を作ることができた。"
+    },
+    {
+        "id": "metonymy_369",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ハリウッドは今年の映画賞を発表しました。"
+    },
+    {
+        "id": "metonymy_370",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ハリウッドは新作映画の発表を待っている。"
+    },
+    {
+        "id": "metonymy_371",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ハリウッドは新しい作品を発表した。(Hollywood released a new film.)"
+    },
+    {
+        "id": "metonymy_372",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ベルサイユは、フランス革命の発端となった場所として知られている。"
+    },
+    {
+        "id": "metonymy_373",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ホワイトハウスは外交政策の変更を検討している。(The White House is considering changes to its foreign policy.)"
+    },
+    {
+        "id": "metonymy_374",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "子供たちは夢中でレゴブロックを組み立てていた。色とりどりのブロックが、想像力を刺激する作品を生み出していった。"
+    },
+    {
+        "id": "metonymy_375",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ミラノの高級ブランドが、最新のコレクションを発表した。"
+    },
+    {
+        "id": "metonymy_376",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ビールを醸造するのは楽しい趣味だ。"
+    },
+    {
+        "id": "metonymy_377",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "シリコンバレーは最新のテクノロジーを生み出し続けている。"
+    },
+    {
+        "id": "metonymy_378",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ブラシを走らせながら、キャンバスに色彩を重ねていく。"
+    },
+    {
+        "id": "metonymy_379",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ハリウッドは、最新の映画を公開した。"
+    },
+    {
+        "id": "metonymy_380",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "東京は新型コロナウイルスの感染者数が増加しているという報道を受け、オリンピック開催への懸念が高まっている。"
+    },
+    {
+        "id": "metonymy_381",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "サーフボードのデザインが話題になっている。"
+    },
+    {
+        "id": "metonymy_382",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "あの有名な料理人の名前が、メニューに並んでいるのを見つけた。"
+    },
+    {
+        "id": "metonymy_383",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "東京の街角で、ブラシを手に取りキャンバスに向かう若者の姿が見られる。絵筆は彼らの創造性を表す。"
+    },
+    {
+        "id": "metonymy_384",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "登山家たちは、エベレストの頂を目指して懸命に登っていた。"
+    },
+    {
+        "id": "metonymy_385",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "プロゲーマーたちは、eSportsの殿堂を目指して熱心に練習していた。"
+    },
+    {
+        "id": "metonymy_386",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "警備隊が城門を固めた。(The castle gate was fortified by the guard.)"
+    },
+    {
+        "id": "metonymy_387",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "絵筆を手に取り、キャンバスに向かう。"
+    },
+    {
+        "id": "metonymy_388",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "地方の小さな工場では、伝統的な製法を守り続けている。その手作りの品々は、地域の誇りとなっている。"
+    },
+    {
+        "id": "metonymy_389",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "あの花屋は、町で一番人気のある店なんだよ。"
+    },
+    {
+        "id": "metonymy_390",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "東京タワーは、日本の近代化と経済発展の象徴だ。"
+    },
+    {
+        "id": "metonymy_391",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ブロードウェイは、世界最高峰のミュージカル公演の舞台となっている。"
+    },
+    {
+        "id": "metonymy_392",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "映画館の前には、ファンが長蛇の列を作っていた。"
+    },
+    {
+        "id": "metonymy_393",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "国会議事堂の決定は、国民生活に大きな変化をもたらすことがある。"
+    },
+    {
+        "id": "metonymy_394",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ハリウッドの新作映画が公開されると、ファンたちは熱狂的に反応した。スターたちの華やかな姿に魅了されていた。"
+    },
+    {
+        "id": "metonymy_395",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "古い家具を修復するのは大変な作業だが、その過程で家具の歴史に触れることができる。"
+    },
+    {
+        "id": "metonymy_396",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "瞑想は心の健康に良いと言われている。"
+    },
+    {
+        "id": "metonymy_397",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "イースターエッグを探しに行きましょう。"
+    },
+    {
+        "id": "metonymy_398",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ハリウッドは新しい作品を発表した。"
+    },
+    {
+        "id": "metonymy_399",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "パフォーマンスアートを鑑賞するのは面白い体験です。"
+    },
+    {
+        "id": "metonymy_400",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ジャズダンスの世界で新しい才能が注目を集めている。"
+    },
+    {
+        "id": "metonymy_401",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "キッチンの調理台の上に、新鮮な野菜が並んでいた。"
+    },
+    {
+        "id": "metonymy_402",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "アストロバイオロジーは生命の起源について研究を進めている。"
+    },
+    {
+        "id": "metonymy_403",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "フットボールチームは新しい戦略を立てている。"
+    },
+    {
+        "id": "metonymy_404",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "東京の街は、新しい技術を受け入れるのが遅いと評判だ。"
+    },
+    {
+        "id": "metonymy_405",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ハリウッドは、最新のブロックバスター映画の製作に余念がない。"
+    },
+    {
+        "id": "metonymy_406",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ベランダから見える街並みに、夕日が染まっていった。"
+    },
+    {
+        "id": "metonymy_407",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "新しい医療技術の発展により、ホワイトコートたちは驚くべき成果を上げている。"
+    },
+    {
+        "id": "metonymy_408",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "映画祭の開幕を前に、監督たちは緊張の面持ちだ。スクリーンの前で作品を披露する機会を待ち望んでいる。"
+    },
+    {
+        "id": "metonymy_409",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "シリコンバレーは、世界最先端のテクノロジー企業が集まる地域として有名だ。"
+    },
+    {
+        "id": "metonymy_410",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ブログの投稿欄には、料理の写真とともに、シェフの思いが綴られている。その味わい深い文章に、読者は魅了される。"
+    },
+    {
+        "id": "metonymy_411",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ホワイトハウスは、先週の会議で重要な決定を下した。大統領は、外交政策の方向性を明確に示したと述べた。"
+    },
+    {
+        "id": "metonymy_412",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "裁縫教室では、針と糸を使って作品を仕上げていく。"
+    },
+    {
+        "id": "metonymy_413",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "チーズ工房は、伝統的な製法にこだわり、高品質な商品を生み出している。"
+    },
+    {
+        "id": "metonymy_414",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ライブハウスは熱気に包まれていた。ステージ上のバンドが観客を魅了していた。"
+    },
+    {
+        "id": "metonymy_415",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ホワイトハウスは昨日の会議で重要な決定を下した。"
+    },
+    {
+        "id": "metonymy_416",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "スキー場は、今シーズンの営業を早期に終了することを決めた。"
+    },
+    {
+        "id": "metonymy_417",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ヘナアーティストの手は、まるで絵画のように繊細な模様を描き出す。"
+    },
+    {
+        "id": "metonymy_418",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "スマートホームの導入で、家事の負担が大幅に軽減された。"
+    },
+    {
+        "id": "metonymy_419",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ヘナアーティストの手によって、女性たちの手には美しい模様が描かれる。"
+    },
+    {
+        "id": "metonymy_420",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "シリコンバレーの企業が、最新のテクノロジーを発表した。IT業界をリードする企業の革新的な取り組みに注目が集まった。"
+    },
+    {
+        "id": "metonymy_421",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私は美術館で素晴らしい絵画に出会った。キャンバスに描かれた情景が、まるで現実のようだった。"
+    },
+    {
+        "id": "metonymy_422",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ジャズダンスの振付師は新しいステップを考案中だ。"
+    },
+    {
+        "id": "metonymy_423",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "エスニック料理店では、香り高いスパイスが食欲をそそる。"
+    },
+    {
+        "id": "metonymy_424",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "オンラインゲームの世界大会が開催されると、プロゲーマーたちが熱戦を繰り広げる。ゲーム業界の頂点を目指す選手たちの活躍に注目が集まる。"
+    },
+    {
+        "id": "metonymy_425",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "緑豊かな森林は、地球の肺として私たちの生命を支えている。"
+    },
+    {
+        "id": "metonymy_426",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "新しい「地図」が完成したことで、探検家たちは未知の地域を目指すことができる。"
+    },
+    {
+        "id": "metonymy_427",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "紙の模様を手に取り、彼女は創造性に満ちた気分になった。自分の作品に愛着が湧いてきた。"
+    },
+    {
+        "id": "metonymy_428",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私の誕生日会には、家族全員が集まった。"
+    },
+    {
+        "id": "metonymy_429",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "窓の外を見ると、雲が空を覆っていた。"
+    },
+    {
+        "id": "metonymy_430",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "海辺の砂浜を歩きながら、波の音に耳を傾けていた。"
+    },
+    {
+        "id": "metonymy_431",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "チョコレート職人たちは、最高の品質を追求し続けている。"
+    },
+    {
+        "id": "metonymy_432",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "庭の木々が風に揺れ、緑の葉が輝いていた。"
+    },
+    {
+        "id": "metonymy_433",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ファッション業界では、パリコレクションの開催を控え、注目が集まっている。デザイナーたちは、最新のトレンドを発信しようと意気込んでいる。"
+    },
+    {
+        "id": "metonymy_434",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "語学交換プログラムに参加して新しい友達を作りましょう。"
+    },
+    {
+        "id": "metonymy_435",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ホワイトハウスは外交政策の変更を発表した。(The White House announced a change in foreign policy.)"
+    },
+    {
+        "id": "metonymy_436",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "王宮の庭園で、王族が優雅に散歩していた。"
+    },
+    {
+        "id": "metonymy_437",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私たちの会社は、新しい風力発電所の建設に取り組んでいる。"
+    },
+    {
+        "id": "metonymy_438",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ハリウッドは、最新の技術を駆使した映画を次々と生み出している。"
+    },
+    {
+        "id": "metonymy_439",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "老人ホームは、高齢者の世話に尽力している。"
+    },
+    {
+        "id": "metonymy_440",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "サウンドは新しい音響技術を披露した。"
+    },
+    {
+        "id": "metonymy_441",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "白い家は、アメリカ大統領の公的な居住地として知られている。"
+    },
+    {
+        "id": "metonymy_442",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ウォール街は株価の変動に敏感に反応する。(Wall Street is sensitive to fluctuations in stock prices.)"
+    },
+    {
+        "id": "metonymy_443",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "環境省は、再生可能エネルギーの利用拡大に向けた新しい施策を発表した。"
+    },
+    {
+        "id": "metonymy_444",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "白い家は新しい政策を発表した。"
+    },
+    {
+        "id": "metonymy_445",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "新しい宇宙開発プロジェクトが始動した。ケネディ宇宙センターでは、打ち上げに向けた準備が着々と進められている。"
+    },
+    {
+        "id": "metonymy_446",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ベルリンの壁の崩壊は、東西ドイツの統一への大きな一歩となった。"
+    },
+    {
+        "id": "metonymy_447",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "東京の街並みを眺めながら、新宿の喧噪に疲れを感じた。"
+    },
+    {
+        "id": "metonymy_448",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "先週、私は新しい家具を購入した。北欧の伝統を受け継ぐ、あのデザイン会社の製品だ。"
+    },
+    {
+        "id": "metonymy_449",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ロンドンのタワーブリッジを渡る途中、観光客たちは絶景に見とれていた。テムズ川の流れと調和する橋の姿に感動していた。"
+    },
+    {
+        "id": "metonymy_450",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "宇宙開発の最前線では、新たな発見が相次いでいる。宇宙船は未知の領域に挑み続けている。"
+    },
+    {
+        "id": "metonymy_451",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "SNSでは新製品の話題が盛り上がっていた。ユーザーたちが熱心に情報を共有していた。"
+    },
+    {
+        "id": "metonymy_452",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ブロガーたちは、オンラインで活発な議論を交わしていた。"
+    },
+    {
+        "id": "metonymy_453",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ロンドンは英国の文化的中心地として知られている。"
+    },
+    {
+        "id": "metonymy_454",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "皇室は、国民の尊敬と愛情を集めている。"
+    },
+    {
+        "id": "metonymy_455",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "地震が発生し、東京タワーが揺れ動いた。"
+    },
+    {
+        "id": "metonymy_456",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "SNSでは、あの有名人の投稿が大きな話題を呼んでいる。"
+    },
+    {
+        "id": "metonymy_457",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "文学フェスティバルの舞台では、ベストセラー作家の朗読が行われる。その声色に聴衆は魅了される。"
+    },
+    {
+        "id": "metonymy_458",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "シリコンバレーは、新しいテクノロジーの最前線を走り続けている。"
+    },
+    {
+        "id": "metonymy_459",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "警察は、この事件の捜査を続けている。"
+    },
+    {
+        "id": "metonymy_460",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "不動産会社の社長は、最新の物件情報を入手した。彼は、その情報を基に、有望な物件を見つけ出そうと考えている。"
+    },
+    {
+        "id": "metonymy_461",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ウォール街の株価の変動に注目しながら、経済の動向を分析していた。"
+    },
+    {
+        "id": "metonymy_462",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ノンアルコールドリンクを飲んで健康的に過ごしましょう。"
+    },
+    {
+        "id": "metonymy_463",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ガーデニングショップに行くと、多種多様な園芸用品が並んでいる。そこには、園芸愛好家たちの情熱が反映されている。"
+    },
+    {
+        "id": "metonymy_464",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "あの有名な絵画は、ルーブル美術館の代表作の一つだ。"
+    },
+    {
+        "id": "metonymy_465",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "「ロンドン」は、伝統的なファッションの発信地として、世界中から注目されている。"
+    },
+    {
+        "id": "metonymy_466",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私は、この会社の新しい製品を試してみたいと思っている。"
+    },
+    {
+        "id": "metonymy_467",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ホリウッドは、今年の夏に大ヒット作品を次々と生み出すことが期待されている。映画ファンは、その新作に注目している。"
+    },
+    {
+        "id": "metonymy_468",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "キャンドルを灯すと、優雅な雰囲気が広がった。"
+    },
+    {
+        "id": "metonymy_469",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "首相官邸は新型コロナウイルス対策について発表した。"
+    },
+    {
+        "id": "metonymy_470",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ホワイトハウスは、新しい政策を発表した。"
+    },
+    {
+        "id": "metonymy_471",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "自然は私たちに癒しを与えてくれる。"
+    },
+    {
+        "id": "metonymy_472",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "皇室は国民の尊敬を集めている。"
+    },
+    {
+        "id": "metonymy_473",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "建築家たちは新しい設計図を検討している。"
+    },
+    {
+        "id": "metonymy_474",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "首相官邸は、新しい経済政策の発表を控えているとの情報が流れている。"
+    },
+    {
+        "id": "metonymy_475",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "皇室は国民の尊敬を集めている。(The Imperial Household commands the respect of the people.)"
+    },
+    {
+        "id": "metonymy_476",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ダウンタウンの活気に魅了されながら、ウォール街の金融業界の動向を気にかけていた。"
+    },
+    {
+        "id": "metonymy_477",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "自然災害の被害に遭った地域に支援物資が届けられた。"
+    },
+    {
+        "id": "metonymy_478",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "デザイン事務所は、クライアントの要望に合わせて、インテリアの提案を行った。"
+    },
+    {
+        "id": "metonymy_479",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "優雅な舞台上で、バレリーナたちは観客の心を魅了し続けている。"
+    },
+    {
+        "id": "metonymy_480",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "白い粉末を丁寧に計量し、混ぜ合わせていく。"
+    },
+    {
+        "id": "metonymy_481",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "この地域の特産品は、香り高いスパイスで有名だ。"
+    },
+    {
+        "id": "metonymy_482",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ハリウッドは大作を送り出した。(Hollywood has released a blockbuster.)"
+    },
+    {
+        "id": "metonymy_483",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "私たちは、この地域の伝統工芸品を見に行くことにした。"
+    },
+    {
+        "id": "metonymy_484",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "人形劇の舞台は子供たちを魅了した。"
+    },
+    {
+        "id": "metonymy_485",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "東京は新型コロナウイルスの感染者数が増加しているという報道を見た。"
+    },
+    {
+        "id": "metonymy_486",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "首相官邸は、重要な決定を下したと発表した。"
+    },
+    {
+        "id": "metonymy_487",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "東京の街を歩いていると、シックなデザインの「シャネル」の店が目に入る。"
+    },
+    {
+        "id": "metonymy_488",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "手の中の鉛筆が私の創造性を表している。"
+    },
+    {
+        "id": "metonymy_489",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "小さな鉢の中で、根を伸ばしながら成長していく。"
+    },
+    {
+        "id": "metonymy_490",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "議会は新しい法案を可決した。(The Capitol passed a new bill.)"
+    },
+    {
+        "id": "metonymy_491",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "地下鉄は朝の通勤ラッシュで混雑している。"
+    },
+    {
+        "id": "metonymy_492",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "環境保護団体は、「リサイクル」の重要性を訴え続けている。"
+    },
+    {
+        "id": "metonymy_493",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "あのミュージシャンが、新しいアルバムをリリースすると発表した。"
+    },
+    {
+        "id": "metonymy_494",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "窯の中で赤く燃え上がる炎が、作品の表情を変えていく。"
+    },
+    {
+        "id": "metonymy_495",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "スクラップブッキングの世界には、無限の可能性が広がっている。"
+    },
+    {
+        "id": "metonymy_496",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "シリコンバレーは新しいテクノロジーを開発している。(Silicon Valley is developing new technology.)"
+    },
+    {
+        "id": "metonymy_497",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "メイカー文化は新しい製品を生み出し続けている。"
+    },
+    {
+        "id": "metonymy_498",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "先日、新しい電子機器を購入した。テクノロジーの最先端を行く、あのシリコンバレーの企業の製品だ。"
+    },
+    {
+        "id": "metonymy_499",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ボルシェは新しいスポーツカーを発表した。(Porsche unveiled a new sports car.)"
+    },
+    {
+        "id": "metonymy_500",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "飛行機は定刻通りに離陸した。"
+    },
+    {
+        "id": "metonymy_501",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "地元の酒蔵は、伝統的な製法にこだわった銘酒を生み出している。"
+    },
+    {
+        "id": "metonymy_502",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ウォール街は株式市場の動向を左右する重要な場所だ。"
+    },
+    {
+        "id": "metonymy_503",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "ニューヨークの街角で、アーティストたちが絵を描いている姿を見かけた。その創造性あふれる作品は、都会の活気を表現していた。"
+    },
+    {
+        "id": "metonymy_504",
+        "rhetorical_device": [
+            "metonymy"
+        ],
+        "text": "庭の薔薇が咲き誇っている。その赤い花びらは、春の到来を告げる。"
+    }
+]
