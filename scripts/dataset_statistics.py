@@ -10,7 +10,7 @@ def parse_args():
     return parser.parse_args()
 
 def collect_samples():
-    def collect_single_device_samples(directory='./data/raw/single_rhetoric_device'):
+    def collect_single_device_samples(directory='./data/raw/single_rhetorical_device'):
         json_files = glob.glob(os.path.join(directory, "*.json"))
         samples = []
 
@@ -22,7 +22,7 @@ def collect_samples():
         
         return samples
 
-    def collect_multiple_device_samples(directory='./data/raw/multiple_rhetoric_devices'):
+    def collect_multiple_device_samples(directory='./data/raw/multiple_rhetorical_devices'):
         json_files = glob.glob(os.path.join(directory, "*.json"))
         json_files.sort()
         samples = []
